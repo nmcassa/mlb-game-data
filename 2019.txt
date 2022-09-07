@@ -1,0 +1,2429 @@
+Oakland Athletics(0-0)@Seattle Mariners(0-0)^7#9
+Oakland Athletics(0-1)@Seattle Mariners(1-0)^4#5
+Cincinnati Reds(0-0)@Pittsburgh Pirates(0-0)^5#3
+Kansas City Royals(0-0)@Chicago White Sox(0-0)^5#3
+Los Angeles Dodgers(1--1)@Arizona Diamondbacks(-1-1)^12#5
+Miami Marlins(0-0)@Colorado Rockies(0-0)^3#6
+Milwaukee Brewers(0-0)@St. Louis Cardinals(0-0)^5#4
+Minnesota Twins(0-0)@Cleveland Indians(0-0)^2#0
+New York Yankees(0-0)@Baltimore Orioles(0-0)^7#2
+Oakland Athletics(0-2)@Los Angeles Angels(0-0)^4#0
+Philadelphia Phillies(1--1)@Atlanta Braves(-1-1)^10#4
+San Diego Padres(0-0)@San Francisco Giants(0-0)^2#0
+Seattle Mariners(3--1)@Boston Red Sox(-1-1)^12#4
+Tampa Bay Rays(0-0)@Houston Astros(0-0)^1#5
+Texas Rangers(-1-1)@Chicago Cubs(1--1)^4#12
+Toronto Blue Jays(0-0)@Detroit Tigers(0-0)^0#2
+Washington Nationals(0-0)@New York Mets(0-0)^0#2
+Los Angeles Dodgers(1-0)@Arizona Diamondbacks(0-1)^4#5
+Miami Marlins(0-1)@Colorado Rockies(1-0)^1#6
+Milwaukee Brewers(1-0)@St. Louis Cardinals(0-1)^5#9
+Oakland Athletics(1-2)@Los Angeles Angels(0-1)^2#6
+San Diego Padres(1-0)@San Francisco Giants(0-1)^4#1
+Seattle Mariners(3-0)@Boston Red Sox(0-1)^6#7
+Tampa Bay Rays(0-1)@Houston Astros(1-0)^4#2
+Toronto Blue Jays(0-1)@Detroit Tigers(1-0)^6#0
+Kansas City Royals(1-0)@Chicago White Sox(0-1)^8#6
+Los Angeles Dodgers(2-0)@Arizona Diamondbacks(0-2)^18#5
+Miami Marlins(0-2)@Colorado Rockies(2-0)^7#3
+Milwaukee Brewers(1-1)@St. Louis Cardinals(1-1)^4#2
+Minnesota Twins(1-0)@Cleveland Indians(0-1)^1#2
+New York Yankees(1-0)@Baltimore Orioles(0-1)^3#5
+Oakland Athletics(1-3)@Los Angeles Angels(1-1)^4#2
+Philadelphia Phillies(1-0)@Atlanta Braves(0-1)^8#6
+San Diego Padres(2-0)@San Francisco Giants(0-2)^2#3
+Seattle Mariners(3-1)@Boston Red Sox(1-1)^6#5
+Tampa Bay Rays(1-1)@Houston Astros(1-1)^3#1
+Texas Rangers(0-1)@Chicago Cubs(1-0)^8#6
+Toronto Blue Jays(1-1)@Detroit Tigers(1-1)^3#0
+Washington Nationals(-1-2)@New York Mets(2--1)^8#11
+Cincinnati Reds(1-0)@Pittsburgh Pirates(0-1)^0#5
+Kansas City Royals(2-0)@Chicago White Sox(0-2)^3#6
+Los Angeles Dodgers(2-1)@Arizona Diamondbacks(1-2)^8#7
+Miami Marlins(1-2)@Colorado Rockies(2-1)^3#0
+Milwaukee Brewers(2-1)@St. Louis Cardinals(1-2)^5#4
+Minnesota Twins(1-1)@Cleveland Indians(1-1)^9#3
+New York Yankees(1-1)@Baltimore Orioles(1-1)^5#7
+Oakland Athletics(2-3)@Los Angeles Angels(1-2)^2#1
+Philadelphia Phillies(2-0)@Atlanta Braves(0-2)^5#1
+San Diego Padres(2-1)@San Francisco Giants(1-2)^3#1
+Seattle Mariners(5-0)@Boston Red Sox(0-3)^10#8
+Tampa Bay Rays(2-1)@Houston Astros(1-2)^3#1
+Texas Rangers(1-1)@Chicago Cubs(1-1)^11#10
+Toronto Blue Jays(2-1)@Detroit Tigers(1-2)^3#4
+Washington Nationals(0-2)@New York Mets(2-0)^6#5
+Atlanta Braves(0-3)@Chicago Cubs(1-2)^8#0
+Cincinnati Reds(1-1)@Milwaukee Brewers(3-1)^3#4
+Cleveland Indians(1-2)@Chicago White Sox(1-2)^5#3
+Los Angeles Dodgers(3-1)@San Francisco Giants(1-3)^2#4
+Miami Marlins(2-2)@New York Mets(2-1)^3#7
+New York Yankees(1-2)@Detroit Tigers(2-2)^3#1
+Oakland Athletics(3-3)@Boston Red Sox(1-3)^7#0
+Pittsburgh Pirates(1-1)@St. Louis Cardinals(1-3)^5#6
+San Diego Padres(2-2)@Arizona Diamondbacks(2-2)^3#10
+Seattle Mariners(5-1)@Los Angeles Angels(1-3)^6#3
+Tampa Bay Rays(3-1)@Colorado Rockies(2-2)^7#1
+Texas Rangers(2-1)@Houston Astros(1-3)^1#2
+Toronto Blue Jays(2-2)@Baltimore Orioles(2-1)^5#6
+Cincinnati Reds(1-2)@Milwaukee Brewers(4-1)^3#4
+Kansas City Royals(2-1)@Minnesota Twins(2-1)^4#5
+Los Angeles Dodgers(3-2)@San Francisco Giants(2-3)^6#5
+Miami Marlins(2-3)@New York Mets(3-1)^5#6
+New York Yankees(2-2)@Detroit Tigers(2-3)^1#3
+Oakland Athletics(4-3)@Boston Red Sox(1-4)^1#0
+San Diego Padres(3-2)@Arizona Diamondbacks(2-3)^5#8
+Seattle Mariners(6-1)@Los Angeles Angels(1-4)^2#1
+Tampa Bay Rays(4-1)@Colorado Rockies(2-3)^4#0
+Texas Rangers(2-2)@Houston Astros(2-3)^6#4
+Toronto Blue Jays(2-3)@Baltimore Orioles(3-1)^1#2
+Washington Nationals(1-2)@Philadelphia Phillies(3-0)^2#8
+Atlanta Braves(1-3)@Chicago Cubs(1-3)^6#4
+Cincinnati Reds(1-3)@Milwaukee Brewers(5-1)^0#1
+Cleveland Indians(2-2)@Chicago White Sox(1-3)^3#8
+Kansas City Royals(2-2)@Minnesota Twins(3-1)^6#7
+Los Angeles Dodgers(4-2)@San Francisco Giants(2-4)^5#3
+Miami Marlins(2-4)@New York Mets(4-1)^4#6
+New York Yankees(2-3)@Detroit Tigers(3-3)^1#2
+Oakland Athletics(5-3)@Boston Red Sox(1-5)^3#6
+Pittsburgh Pirates(1-2)@St. Louis Cardinals(2-3)^4#5
+San Diego Padres(3-3)@Arizona Diamondbacks(3-3)^4#1
+Tampa Bay Rays(5-1)@Colorado Rockies(2-4)^0#1
+Texas Rangers(3-2)@Houston Astros(2-4)^4#0
+Toronto Blue Jays(2-4)@Baltimore Orioles(4-1)^5#3
+Washington Nationals(1-3)@Philadelphia Phillies(4-0)^9#8
+Los Angeles Angels(0-6)@Texas Rangers(5-1)^4#11
+Atlanta Braves(2-3)@Chicago Cubs(1-4)^9#4
+Baltimore Orioles(4-2)@New York Yankees(2-4)^4#8
+Cleveland Indians(2-3)@Toronto Blue Jays(3-4)^4#1
+Detroit Tigers(4-3)@Kansas City Royals(2-3)^5#4
+New York Mets(5-1)@Washington Nationals(2-3)^0#4
+Oakland Athletics(5-4)@Boston Red Sox(2-5)^7#3
+Pittsburgh Pirates(1-3)@Cincinnati Reds(1-4)^2#0
+Los Angeles Angels(1-6)@Texas Rangers(5-2)^3#1
+Arizona Diamondbacks(4-3)@Boston Red Sox(1-7)^15#8
+Atlanta Braves(3-3)@Miami Marlins(2-5)^4#0
+Chicago White Sox(3-2)@Seattle Mariners(6-2)^10#8
+Cleveland Indians(3-3)@Toronto Blue Jays(3-5)^3#2
+Colorado Rockies(2-5)@Los Angeles Dodgers(6-1)^6#10
+Houston Astros(2-5)@Oakland Athletics(6-4)^3#2
+Milwaukee Brewers(6-1)@Chicago Cubs(1-5)^13#10
+Philadelphia Phillies(5-0)@Minnesota Twins(3-2)^10#4
+Pittsburgh Pirates(2-3)@Cincinnati Reds(1-5)^2#0
+San Francisco Giants(2-5)@Tampa Bay Rays(5-2)^2#5
+St. Louis Cardinals(3-3)@San Diego Padres(4-3)^3#5
+Los Angeles Angels(2-6)@Texas Rangers(5-3)^5#1
+Arizona Diamondbacks(4-4)@Boston Red Sox(2-7)^5#4
+Atlanta Braves(4-3)@Miami Marlins(2-6)^2#4
+Baltimore Orioles(4-3)@New York Yankees(3-4)^4#6
+Chicago White Sox(3-3)@Seattle Mariners(7-2)^2#9
+Cleveland Indians(4-3)@Toronto Blue Jays(3-6)^7#2
+Colorado Rockies(3-5)@Los Angeles Dodgers(6-2)^2#7
+Detroit Tigers(5-3)@Kansas City Royals(2-4)^7#4
+Houston Astros(3-5)@Oakland Athletics(6-5)^6#0
+Milwaukee Brewers(6-2)@Chicago Cubs(2-5)^8#14
+New York Mets(5-2)@Washington Nationals(3-3)^6#5
+Philadelphia Phillies(5-1)@Minnesota Twins(4-2)^2#6
+Pittsburgh Pirates(3-3)@Cincinnati Reds(1-6)^6#5
+San Francisco Giants(2-6)@Tampa Bay Rays(6-2)^6#4
+St. Louis Cardinals(3-4)@San Diego Padres(5-3)^4#6
+Los Angeles Angels(3-6)@Texas Rangers(5-4)^7#2
+Arizona Diamondbacks(5-4)@Boston Red Sox(2-8)^0#1
+Atlanta Braves(4-4)@Miami Marlins(3-6)^4#3
+Baltimore Orioles(3-5)@New York Yankees(5-3)^3#15
+Chicago White Sox(2-5)@Seattle Mariners(9-1)^5#12
+Cleveland Indians(5-3)@Toronto Blue Jays(3-7)^3#1
+Colorado Rockies(2-7)@Los Angeles Dodgers(8-1)^6#12
+Detroit Tigers(6-3)@Kansas City Royals(2-5)^3#1
+Houston Astros(4-5)@Oakland Athletics(6-6)^9#8
+Milwaukee Brewers(7-2)@Chicago Cubs(2-6)^4#2
+New York Mets(5-3)@Washington Nationals(4-3)^9#12
+Philadelphia Phillies(5-2)@Minnesota Twins(5-2)^2#1
+Pittsburgh Pirates(4-3)@Cincinnati Reds(1-7)^7#5
+San Francisco Giants(3-6)@Tampa Bay Rays(6-3)^0#3
+St. Louis Cardinals(3-5)@San Diego Padres(6-3)^4#1
+Los Angeles Angels(4-6)@Milwaukee Brewers(8-2)^5#2
+Baltimore Orioles(5-4)@Oakland Athletics(5-8)^12#4
+Chicago White Sox(3-5)@Tampa Bay Rays(7-3)^1#5
+Chicago Cubs(2-7)@Pittsburgh Pirates(5-3)^10#0
+Colorado Rockies(3-7)@Atlanta Braves(5-4)^6#8
+Houston Astros(5-5)@New York Yankees(5-4)^4#3
+Kansas City Royals(1-7)@Seattle Mariners(10-1)^5#13
+Philadelphia Phillies(6-2)@Washington Nationals(4-4)^4#3
+San Francisco Giants(3-7)@San Diego Padres(6-4)^5#6
+St. Louis Cardinals(4-5)@Los Angeles Dodgers(8-2)^4#3
+Los Angeles Angels(6-5)@Milwaukee Brewers(7-4)^11#8
+Arizona Diamondbacks(5-5)@Texas Rangers(5-5)^5#4
+Baltimore Orioles(4-6)@Oakland Athletics(7-7)^2#13
+Boston Red Sox(3-8)@Toronto Blue Jays(3-8)^5#7
+Chicago White Sox(2-7)@Tampa Bay Rays(9-2)^5#10
+Cincinnati Reds(1-8)@Miami Marlins(3-7)^14#0
+Colorado Rockies(3-8)@Atlanta Braves(6-4)^1#7
+Detroit Tigers(7-3)@Cleveland Indians(6-3)^2#8
+Houston Astros(6-5)@New York Yankees(5-5)^6#3
+Kansas City Royals(2-7)@Seattle Mariners(10-2)^3#6
+New York Mets(5-4)@Minnesota Twins(6-2)^8#14
+Philadelphia Phillies(6-3)@Washington Nationals(5-4)^6#10
+San Francisco Giants(3-8)@San Diego Padres(7-4)^7#2
+St. Louis Cardinals(5-5)@Los Angeles Dodgers(8-3)^4#0
+Los Angeles Angels(6-6)@Milwaukee Brewers(8-4)^4#2
+Arizona Diamondbacks(6-5)@Texas Rangers(5-6)^2#5
+Baltimore Orioles(4-7)@Oakland Athletics(8-7)^3#10
+Chicago White Sox(3-7)@Tampa Bay Rays(9-3)^1#9
+Chicago Cubs(3-7)@Pittsburgh Pirates(5-4)^2#5
+Cincinnati Reds(2-8)@Miami Marlins(3-8)^2#1
+Detroit Tigers(7-4)@Cleveland Indians(7-3)^4#1
+Houston Astros(7-5)@New York Yankees(5-6)^8#6
+Kansas City Royals(2-8)@Seattle Mariners(11-2)^5#6
+New York Mets(6-4)@Minnesota Twins(6-3)^9#6
+Philadelphia Phillies(7-3)@Washington Nationals(5-5)^1#15
+San Francisco Giants(4-8)@San Diego Padres(7-5)^1#3
+St. Louis Cardinals(6-5)@Los Angeles Dodgers(8-4)^7#2
+Arizona Diamondbacks(6-6)@San Diego Padres(8-5)^6#7
+Atlanta Braves(7-4)@New York Mets(7-4)^3#6
+Baltimore Orioles(5-7)@Oakland Athletics(8-8)^5#8
+Boston Red Sox(3-9)@Toronto Blue Jays(4-8)^7#6
+Chicago Cubs(3-8)@Pittsburgh Pirates(6-4)^2#0
+Cincinnati Reds(3-8)@Miami Marlins(3-9)^5#0
+Detroit Tigers(8-4)@Cleveland Indians(7-4)^0#4
+Kansas City Royals(2-9)@Seattle Mariners(12-2)^6#7
+San Francisco Giants(4-9)@Colorado Rockies(3-9)^1#0
+St. Louis Cardinals(8-4)@Los Angeles Dodgers(7-6)^11#7
+Arizona Diamondbacks(6-7)@San Diego Padres(9-5)^1#2
+Atlanta Braves(7-5)@New York Mets(8-4)^2#6
+Boston Red Sox(4-9)@Baltimore Orioles(5-8)^6#4
+Chicago Cubs(4-8)@Los Angeles Angels(7-6)^5#1
+Kansas City Royals(2-10)@Cleveland Indians(8-4)^8#1
+Los Angeles Dodgers(8-6)@Milwaukee Brewers(8-5)^5#8
+Miami Marlins(3-10)@Philadelphia Phillies(7-4)^1#9
+New York Yankees(5-7)@Chicago White Sox(3-8)^6#9
+Seattle Mariners(12-3)@Houston Astros(9-4)^6#10
+San Francisco Giants(5-9)@Colorado Rockies(3-10)^3#2
+Texas Rangers(6-6)@Oakland Athletics(9-8)^6#8
+Toronto Blue Jays(3-10)@Tampa Bay Rays(11-2)^7#11
+Washington Nationals(6-5)@Pittsburgh Pirates(6-5)^3#6
+Arizona Diamondbacks(6-8)@San Diego Padres(10-5)^4#5
+Atlanta Braves(8-5)@New York Mets(8-5)^11#7
+Boston Red Sox(5-9)@Baltimore Orioles(5-9)^5#9
+Chicago Cubs(5-8)@Los Angeles Angels(7-7)^5#6
+Cincinnati Reds(4-8)@St. Louis Cardinals(8-5)^5#2
+Kansas City Royals(3-10)@Cleveland Indians(8-5)^3#0
+Los Angeles Dodgers(8-7)@Milwaukee Brewers(9-5)^1#4
+Miami Marlins(4-10)@Philadelphia Phillies(7-5)^10#3
+Minnesota Twins(6-4)@Detroit Tigers(8-5)^4#3
+New York Yankees(5-8)@Chicago White Sox(4-8)^4#0
+Seattle Mariners(13-3)@Houston Astros(9-5)^1#3
+San Francisco Giants(6-9)@Colorado Rockies(3-11)^5#2
+Toronto Blue Jays(4-10)@Tampa Bay Rays(11-3)^3#1
+Washington Nationals(6-6)@Pittsburgh Pirates(7-5)^3#2
+Arizona Diamondbacks(6-9)@San Diego Padres(11-5)^8#4
+Atlanta Braves(8-6)@New York Mets(9-5)^7#3
+Boston Red Sox(5-10)@Baltimore Orioles(6-9)^4#0
+Cincinnati Reds(5-8)@St. Louis Cardinals(8-6)^5#9
+Kansas City Royals(4-10)@Cleveland Indians(8-6)^9#8
+Los Angeles Dodgers(8-8)@Milwaukee Brewers(10-5)^7#1
+Miami Marlins(4-11)@Philadelphia Phillies(8-5)^1#3
+Minnesota Twins(7-4)@Detroit Tigers(8-6)^6#4
+New York Yankees(6-8)@Chicago White Sox(4-9)^2#5
+Seattle Mariners(13-4)@Houston Astros(10-5)^2#3
+San Francisco Giants(7-9)@Colorado Rockies(3-12)^0#4
+Texas Rangers(6-7)@Oakland Athletics(10-8)^8#7
+Toronto Blue Jays(5-10)@Tampa Bay Rays(11-4)^4#8
+Washington Nationals(7-6)@Pittsburgh Pirates(7-6)^3#4
+Boston Red Sox(6-10)@Baltimore Orioles(6-10)^1#8
+Chicago White Sox(5-9)@Kansas City Royals(5-10)^5#4
+Los Angeles Dodgers(9-8)@Cincinnati Reds(5-9)^4#3
+Miami Marlins(4-12)@Chicago Cubs(5-9)^2#7
+Milwaukee Brewers(11-5)@St. Louis Cardinals(8-7)^10#7
+Minnesota Twins(8-4)@Toronto Blue Jays(5-11)^3#5
+Philadelphia Phillies(9-5)@New York Mets(9-6)^6#7
+San Diego Padres(11-6)@Colorado Rockies(4-12)^2#5
+Seattle Mariners(13-5)@Cleveland Indians(8-7)^4#6
+Texas Rangers(8-6)@Los Angeles Angels(7-8)^12#7
+Atlanta Braves(9-6)@Arizona Diamondbacks(7-9)^6#9
+Chicago White Sox(6-9)@Kansas City Royals(5-11)^5#1
+Detroit Tigers(8-7)@Pittsburgh Pirates(8-6)^3#5
+Los Angeles Dodgers(10-8)@Cincinnati Reds(5-10)^6#1
+Miami Marlins(4-13)@Chicago Cubs(6-9)^0#4
+Milwaukee Brewers(11-6)@St. Louis Cardinals(9-7)^8#4
+Minnesota Twins(8-5)@Toronto Blue Jays(6-11)^5#6
+New York Yankees(6-9)@Boston Red Sox(6-11)^8#0
+Oakland Athletics(10-9)@Houston Astros(11-5)^1#9
+Philadelphia Phillies(10-5)@New York Mets(9-7)^14#3
+San Diego Padres(11-7)@Colorado Rockies(5-12)^2#8
+Seattle Mariners(13-6)@Cleveland Indians(9-7)^2#4
+Tampa Bay Rays(12-4)@Baltimore Orioles(7-10)^4#2
+Texas Rangers(8-7)@Los Angeles Angels(8-8)^5#0
+Washington Nationals(7-7)@San Francisco Giants(7-10)^3#7
+Atlanta Braves(9-7)@Arizona Diamondbacks(8-9)^2#3
+Chicago White Sox(7-9)@Kansas City Royals(5-12)^3#4
+Detroit Tigers(8-8)@Pittsburgh Pirates(9-6)^2#3
+Los Angeles Dodgers(11-8)@Cincinnati Reds(5-11)^3#2
+Miami Marlins(4-14)@Chicago Cubs(7-9)^0#6
+Milwaukee Brewers(12-6)@St. Louis Cardinals(9-8)^3#6
+Minnesota Twins(8-6)@Toronto Blue Jays(7-11)^4#1
+New York Yankees(7-9)@Boston Red Sox(6-12)^5#3
+Oakland Athletics(10-10)@Houston Astros(12-5)^2#1
+Philadelphia Phillies(10-6)@New York Mets(10-7)^3#2
+Seattle Mariners(13-7)@Cleveland Indians(10-7)^0#1
+Tampa Bay Rays(13-4)@Baltimore Orioles(7-11)^8#1
+Texas Rangers(9-7)@Los Angeles Angels(8-9)^5#4
+Washington Nationals(7-8)@San Francisco Giants(8-10)^9#6
+Los Angeles Angels(8-10)@Seattle Mariners(13-8)^10#11
+Atlanta Braves(9-8)@Arizona Diamondbacks(9-9)^1#4
+Colorado Rockies(6-12)@Philadelphia Phillies(11-6)^6#2
+Detroit Tigers(8-9)@Chicago White Sox(7-10)^9#7
+Milwaukee Brewers(12-7)@Los Angeles Dodgers(12-8)^1#3
+Minnesota Twins(9-6)@Toronto Blue Jays(7-12)^4#7
+New York Yankees(8-9)@Kansas City Royals(6-12)^1#6
+San Diego Padres(11-8)@Cincinnati Reds(5-12)^1#4
+Tampa Bay Rays(14-4)@Baltimore Orioles(7-12)^5#6
+Washington Nationals(8-8)@San Francisco Giants(8-11)^4#2
+Los Angeles Angels(8-11)@Seattle Mariners(14-8)^3#5
+Chicago Cubs(8-9)@Arizona Diamondbacks(10-9)^5#1
+Colorado Rockies(7-12)@Philadelphia Phillies(11-7)^4#3
+Detroit Tigers(9-9)@Chicago White Sox(7-11)^3#7
+Miami Marlins(4-15)@Washington Nationals(9-8)^3#2
+Milwaukee Brewers(12-8)@Los Angeles Dodgers(13-8)^3#5
+New York Yankees(8-10)@Kansas City Royals(7-12)^6#2
+Oakland Athletics(11-10)@Toronto Blue Jays(8-12)^1#5
+Pittsburgh Pirates(10-6)@San Francisco Giants(8-12)^4#1
+San Diego Padres(11-9)@Cincinnati Reds(6-12)^2#3
+St. Louis Cardinals(10-8)@New York Mets(10-8)^4#5
+Tampa Bay Rays(14-5)@Boston Red Sox(6-13)^4#6
+Texas Rangers(10-7)@Houston Astros(12-6)^2#7
+Los Angeles Angels(8-12)@Seattle Mariners(15-8)^5#6
+Baltimore Orioles(8-12)@Minnesota Twins(9-7)^5#6
+Baltimore Orioles(7-14)@Minnesota Twins(11-6)^7#16
+Chicago Cubs(9-9)@Arizona Diamondbacks(10-10)^0#6
+Cleveland Indians(11-7)@Atlanta Braves(9-9)^8#4
+Cleveland Indians(12-7)@Atlanta Braves(9-10)^7#8
+Colorado Rockies(8-12)@Philadelphia Phillies(11-8)^5#8
+Miami Marlins(5-15)@Washington Nationals(9-9)^9#3
+Milwaukee Brewers(12-9)@Los Angeles Dodgers(14-8)^5#0
+New York Yankees(9-10)@Kansas City Royals(7-13)^9#2
+Oakland Athletics(11-11)@Toronto Blue Jays(9-12)^1#10
+Pittsburgh Pirates(11-6)@San Francisco Giants(8-13)^3#1
+San Diego Padres(11-10)@Cincinnati Reds(7-12)^2#4
+St. Louis Cardinals(11-8)@New York Mets(10-9)^10#2
+Tampa Bay Rays(14-6)@Boston Red Sox(7-13)^5#6
+Texas Rangers(10-8)@Houston Astros(13-6)^9#4
+Los Angeles Angels(8-13)@Seattle Mariners(16-8)^8#6
+Baltimore Orioles(8-14)@Minnesota Twins(11-7)^3#4
+Chicago Cubs(9-10)@Arizona Diamondbacks(11-10)^2#1
+Cleveland Indians(11-9)@Atlanta Braves(11-9)^5#11
+Colorado Rockies(8-13)@Philadelphia Phillies(12-8)^4#1
+Detroit Tigers(9-10)@Chicago White Sox(8-11)^4#3
+Miami Marlins(6-15)@Washington Nationals(9-10)^0#5
+Milwaukee Brewers(13-9)@Los Angeles Dodgers(14-9)^5#6
+New York Yankees(10-10)@Kansas City Royals(7-14)^7#6
+Oakland Athletics(11-12)@Toronto Blue Jays(10-12)^4#5
+Pittsburgh Pirates(12-6)@San Francisco Giants(8-14)^2#3
+San Diego Padres(11-11)@Cincinnati Reds(8-12)^4#3
+St. Louis Cardinals(11-9)@New York Mets(11-9)^6#4
+Tampa Bay Rays(14-7)@Boston Red Sox(8-13)^3#4
+Texas Rangers(11-8)@Houston Astros(13-7)^11#10
+Los Angeles Angels(9-13)@New York Yankees(11-10)^3#4
+Baltimore Orioles(7-16)@Chicago White Sox(9-11)^2#12
+Colorado Rockies(9-13)@Washington Nationals(10-10)^7#5
+Houston Astros(13-8)@Minnesota Twins(12-7)^5#9
+New York Mets(11-10)@Philadelphia Phillies(12-9)^5#1
+Oakland Athletics(11-13)@Texas Rangers(12-8)^6#1
+Pittsburgh Pirates(11-8)@Arizona Diamondbacks(12-10)^4#12
+St. Louis Cardinals(13-8)@Milwaukee Brewers(12-11)^13#5
+Tampa Bay Rays(14-8)@Kansas City Royals(7-15)^6#3
+Los Angeles Angels(9-14)@New York Yankees(12-10)^5#7
+Baltimore Orioles(8-16)@Chicago White Sox(9-12)^9#1
+Boston Red Sox(9-13)@Detroit Tigers(10-10)^4#7
+Boston Red Sox(9-14)@Detroit Tigers(11-10)^2#4
+Chicago Cubs(10-10)@Los Angeles Dodgers(15-9)^7#2
+Cincinnati Reds(8-13)@Atlanta Braves(11-10)^7#6
+Cleveland Indians(12-9)@Miami Marlins(6-16)^1#3
+Colorado Rockies(10-13)@Washington Nationals(10-11)^3#6
+Houston Astros(14-8)@Minnesota Twins(12-8)^10#4
+New York Mets(12-10)@Philadelphia Phillies(12-10)^9#0
+Oakland Athletics(13-12)@Texas Rangers(11-10)^11#5
+Pittsburgh Pirates(12-8)@Arizona Diamondbacks(12-11)^1#2
+San Diego Padres(12-11)@Seattle Mariners(16-9)^6#3
+St. Louis Cardinals(13-9)@Milwaukee Brewers(13-11)^4#3
+Tampa Bay Rays(15-8)@Kansas City Royals(7-16)^5#2
+Toronto Blue Jays(11-12)@San Francisco Giants(9-14)^6#7
+Los Angeles Angels(9-15)@New York Yankees(13-10)^5#6
+Baltimore Orioles(9-16)@Chicago White Sox(9-13)^4#3
+Boston Red Sox(10-14)@Detroit Tigers(11-11)^11#4
+Chicago Cubs(11-10)@Los Angeles Dodgers(15-10)^7#6
+Cincinnati Reds(9-13)@Atlanta Braves(11-11)^1#3
+Cleveland Indians(12-10)@Miami Marlins(7-16)^6#2
+Colorado Rockies(10-14)@Washington Nationals(11-11)^9#5
+Houston Astros(14-9)@Minnesota Twins(13-8)^7#1
+New York Mets(13-10)@Philadelphia Phillies(12-11)^0#6
+Oakland Athletics(13-13)@Texas Rangers(12-10)^6#5
+Pittsburgh Pirates(11-10)@Arizona Diamondbacks(14-10)^2#11
+San Diego Padres(13-11)@Seattle Mariners(16-10)^1#0
+St. Louis Cardinals(14-9)@Milwaukee Brewers(13-12)^5#2
+Tampa Bay Rays(15-9)@Kansas City Royals(8-16)^2#10
+Toronto Blue Jays(11-13)@San Francisco Giants(10-14)^0#4
+Los Angeles Angels(10-15)@New York Yankees(13-11)^11#5
+Boston Red Sox(10-15)@Detroit Tigers(12-11)^7#3
+Chicago Cubs(12-10)@Los Angeles Dodgers(15-11)^1#2
+Cincinnati Reds(9-14)@Atlanta Braves(12-11)^4#2
+Houston Astros(15-9)@Cleveland Indians(13-10)^1#2
+Philadelphia Phillies(13-11)@Miami Marlins(7-17)^1#3
+Pittsburgh Pirates(12-10)@Arizona Diamondbacks(14-11)^0#5
+Seattle Mariners(17-10)@Texas Rangers(11-12)^14#2
+Arizona Diamondbacks(15-11)@Chicago Cubs(12-11)^8#3
+Atlanta Braves(12-12)@Colorado Rockies(11-14)^4#8
+Chicago White Sox(9-14)@Detroit Tigers(12-12)^12#11
+Houston Astros(15-10)@Cleveland Indians(14-10)^3#6
+Kansas City Royals(8-17)@Los Angeles Angels(10-16)^1#5
+Los Angeles Dodgers(16-11)@Pittsburgh Pirates(12-11)^6#2
+Minnesota Twins(13-9)@Baltimore Orioles(10-16)^6#1
+New York Mets(12-12)@Milwaukee Brewers(14-12)^2#10
+Philadelphia Phillies(13-12)@Miami Marlins(8-17)^4#0
+Seattle Mariners(17-11)@Texas Rangers(12-12)^5#4
+San Francisco Giants(11-14)@New York Yankees(14-11)^3#7
+St. Louis Cardinals(15-9)@Cincinnati Reds(10-14)^1#12
+Toronto Blue Jays(11-14)@Oakland Athletics(14-13)^4#2
+Washington Nationals(11-12)@San Diego Padres(14-11)^3#4
+Arizona Diamondbacks(16-11)@Chicago Cubs(12-12)^1#9
+Atlanta Braves(12-13)@Colorado Rockies(12-14)^5#9
+Boston Red Sox(11-15)@Tampa Bay Rays(16-9)^1#2
+Houston Astros(15-11)@Cleveland Indians(15-10)^4#3
+Kansas City Royals(8-18)@Los Angeles Angels(11-16)^9#4
+Los Angeles Dodgers(17-11)@Pittsburgh Pirates(12-12)^3#1
+Minnesota Twins(14-9)@Baltimore Orioles(10-17)^9#2
+New York Mets(13-12)@Milwaukee Brewers(14-13)^6#8
+Philadelphia Phillies(15-11)@Miami Marlins(7-19)^12#9
+Seattle Mariners(18-11)@Texas Rangers(12-13)^1#15
+San Francisco Giants(11-15)@New York Yankees(15-11)^4#6
+St. Louis Cardinals(15-10)@Cincinnati Reds(11-14)^6#3
+Toronto Blue Jays(12-14)@Oakland Athletics(14-14)^7#1
+Washington Nationals(11-13)@San Diego Padres(15-11)^3#8
+Arizona Diamondbacks(16-12)@Chicago Cubs(13-12)^5#6
+Atlanta Braves(12-14)@Colorado Rockies(13-14)^8#7
+Boston Red Sox(11-16)@Tampa Bay Rays(17-9)^2#5
+Chicago White Sox(10-14)@Detroit Tigers(12-13)^4#1
+Houston Astros(16-11)@Cleveland Indians(15-11)^4#1
+Kansas City Royals(9-18)@Los Angeles Angels(11-17)^3#7
+Los Angeles Dodgers(18-11)@Pittsburgh Pirates(12-13)^7#6
+Minnesota Twins(15-9)@Baltimore Orioles(10-18)^4#1
+New York Mets(13-13)@Milwaukee Brewers(15-13)^5#2
+Philadelphia Phillies(15-12)@Miami Marlins(8-19)^5#1
+Seattle Mariners(18-12)@Texas Rangers(13-13)^1#14
+San Francisco Giants(10-17)@New York Yankees(17-10)^5#11
+St. Louis Cardinals(16-10)@Cincinnati Reds(11-15)^5#2
+Toronto Blue Jays(13-14)@Oakland Athletics(14-15)^5#4
+Washington Nationals(11-14)@San Diego Padres(16-11)^7#6
+Atlanta Braves(13-14)@San Diego Padres(16-12)^3#1
+Boston Red Sox(11-17)@Oakland Athletics(14-16)^9#4
+Chicago White Sox(11-14)@Baltimore Orioles(10-19)^5#3
+Kansas City Royals(9-19)@Tampa Bay Rays(18-9)^5#8
+Milwaukee Brewers(15-14)@Colorado Rockies(13-15)^5#1
+Minnesota Twins(16-9)@Houston Astros(17-11)^1#0
+New York Mets(14-13)@Cincinnati Reds(11-16)^4#5
+San Francisco Giants(11-17)@Los Angeles Dodgers(19-11)^3#2
+Washington Nationals(12-14)@St. Louis Cardinals(17-10)^3#6
+Los Angeles Angels(12-17)@Toronto Blue Jays(14-14)^4#3
+Arizona Diamondbacks(16-13)@New York Yankees(17-11)^3#1
+Atlanta Braves(14-14)@San Diego Padres(16-13)^3#4
+Boston Red Sox(12-17)@Oakland Athletics(14-17)^5#1
+Miami Marlins(8-20)@Cleveland Indians(15-12)^4#7
+Milwaukee Brewers(16-14)@Colorado Rockies(13-16)^4#3
+Minnesota Twins(17-9)@Houston Astros(17-12)^0#11
+New York Mets(14-14)@Cincinnati Reds(12-16)^4#3
+Philadelphia Phillies(16-12)@Detroit Tigers(12-14)^1#3
+Seattle Mariners(18-13)@Chicago Cubs(14-12)^5#6
+San Francisco Giants(11-18)@Los Angeles Dodgers(20-11)^3#10
+Texas Rangers(14-13)@Pittsburgh Pirates(12-14)^4#6
+Washington Nationals(12-15)@St. Louis Cardinals(18-10)^2#3
+Los Angeles Angels(13-17)@Toronto Blue Jays(14-15)^6#3
+Arizona Diamondbacks(17-13)@New York Yankees(17-12)^3#2
+Atlanta Braves(14-15)@San Diego Padres(17-13)^5#1
+Boston Red Sox(13-17)@Oakland Athletics(14-18)^7#3
+Chicago White Sox(12-14)@Baltimore Orioles(10-20)^4#5
+Chicago White Sox(12-15)@Baltimore Orioles(11-20)^7#6
+Kansas City Royals(9-20)@Tampa Bay Rays(19-9)^3#2
+Kansas City Royals(10-20)@Tampa Bay Rays(19-10)^8#2
+Miami Marlins(8-21)@Cleveland Indians(16-12)^4#2
+Milwaukee Brewers(16-15)@Colorado Rockies(14-16)^4#11
+Minnesota Twins(17-10)@Houston Astros(18-12)^6#2
+New York Mets(15-14)@Cincinnati Reds(12-17)^0#1
+Philadelphia Phillies(16-13)@Detroit Tigers(13-14)^7#3
+Seattle Mariners(18-14)@Chicago Cubs(15-12)^0#11
+San Francisco Giants(12-18)@Los Angeles Dodgers(20-12)^2#1
+Texas Rangers(14-14)@Pittsburgh Pirates(13-14)^5#7
+Washington Nationals(12-16)@St. Louis Cardinals(19-10)^1#5
+Los Angeles Angels(14-17)@Toronto Blue Jays(14-16)^6#2
+Atlanta Braves(14-16)@San Diego Padres(18-13)^2#11
+Chicago White Sox(13-15)@Boston Red Sox(14-17)^6#4
+Kansas City Royals(11-20)@Tampa Bay Rays(19-11)^1#3
+Milwaukee Brewers(16-16)@Colorado Rockies(15-16)^6#11
+Minnesota Twins(18-10)@Houston Astros(18-13)^8#2
+New York Mets(15-15)@Cincinnati Reds(13-17)^1#0
+Washington Nationals(12-17)@St. Louis Cardinals(20-10)^2#1
+Baltimore Orioles(11-21)@Tampa Bay Rays(20-11)^0#7
+Chicago White Sox(14-15)@Boston Red Sox(14-18)^1#6
+Chicago Cubs(16-12)@St. Louis Cardinals(20-11)^4#0
+Cincinnati Reds(13-18)@San Francisco Giants(13-18)^11#12
+Cleveland Indians(16-13)@Seattle Mariners(18-15)^2#1
+Colorado Rockies(14-18)@Arizona Diamondbacks(19-12)^9#10
+Detroit Tigers(13-15)@Kansas City Royals(11-21)^4#3
+Miami Marlins(9-21)@Atlanta Braves(15-16)^2#7
+Milwaukee Brewers(17-16)@New York Mets(16-15)^3#1
+New York Yankees(17-13)@Minnesota Twins(19-10)^6#3
+Philadelphia Phillies(17-13)@Washington Nationals(13-17)^4#2
+Pittsburgh Pirates(14-14)@Oakland Athletics(14-19)^1#14
+San Diego Padres(18-14)@Los Angeles Dodgers(20-13)^3#4
+Texas Rangers(14-15)@Toronto Blue Jays(14-17)^0#1
+Los Angeles Angels(14-18)@Houston Astros(19-13)^2#14
+Baltimore Orioles(11-22)@Tampa Bay Rays(21-11)^3#0
+Chicago White Sox(13-17)@Boston Red Sox(16-17)^2#15
+Chicago Cubs(17-12)@St. Louis Cardinals(20-12)^6#5
+Cincinnati Reds(13-19)@San Francisco Giants(14-18)^9#2
+Cleveland Indians(17-13)@Seattle Mariners(18-16)^5#4
+Colorado Rockies(15-18)@Arizona Diamondbacks(19-13)^2#9
+Detroit Tigers(13-16)@Kansas City Royals(12-21)^3#15
+Miami Marlins(9-22)@Atlanta Braves(16-16)^2#9
+Milwaukee Brewers(18-16)@New York Mets(16-16)^4#3
+New York Yankees(18-13)@Minnesota Twins(19-11)^3#7
+Philadelphia Phillies(17-14)@Washington Nationals(14-17)^8#10
+Pittsburgh Pirates(14-15)@Oakland Athletics(15-19)^6#4
+San Diego Padres(18-15)@Los Angeles Dodgers(21-13)^6#7
+Texas Rangers(14-16)@Toronto Blue Jays(15-17)^8#5
+Los Angeles Angels(14-19)@Houston Astros(20-13)^4#10
+Chicago White Sox(14-17)@Boston Red Sox(16-18)^2#9
+Chicago Cubs(19-11)@St. Louis Cardinals(19-14)^13#5
+Cincinnati Reds(14-19)@San Francisco Giants(14-19)^5#6
+Cleveland Indians(18-13)@Seattle Mariners(18-17)^0#10
+Colorado Rockies(15-19)@Arizona Diamondbacks(20-13)^8#7
+Detroit Tigers(14-16)@Kansas City Royals(12-22)^5#2
+Miami Marlins(9-23)@Atlanta Braves(17-16)^1#3
+Milwaukee Brewers(19-16)@New York Mets(16-17)^3#2
+New York Yankees(18-14)@Minnesota Twins(20-11)^4#1
+Philadelphia Phillies(18-14)@Washington Nationals(14-18)^7#1
+Pittsburgh Pirates(15-15)@Oakland Athletics(15-20)^5#3
+San Diego Padres(18-16)@Los Angeles Dodgers(22-13)^8#5
+Texas Rangers(16-15)@Toronto Blue Jays(14-19)^10#2
+Baltimore Orioles(12-22)@Boston Red Sox(17-18)^4#1
+Chicago Cubs(19-12)@Miami Marlins(9-24)^5#6
+Cincinnati Reds(15-19)@San Francisco Giants(14-20)^12#4
+Cleveland Indians(18-14)@Chicago White Sox(14-18)^1#9
+Houston Astros(20-14)@Kansas City Royals(12-23)^6#4
+Los Angeles Dodgers(22-14)@Atlanta Braves(18-16)^5#3
+Milwaukee Brewers(20-16)@Washington Nationals(14-19)^5#3
+New York Yankees(19-14)@Seattle Mariners(19-17)^7#3
+San Diego Padres(19-16)@New York Mets(16-18)^4#0
+St. Louis Cardinals(20-14)@Philadelphia Phillies(19-14)^6#0
+Tampa Bay Rays(21-12)@Arizona Diamondbacks(20-14)^12#1
+Toronto Blue Jays(15-19)@Minnesota Twins(20-12)^0#8
+Baltimore Orioles(13-22)@Boston Red Sox(17-19)^5#8
+Chicago Cubs(19-13)@Miami Marlins(10-24)^5#2
+Cleveland Indians(18-15)@Chicago White Sox(15-18)^0#2
+Colorado Rockies(15-20)@San Francisco Giants(16-19)^4#14
+Detroit Tigers(15-16)@Los Angeles Angels(15-19)^2#5
+Houston Astros(20-15)@Kansas City Royals(13-23)^2#12
+Los Angeles Dodgers(23-14)@Atlanta Braves(18-17)^9#0
+Milwaukee Brewers(21-16)@Washington Nationals(14-20)^6#0
+New York Yankees(20-14)@Seattle Mariners(19-18)^5#4
+Oakland Athletics(15-21)@Cincinnati Reds(15-20)^2#0
+Pittsburgh Pirates(16-15)@Texas Rangers(16-16)^5#4
+San Diego Padres(20-16)@New York Mets(16-19)^6#7
+St. Louis Cardinals(21-14)@Philadelphia Phillies(19-15)^1#11
+Tampa Bay Rays(22-12)@Arizona Diamondbacks(20-15)^6#3
+Toronto Blue Jays(15-20)@Minnesota Twins(21-12)^0#3
+Baltimore Orioles(13-23)@Boston Red Sox(18-19)^1#2
+Chicago Cubs(20-13)@Miami Marlins(10-25)^3#2
+Cleveland Indians(18-16)@Chicago White Sox(16-18)^5#3
+Detroit Tigers(16-16)@Los Angeles Angels(15-20)^10#3
+Houston Astros(21-15)@Kansas City Royals(13-24)^9#0
+Los Angeles Dodgers(24-14)@Atlanta Braves(18-18)^9#4
+Milwaukee Brewers(22-16)@Washington Nationals(14-21)^7#3
+New York Yankees(21-14)@Seattle Mariners(19-19)^1#10
+Oakland Athletics(16-21)@Cincinnati Reds(15-21)^5#4
+Pittsburgh Pirates(17-15)@Texas Rangers(16-17)^6#9
+San Diego Padres(20-17)@New York Mets(17-19)^3#2
+St. Louis Cardinals(21-15)@Philadelphia Phillies(20-15)^0#5
+Tampa Bay Rays(23-12)@Arizona Diamondbacks(20-16)^2#3
+Toronto Blue Jays(15-21)@Minnesota Twins(22-12)^1#9
+Arizona Diamondbacks(21-16)@Atlanta Braves(18-19)^3#2
+Chicago Cubs(21-13)@Miami Marlins(10-26)^4#1
+Cleveland Indians(19-16)@Chicago White Sox(16-19)^5#0
+Colorado Rockies(16-20)@San Francisco Giants(16-20)^12#11
+Detroit Tigers(16-17)@Los Angeles Angels(16-20)^0#13
+Houston Astros(22-15)@Texas Rangers(17-17)^4#2
+Los Angeles Dodgers(25-14)@Washington Nationals(14-22)^0#6
+New York Yankees(21-15)@Seattle Mariners(20-19)^3#1
+Oakland Athletics(17-21)@Cincinnati Reds(15-22)^0#3
+St. Louis Cardinals(22-15)@Pittsburgh Pirates(16-17)^17#4
+Arizona Diamondbacks(22-16)@Atlanta Braves(18-20)^1#2
+Baltimore Orioles(13-24)@Los Angeles Angels(17-20)^3#8
+Boston Red Sox(19-19)@Seattle Mariners(20-20)^14#1
+Chicago Cubs(22-13)@Milwaukee Brewers(23-16)^0#7
+Colorado Rockies(18-19)@San Diego Padres(20-18)^12#2
+Houston Astros(23-15)@Texas Rangers(17-18)^3#0
+Kansas City Royals(13-25)@Philadelphia Phillies(21-15)^5#1
+Los Angeles Dodgers(25-15)@Washington Nationals(15-22)^5#0
+Minnesota Twins(23-12)@Detroit Tigers(16-18)^6#0
+New York Mets(18-19)@Miami Marlins(9-28)^11#2
+Oakland Athletics(17-22)@Cleveland Indians(20-16)^4#3
+San Francisco Giants(16-21)@Cincinnati Reds(16-22)^0#7
+St. Louis Cardinals(22-16)@Pittsburgh Pirates(17-17)^1#2
+Tampa Bay Rays(23-13)@New York Yankees(22-15)^3#4
+Toronto Blue Jays(15-22)@Chicago White Sox(16-20)^4#3
+Arizona Diamondbacks(22-17)@Atlanta Braves(19-20)^4#6
+Baltimore Orioles(13-25)@Los Angeles Angels(18-20)^2#7
+Boston Red Sox(20-19)@Seattle Mariners(20-21)^9#5
+Chicago Cubs(22-14)@Milwaukee Brewers(24-16)^2#1
+Colorado Rockies(18-20)@San Diego Padres(21-18)^3#4
+Houston Astros(25-14)@Texas Rangers(16-20)^11#4
+Kansas City Royals(14-25)@Philadelphia Phillies(21-16)^0#7
+Los Angeles Dodgers(26-15)@Washington Nationals(15-23)^2#5
+Minnesota Twins(24-12)@Detroit Tigers(16-19)^3#5
+Minnesota Twins(24-13)@Detroit Tigers(17-19)^8#3
+New York Mets(18-20)@Miami Marlins(10-28)^4#1
+Oakland Athletics(18-22)@Cleveland Indians(20-17)^3#2
+San Francisco Giants(16-22)@Cincinnati Reds(17-22)^4#5
+St. Louis Cardinals(22-17)@Pittsburgh Pirates(18-17)^1#2
+Tampa Bay Rays(23-14)@New York Yankees(23-15)^7#2
+Toronto Blue Jays(16-22)@Chicago White Sox(16-21)^2#7
+Arizona Diamondbacks(22-18)@Atlanta Braves(20-20)^3#5
+Baltimore Orioles(13-26)@Los Angeles Angels(19-20)^5#1
+Boston Red Sox(22-18)@Seattle Mariners(19-23)^11#2
+Chicago Cubs(23-14)@Milwaukee Brewers(24-17)^4#1
+Colorado Rockies(19-20)@San Diego Padres(21-19)^10#7
+Houston Astros(26-14)@Texas Rangers(16-21)^15#5
+Kansas City Royals(14-26)@Philadelphia Phillies(22-16)^1#6
+Los Angeles Dodgers(26-16)@Washington Nationals(16-23)^6#0
+Minnesota Twins(25-13)@Detroit Tigers(17-20)^3#5
+Oakland Athletics(19-22)@Cleveland Indians(20-18)^3#5
+San Francisco Giants(16-23)@Cincinnati Reds(18-22)^6#5
+St. Louis Cardinals(21-19)@Pittsburgh Pirates(20-16)^6#10
+Tampa Bay Rays(24-14)@New York Yankees(23-16)^1#7
+Toronto Blue Jays(16-23)@Chicago White Sox(17-21)^1#5
+Arizona Diamondbacks(22-19)@Pittsburgh Pirates(20-17)^9#3
+Chicago White Sox(18-21)@Cleveland Indians(21-18)^5#2
+Detroit Tigers(18-20)@Houston Astros(26-15)^1#8
+Minnesota Twins(25-14)@Los Angeles Angels(19-21)^4#5
+Philadelphia Phillies(23-16)@Milwaukee Brewers(24-18)^7#4
+Seattle Mariners(20-23)@Oakland Athletics(19-23)^6#5
+Arizona Diamondbacks(23-19)@Pittsburgh Pirates(20-18)^2#6
+Atlanta Braves(20-21)@St. Louis Cardinals(23-18)^3#14
+Boston Red Sox(22-19)@Colorado Rockies(19-21)^4#5
+Chicago White Sox(19-21)@Cleveland Indians(21-19)^0#9
+Cincinnati Reds(18-23)@Chicago Cubs(24-14)^1#3
+Detroit Tigers(17-22)@Houston Astros(28-14)^4#11
+Kansas City Royals(15-26)@Texas Rangers(16-22)^11#5
+Los Angeles Dodgers(27-16)@San Diego Padres(22-19)^6#3
+Miami Marlins(10-29)@Tampa Bay Rays(24-15)^0#4
+Minnesota Twins(25-15)@Los Angeles Angels(20-21)^4#3
+Philadelphia Phillies(24-16)@Milwaukee Brewers(24-19)^1#6
+Seattle Mariners(21-23)@Oakland Athletics(19-24)^4#3
+San Francisco Giants(17-23)@Toronto Blue Jays(16-24)^3#7
+Washington Nationals(16-24)@New York Mets(19-20)^2#6
+Arizona Diamondbacks(23-20)@Pittsburgh Pirates(21-18)^11#1
+Atlanta Braves(21-21)@St. Louis Cardinals(23-19)^4#0
+Boston Red Sox(22-20)@Colorado Rockies(20-21)^6#5
+Cincinnati Reds(18-24)@Chicago Cubs(25-14)^6#5
+Detroit Tigers(18-22)@Houston Astros(28-15)^1#5
+Kansas City Royals(15-27)@Texas Rangers(17-22)^1#6
+Los Angeles Dodgers(28-16)@San Diego Padres(22-20)^2#0
+Miami Marlins(10-30)@Tampa Bay Rays(25-15)^0#1
+Minnesota Twins(26-15)@Los Angeles Angels(20-22)^8#7
+New York Yankees(24-16)@Baltimore Orioles(14-26)^5#3
+New York Yankees(25-16)@Baltimore Orioles(14-27)^3#1
+Philadelphia Phillies(24-17)@Milwaukee Brewers(25-19)^2#5
+San Francisco Giants(17-24)@Toronto Blue Jays(17-24)^4#3
+Washington Nationals(16-25)@New York Mets(20-20)^5#1
+Atlanta Braves(23-20)@St. Louis Cardinals(22-21)^10#2
+Chicago White Sox(19-22)@Toronto Blue Jays(17-25)^4#2
+Cincinnati Reds(19-24)@Chicago Cubs(25-15)^4#2
+Cleveland Indians(23-18)@Baltimore Orioles(13-29)^14#7
+Detroit Tigers(17-24)@Oakland Athletics(20-24)^3#17
+Kansas City Royals(15-28)@Texas Rangers(18-22)^1#16
+Philadelphia Phillies(23-19)@Milwaukee Brewers(27-18)^3#11
+San Diego Padres(22-21)@Pittsburgh Pirates(21-19)^4#3
+Seattle Mariners(21-24)@Minnesota Twins(28-14)^6#11
+Washington Nationals(17-25)@New York Mets(20-21)^7#6
+Los Angeles Angels(20-23)@Kansas City Royals(15-29)^5#2
+Arizona Diamondbacks(24-20)@San Francisco Giants(18-24)^7#0
+Atlanta Braves(24-20)@Milwaukee Brewers(26-20)^12#8
+Boston Red Sox(23-20)@Houston Astros(29-15)^1#3
+Chicago White Sox(19-23)@Toronto Blue Jays(18-25)^2#10
+Cincinnati Reds(20-24)@Los Angeles Dodgers(29-16)^0#6
+Cleveland Indians(23-19)@Baltimore Orioles(14-29)^1#5
+Detroit Tigers(18-24)@Oakland Athletics(20-25)^2#7
+Miami Marlins(10-31)@New York Mets(20-22)^8#6
+New York Yankees(26-16)@Tampa Bay Rays(26-15)^4#3
+Philadelphia Phillies(24-19)@Colorado Rockies(20-22)^5#4
+San Diego Padres(23-21)@Pittsburgh Pirates(21-20)^3#5
+Seattle Mariners(22-24)@Minnesota Twins(28-15)^1#7
+Texas Rangers(19-22)@St. Louis Cardinals(23-21)^7#3
+Washington Nationals(17-26)@Chicago Cubs(26-15)^6#14
+Los Angeles Angels(21-23)@Kansas City Royals(15-30)^6#3
+Arizona Diamondbacks(25-20)@San Francisco Giants(18-25)^5#8
+Atlanta Braves(24-21)@Milwaukee Brewers(27-20)^4#3
+Boston Red Sox(23-21)@Houston Astros(30-15)^3#7
+Chicago White Sox(20-23)@Toronto Blue Jays(18-26)^4#1
+Cincinnati Reds(20-25)@Los Angeles Dodgers(30-16)^4#0
+Cleveland Indians(23-20)@Baltimore Orioles(15-29)^4#1
+Detroit Tigers(18-25)@Oakland Athletics(21-25)^1#4
+Miami Marlins(11-31)@New York Mets(20-23)^2#0
+New York Yankees(27-16)@Tampa Bay Rays(26-16)^1#2
+Philadelphia Phillies(25-19)@Colorado Rockies(20-23)^2#1
+San Diego Padres(23-22)@Pittsburgh Pirates(22-20)^2#7
+Seattle Mariners(21-26)@Minnesota Twins(30-14)^4#18
+Texas Rangers(20-22)@St. Louis Cardinals(23-22)^2#8
+Washington Nationals(18-26)@Chicago Cubs(26-16)^5#2
+Los Angeles Angels(22-23)@Kansas City Royals(15-31)^1#5
+Arizona Diamondbacks(25-21)@San Francisco Giants(19-25)^2#3
+Atlanta Braves(25-21)@Milwaukee Brewers(27-21)^2#3
+Boston Red Sox(23-22)@Houston Astros(31-15)^4#3
+Chicago White Sox(21-23)@Toronto Blue Jays(18-27)^2#5
+Cincinnati Reds(21-25)@Los Angeles Dodgers(30-17)^3#8
+Cleveland Indians(24-20)@Baltimore Orioles(15-30)^10#0
+Detroit Tigers(18-26)@Oakland Athletics(22-25)^3#7
+Miami Marlins(12-31)@New York Mets(20-24)^3#0
+New York Yankees(28-16)@Tampa Bay Rays(26-17)^13#5
+Philadelphia Phillies(26-19)@Colorado Rockies(20-24)^7#5
+San Diego Padres(23-23)@Pittsburgh Pirates(23-20)^4#6
+Seattle Mariners(22-26)@Minnesota Twins(30-15)^7#4
+Texas Rangers(20-23)@St. Louis Cardinals(24-22)^5#4
+Washington Nationals(19-26)@Chicago Cubs(26-17)^5#6
+Los Angeles Angels(22-24)@Minnesota Twins(30-16)^1#3
+Baltimore Orioles(14-32)@New York Yankees(29-16)^7#10
+Chicago Cubs(27-17)@Philadelphia Phillies(27-19)^4#5
+Cleveland Indians(25-20)@Oakland Athletics(23-25)^4#6
+Houston Astros(31-16)@Chicago White Sox(21-24)^3#0
+New York Mets(20-25)@Washington Nationals(19-27)^5#3
+San Diego Padres(23-24)@Arizona Diamondbacks(25-22)^2#1
+San Francisco Giants(20-25)@Atlanta Braves(25-22)^1#4
+Texas Rangers(22-22)@Seattle Mariners(22-27)^10#9
+Toronto Blue Jays(18-28)@Boston Red Sox(25-21)^2#12
+Los Angeles Angels(22-25)@Minnesota Twins(31-16)^3#8
+Baltimore Orioles(14-33)@New York Yankees(30-16)^4#11
+Chicago Cubs(27-18)@Philadelphia Phillies(28-19)^3#2
+Cleveland Indians(25-21)@Oakland Athletics(24-25)^3#5
+Detroit Tigers(18-27)@Miami Marlins(13-31)^4#5
+Houston Astros(32-16)@Chicago White Sox(21-25)^5#1
+Milwaukee Brewers(28-21)@Cincinnati Reds(21-26)^0#3
+New York Mets(21-25)@Washington Nationals(19-28)^6#5
+Pittsburgh Pirates(24-20)@Colorado Rockies(20-25)^0#5
+San Diego Padres(24-24)@Arizona Diamondbacks(25-23)^3#2
+San Francisco Giants(20-26)@Atlanta Braves(26-22)^4#3
+Tampa Bay Rays(27-17)@Los Angeles Dodgers(31-17)^3#7
+Texas Rangers(22-23)@Seattle Mariners(23-27)^5#3
+Toronto Blue Jays(20-27)@Boston Red Sox(24-23)^10#3
+Baltimore Orioles(15-33)@New York Yankees(30-17)^5#7
+Chicago Cubs(28-18)@Philadelphia Phillies(28-20)^8#4
+Cleveland Indians(25-22)@Oakland Athletics(25-25)^2#7
+Detroit Tigers(18-28)@Miami Marlins(14-31)^3#6
+Houston Astros(33-16)@Chicago White Sox(21-26)^4#9
+Milwaukee Brewers(29-21)@Cincinnati Reds(21-27)^11#9
+New York Mets(22-25)@Washington Nationals(19-29)^6#1
+Pittsburgh Pirates(24-21)@Colorado Rockies(21-25)^3#9
+San Diego Padres(25-24)@Arizona Diamondbacks(25-24)^5#2
+San Francisco Giants(21-26)@Atlanta Braves(26-23)^2#9
+St. Louis Cardinals(24-23)@Kansas City Royals(16-31)^2#8
+St. Louis Cardinals(25-23)@Kansas City Royals(16-32)^10#3
+Tampa Bay Rays(27-18)@Los Angeles Dodgers(32-17)^8#1
+Texas Rangers(23-23)@Seattle Mariners(23-28)^2#1
+Toronto Blue Jays(20-28)@Boston Red Sox(25-23)^5#6
+Los Angeles Angels(21-27)@Minnesota Twins(33-15)^7#16
+Baltimore Orioles(15-34)@New York Yankees(31-17)^5#6
+Chicago Cubs(29-18)@Philadelphia Phillies(28-21)^7#9
+Cleveland Indians(25-23)@Tampa Bay Rays(28-18)^2#7
+Detroit Tigers(18-29)@Miami Marlins(15-31)^2#5
+Houston Astros(33-17)@Chicago White Sox(22-26)^0#4
+New York Mets(23-25)@Washington Nationals(19-30)^6#4
+Pittsburgh Pirates(25-21)@Colorado Rockies(21-26)^14#6
+San Francisco Giants(21-27)@Atlanta Braves(27-23)^4#5
+Toronto Blue Jays(20-29)@Boston Red Sox(26-23)^2#8
+Los Angeles Angels(22-27)@Texas Rangers(24-23)^3#4
+Chicago Cubs(29-19)@Cincinnati Reds(22-27)^5#6
+Cleveland Indians(25-24)@Tampa Bay Rays(29-18)^3#1
+Colorado Rockies(22-26)@Baltimore Orioles(15-35)^8#6
+Houston Astros(33-18)@Boston Red Sox(27-23)^4#3
+Milwaukee Brewers(29-22)@Philadelphia Phillies(29-21)^4#6
+Minnesota Twins(34-15)@Chicago White Sox(22-27)^11#4
+New York Mets(24-25)@Detroit Tigers(18-30)^8#9
+Oakland Athletics(26-25)@Seattle Mariners(23-29)^6#2
+Pittsburgh Pirates(24-23)@Los Angeles Dodgers(33-17)^2#10
+San Francisco Giants(20-29)@Arizona Diamondbacks(26-24)^2#18
+St. Louis Cardinals(25-24)@Atlanta Braves(28-23)^2#5
+Toronto Blue Jays(20-30)@San Diego Padres(26-24)^3#6
+Washington Nationals(19-31)@Miami Marlins(16-31)^12#10
+Los Angeles Angels(22-28)@Texas Rangers(25-23)^3#2
+Chicago Cubs(29-20)@Cincinnati Reds(23-27)^8#6
+Cleveland Indians(26-24)@Tampa Bay Rays(29-19)^2#6
+Colorado Rockies(23-26)@Baltimore Orioles(15-36)^6#9
+Houston Astros(34-18)@Boston Red Sox(27-24)^4#3
+Kansas City Royals(17-32)@New York Yankees(32-17)^3#7
+Kansas City Royals(17-33)@New York Yankees(33-17)^5#6
+Milwaukee Brewers(29-23)@Philadelphia Phillies(30-21)^2#7
+Minnesota Twins(34-16)@Chicago White Sox(23-27)^8#1
+New York Mets(24-26)@Detroit Tigers(19-30)^5#4
+Oakland Athletics(27-25)@Seattle Mariners(23-30)^6#5
+Pittsburgh Pirates(25-23)@Los Angeles Dodgers(33-18)^2#7
+San Francisco Giants(20-30)@Arizona Diamondbacks(27-24)^4#10
+St. Louis Cardinals(25-25)@Atlanta Braves(29-23)^6#3
+Toronto Blue Jays(19-32)@San Diego Padres(28-23)^4#19
+Washington Nationals(20-31)@Miami Marlins(16-32)^5#0
+Los Angeles Angels(23-28)@Texas Rangers(25-24)^7#6
+Chicago Cubs(29-21)@Cincinnati Reds(24-27)^2#10
+Cleveland Indians(26-25)@Tampa Bay Rays(30-19)^3#6
+Colorado Rockies(23-27)@Baltimore Orioles(16-36)^8#7
+Houston Astros(35-18)@Boston Red Sox(27-25)^1#4
+Kansas City Royals(17-34)@New York Yankees(34-17)^8#7
+Milwaukee Brewers(29-24)@Philadelphia Phillies(31-21)^9#1
+Minnesota Twins(35-16)@Chicago White Sox(23-28)^7#0
+New York Mets(25-26)@Detroit Tigers(19-31)^4#3
+Oakland Athletics(28-25)@Seattle Mariners(23-31)^7#1
+Pittsburgh Pirates(24-25)@Los Angeles Dodgers(35-17)^7#11
+San Francisco Giants(21-30)@Arizona Diamondbacks(27-25)^2#6
+St. Louis Cardinals(26-25)@Atlanta Braves(29-24)^3#4
+Toronto Blue Jays(20-32)@San Diego Padres(28-24)^10#1
+Washington Nationals(21-31)@Miami Marlins(16-33)^9#6
+Baltimore Orioles(16-37)@Detroit Tigers(19-32)^5#3
+Boston Red Sox(29-24)@Cleveland Indians(25-27)^12#5
+Chicago White Sox(23-29)@Kansas City Royals(18-34)^2#1
+Cincinnati Reds(24-28)@Pittsburgh Pirates(25-25)^5#8
+Cincinnati Reds(24-29)@Pittsburgh Pirates(26-25)^8#1
+Colorado Rockies(24-27)@Arizona Diamondbacks(28-25)^4#3
+Houston Astros(35-19)@Chicago Cubs(30-21)^6#5
+Los Angeles Dodgers(35-18)@New York Mets(26-26)^9#5
+Minnesota Twins(36-16)@Milwaukee Brewers(30-24)^4#5
+New York Yankees(34-18)@San Diego Padres(28-25)^5#2
+Oakland Athletics(29-25)@Los Angeles Angels(24-28)^8#5
+Seattle Mariners(23-32)@Texas Rangers(25-25)^6#2
+Tampa Bay Rays(31-19)@Toronto Blue Jays(21-32)^8#3
+Washington Nationals(22-31)@Miami Marlins(16-34)^2#3
+Atlanta Braves(30-24)@Washington Nationals(22-32)^4#5
+Baltimore Orioles(17-37)@Detroit Tigers(19-33)^0#3
+Boston Red Sox(29-25)@Cleveland Indians(26-27)^5#7
+Chicago White Sox(24-29)@Kansas City Royals(18-35)^4#3
+Cincinnati Reds(26-28)@Pittsburgh Pirates(25-27)^11#6
+Colorado Rockies(25-27)@Arizona Diamondbacks(28-26)^6#2
+Houston Astros(36-19)@Chicago Cubs(30-22)^9#6
+Los Angeles Dodgers(36-18)@New York Mets(26-27)^3#7
+Miami Marlins(18-33)@San Francisco Giants(20-32)^11#3
+Minnesota Twins(36-17)@Milwaukee Brewers(31-24)^5#3
+New York Yankees(35-18)@San Diego Padres(28-26)^4#5
+Oakland Athletics(30-25)@Los Angeles Angels(24-29)^4#6
+Philadelphia Phillies(31-22)@St. Louis Cardinals(26-26)^4#3
+Seattle Mariners(23-33)@Texas Rangers(26-25)^4#11
+Tampa Bay Rays(32-19)@Toronto Blue Jays(21-33)^3#1
+Atlanta Braves(29-26)@Washington Nationals(24-31)^4#14
+Baltimore Orioles(17-38)@Detroit Tigers(20-33)^2#4
+Boston Red Sox(28-27)@Cleveland Indians(28-26)^9#14
+Chicago White Sox(25-29)@Kansas City Royals(18-36)^8#7
+Cincinnati Reds(26-29)@Pittsburgh Pirates(26-27)^2#7
+Colorado Rockies(26-27)@Arizona Diamondbacks(28-27)^5#4
+Houston Astros(37-19)@Chicago Cubs(30-23)^1#2
+Los Angeles Dodgers(36-19)@New York Mets(27-27)^9#8
+Miami Marlins(18-34)@San Francisco Giants(21-32)^4#2
+New York Yankees(35-19)@San Diego Padres(29-26)^7#0
+Oakland Athletics(29-27)@Los Angeles Angels(26-28)^7#12
+Philadelphia Phillies(33-21)@St. Louis Cardinals(25-28)^11#4
+Seattle Mariners(24-33)@Texas Rangers(26-26)^7#8
+Tampa Bay Rays(33-19)@Toronto Blue Jays(21-34)^4#3
+Chicago White Sox(27-28)@Cleveland Indians(27-28)^10#4
+Colorado Rockies(27-27)@Arizona Diamondbacks(28-28)^11#10
+Los Angeles Dodgers(37-19)@New York Mets(27-28)^2#0
+Miami Marlins(19-34)@San Francisco Giants(21-33)^1#3
+Philadelphia Phillies(33-22)@St. Louis Cardinals(26-28)^3#5
+Pittsburgh Pirates(26-28)@Milwaukee Brewers(32-24)^5#11
+Seattle Mariners(24-34)@Los Angeles Angels(26-29)^3#9
+Tampa Bay Rays(35-18)@Minnesota Twins(36-18)^14#3
+Texas Rangers(27-26)@Kansas City Royals(18-37)^2#4
+Arizona Diamondbacks(28-29)@New York Mets(27-29)^4#5
+Atlanta Braves(30-26)@Detroit Tigers(21-33)^2#8
+Baltimore Orioles(17-39)@San Francisco Giants(22-33)^9#6
+Chicago White Sox(27-29)@Cleveland Indians(28-28)^6#1
+Cincinnati Reds(26-30)@Washington Nationals(24-32)^9#3
+Colorado Rockies(29-26)@Toronto Blue Jays(20-36)^13#6
+Los Angeles Dodgers(38-19)@Philadelphia Phillies(33-23)^6#3
+New York Yankees(36-19)@Boston Red Sox(29-27)^4#1
+Oakland Athletics(30-27)@Houston Astros(37-20)^2#3
+Pittsburgh Pirates(27-28)@Milwaukee Brewers(32-25)^9#4
+San Diego Padres(29-27)@Miami Marlins(19-35)^5#2
+Seattle Mariners(24-35)@Los Angeles Angels(27-29)^4#3
+St. Louis Cardinals(27-28)@Chicago Cubs(31-23)^2#1
+Tampa Bay Rays(35-19)@Minnesota Twins(37-18)^3#5
+Texas Rangers(27-27)@Kansas City Royals(19-37)^6#2
+Arizona Diamondbacks(28-30)@New York Mets(28-29)^6#5
+Atlanta Braves(31-26)@Detroit Tigers(21-34)^10#5
+Baltimore Orioles(18-39)@San Francisco Giants(22-34)^2#8
+Chicago White Sox(28-29)@Cleveland Indians(28-29)^2#5
+Cincinnati Reds(27-30)@Washington Nationals(24-33)^2#5
+Colorado Rockies(29-27)@Toronto Blue Jays(21-36)^4#2
+Los Angeles Dodgers(39-19)@Philadelphia Phillies(33-24)^4#3
+New York Yankees(37-19)@Boston Red Sox(29-28)^5#3
+Oakland Athletics(30-28)@Houston Astros(38-20)^1#5
+Pittsburgh Pirates(28-28)@Milwaukee Brewers(32-26)^10#12
+San Diego Padres(30-27)@Miami Marlins(19-36)^3#9
+Seattle Mariners(25-35)@Los Angeles Angels(27-30)^3#6
+St. Louis Cardinals(28-28)@Chicago Cubs(31-24)^7#4
+Tampa Bay Rays(35-20)@Minnesota Twins(38-18)^2#6
+Texas Rangers(28-27)@Kansas City Royals(19-38)^6#2
+Arizona Diamondbacks(29-30)@New York Mets(28-30)^7#1
+Atlanta Braves(31-27)@Detroit Tigers(22-34)^7#4
+Baltimore Orioles(18-40)@San Francisco Giants(23-34)^1#8
+Chicago White Sox(28-30)@Cleveland Indians(29-29)^2#0
+Cincinnati Reds(27-31)@Washington Nationals(25-33)^1#4
+Colorado Rockies(30-27)@Toronto Blue Jays(21-37)^5#1
+Los Angeles Dodgers(40-19)@Philadelphia Phillies(33-25)^8#0
+New York Yankees(38-19)@Boston Red Sox(29-29)^5#8
+Oakland Athletics(30-29)@Houston Astros(39-20)^4#6
+Pittsburgh Pirates(28-29)@Milwaukee Brewers(33-26)^2#4
+San Diego Padres(30-28)@Miami Marlins(20-36)^3#9
+Seattle Mariners(24-37)@Los Angeles Angels(29-29)^3#13
+St. Louis Cardinals(29-28)@Chicago Cubs(31-25)^2#1
+Tampa Bay Rays(35-21)@Minnesota Twins(39-18)^7#9
+Texas Rangers(29-27)@Kansas City Royals(19-39)^5#1
+Arizona Diamondbacks(30-30)@Los Angeles Dodgers(41-19)^1#3
+Chicago Cubs(31-26)@Los Angeles Angels(29-30)^8#1
+San Diego Padres(30-29)@Philadelphia Phillies(33-26)^8#2
+Seattle Mariners(25-37)@Houston Astros(40-20)^2#4
+Los Angeles Angels(29-31)@Oakland Athletics(30-30)^2#4
+Arizona Diamondbacks(30-31)@Los Angeles Dodgers(42-19)^0#9
+Chicago Cubs(32-26)@Colorado Rockies(31-27)^6#3
+Cleveland Indians(29-30)@Minnesota Twins(40-18)^5#2
+Detroit Tigers(22-35)@Tampa Bay Rays(35-22)^9#6
+Kansas City Royals(19-40)@Boston Red Sox(30-29)^3#8
+Milwaukee Brewers(34-26)@Miami Marlins(21-36)^0#16
+New York Mets(28-31)@San Francisco Giants(24-34)^3#9
+Pittsburgh Pirates(27-31)@Atlanta Braves(33-26)^5#12
+San Diego Padres(31-29)@Philadelphia Phillies(33-27)^6#9
+Seattle Mariners(24-39)@Houston Astros(42-19)^5#11
+St. Louis Cardinals(30-28)@Cincinnati Reds(27-32)^1#4
+Texas Rangers(30-27)@Baltimore Orioles(18-41)^11#12
+Toronto Blue Jays(21-38)@New York Yankees(38-20)^4#3
+Washington Nationals(26-33)@Chicago White Sox(29-30)^9#5
+Los Angeles Angels(30-31)@Oakland Athletics(30-31)^10#9
+Arizona Diamondbacks(30-32)@Los Angeles Dodgers(43-19)^3#2
+Chicago Cubs(33-26)@Colorado Rockies(31-28)^9#8
+Cleveland Indians(30-30)@Minnesota Twins(40-19)^9#7
+Detroit Tigers(23-35)@Tampa Bay Rays(35-23)^0#4
+Kansas City Royals(19-41)@Boston Red Sox(31-29)^0#8
+Milwaukee Brewers(34-27)@Miami Marlins(22-36)^3#8
+New York Mets(28-32)@San Francisco Giants(25-34)^7#0
+Pittsburgh Pirates(28-31)@Atlanta Braves(33-27)^7#4
+San Diego Padres(31-30)@Philadelphia Phillies(34-27)^5#7
+Seattle Mariners(25-39)@Houston Astros(42-20)^14#1
+Texas Rangers(30-28)@Baltimore Orioles(19-41)^2#1
+Toronto Blue Jays(23-37)@New York Yankees(37-22)^11#7
+Washington Nationals(27-33)@Chicago White Sox(29-31)^6#4
+Los Angeles Angels(30-32)@Oakland Athletics(31-31)^4#7
+Chicago Cubs(34-26)@Colorado Rockies(31-29)^1#3
+Cleveland Indians(31-30)@Minnesota Twins(40-20)^4#5
+Detroit Tigers(23-36)@Tampa Bay Rays(36-23)^1#6
+Kansas City Royals(19-42)@Boston Red Sox(32-29)^5#7
+Milwaukee Brewers(34-28)@Miami Marlins(23-36)^5#1
+New York Mets(29-32)@San Francisco Giants(25-35)^7#3
+Pittsburgh Pirates(29-31)@Atlanta Braves(33-28)^6#1
+San Diego Padres(31-31)@Washington Nationals(28-33)^5#4
+Seattle Mariners(26-39)@Houston Astros(42-21)^7#8
+St. Louis Cardinals(30-29)@Cincinnati Reds(28-32)^3#1
+Texas Rangers(31-28)@Baltimore Orioles(19-42)^4#3
+Toronto Blue Jays(23-38)@New York Yankees(38-22)^2#6
+Los Angeles Angels(30-33)@Seattle Mariners(26-40)^2#6
+Boston Red Sox(33-29)@Tampa Bay Rays(37-23)^1#5
+Chicago Cubs(34-27)@St. Louis Cardinals(31-29)^3#1
+Cleveland Indians(31-31)@New York Yankees(39-22)^5#2
+Detroit Tigers(23-37)@Minnesota Twins(41-20)^3#6
+Houston Astros(43-21)@Baltimore Orioles(19-43)^4#3
+Kansas City Royals(19-43)@Chicago White Sox(29-32)^6#4
+Miami Marlins(23-37)@Atlanta Braves(33-29)^1#7
+Milwaukee Brewers(36-27)@Pittsburgh Pirates(29-32)^10#4
+New York Mets(30-32)@Colorado Rockies(32-29)^1#5
+Philadelphia Phillies(35-27)@Cincinnati Reds(28-33)^4#2
+San Diego Padres(32-31)@Washington Nationals(28-34)^5#4
+San Francisco Giants(25-36)@Los Angeles Dodgers(43-20)^2#1
+Texas Rangers(32-28)@Oakland Athletics(32-31)^3#5
+Toronto Blue Jays(23-39)@Arizona Diamondbacks(31-32)^2#8
+Los Angeles Angels(31-33)@Seattle Mariners(26-41)^12#3
+Boston Red Sox(33-30)@Tampa Bay Rays(38-23)^2#9
+Boston Red Sox(33-31)@Tampa Bay Rays(39-23)^5#1
+Chicago Cubs(35-27)@St. Louis Cardinals(31-30)^9#4
+Cleveland Indians(32-31)@New York Yankees(39-23)^8#4
+Detroit Tigers(23-38)@Minnesota Twins(42-20)^9#3
+Houston Astros(44-21)@Baltimore Orioles(19-44)^1#4
+Kansas City Royals(20-43)@Chicago White Sox(29-33)^0#2
+Miami Marlins(23-38)@Atlanta Braves(34-29)^0#1
+Milwaukee Brewers(36-28)@Pittsburgh Pirates(30-32)^5#3
+New York Mets(30-33)@Colorado Rockies(33-29)^5#3
+Philadelphia Phillies(36-27)@Cincinnati Reds(28-34)^4#1
+San Diego Padres(33-31)@Washington Nationals(28-35)^1#4
+San Francisco Giants(26-36)@Los Angeles Dodgers(43-21)^2#7
+Texas Rangers(33-28)@Oakland Athletics(32-32)^10#5
+Texas Rangers(33-29)@Oakland Athletics(33-32)^3#1
+Toronto Blue Jays(23-40)@Arizona Diamondbacks(32-32)^0#6
+Los Angeles Angels(31-34)@Seattle Mariners(27-41)^3#9
+Boston Red Sox(34-31)@Tampa Bay Rays(39-24)^1#6
+Chicago Cubs(36-27)@St. Louis Cardinals(31-31)^5#1
+Cleveland Indians(33-31)@New York Yankees(39-24)^6#7
+Detroit Tigers(23-39)@Minnesota Twins(43-20)^2#12
+Houston Astros(44-22)@Baltimore Orioles(20-44)^4#0
+Kansas City Royals(20-44)@Chicago White Sox(30-33)^2#5
+Miami Marlins(23-39)@Atlanta Braves(35-29)^6#7
+Milwaukee Brewers(37-28)@Pittsburgh Pirates(30-33)^5#2
+New York Mets(31-33)@Colorado Rockies(33-30)^6#1
+Philadelphia Phillies(37-27)@Cincinnati Reds(28-35)^3#4
+San Diego Padres(33-32)@Washington Nationals(29-35)^2#5
+San Francisco Giants(26-37)@Los Angeles Dodgers(44-21)^0#1
+Texas Rangers(34-29)@Oakland Athletics(33-33)^8#9
+Toronto Blue Jays(23-41)@Arizona Diamondbacks(33-32)^2#8
+Los Angeles Angels(31-35)@Los Angeles Dodgers(45-21)^5#3
+Atlanta Braves(37-28)@Pittsburgh Pirates(29-35)^13#7
+Boston Red Sox(34-32)@Texas Rangers(34-30)^3#4
+Chicago White Sox(31-33)@Washington Nationals(30-35)^1#12
+Colorado Rockies(33-31)@Chicago Cubs(37-27)^6#5
+Miami Marlins(23-40)@St. Louis Cardinals(31-32)^1#4
+Philadelphia Phillies(36-29)@Arizona Diamondbacks(35-31)^8#13
+Tampa Bay Rays(40-24)@Oakland Athletics(34-33)^6#2
+Los Angeles Angels(32-35)@Los Angeles Dodgers(45-22)^5#3
+Atlanta Braves(37-29)@Pittsburgh Pirates(30-35)^7#5
+Baltimore Orioles(20-45)@Toronto Blue Jays(23-42)^4#2
+Boston Red Sox(34-33)@Texas Rangers(35-30)^5#9
+Chicago White Sox(31-34)@Washington Nationals(31-35)^7#5
+Cleveland Indians(33-32)@Cincinnati Reds(29-35)^2#1
+Colorado Rockies(35-30)@Chicago Cubs(36-29)^10#3
+Houston Astros(46-21)@Milwaukee Brewers(37-29)^10#8
+Kansas City Royals(20-45)@Detroit Tigers(24-39)^3#2
+Miami Marlins(23-41)@St. Louis Cardinals(32-32)^1#7
+Minnesota Twins(43-21)@Seattle Mariners(28-41)^6#5
+New York Yankees(41-23)@New York Mets(31-34)^12#5
+New York Yankees(40-25)@New York Mets(33-33)^4#10
+Philadelphia Phillies(37-29)@Arizona Diamondbacks(35-32)^7#4
+San Francisco Giants(26-38)@San Diego Padres(33-33)^6#5
+Tampa Bay Rays(41-24)@Oakland Athletics(34-34)^3#4
+Atlanta Braves(38-29)@Pittsburgh Pirates(30-36)^8#7
+Baltimore Orioles(21-45)@Toronto Blue Jays(23-43)^6#8
+Boston Red Sox(34-34)@Texas Rangers(36-30)^4#3
+Cleveland Indians(34-32)@Cincinnati Reds(29-36)^2#7
+Colorado Rockies(35-31)@Chicago Cubs(37-29)^1#10
+Houston Astros(46-22)@Milwaukee Brewers(38-29)^3#6
+Kansas City Royals(21-45)@Detroit Tigers(24-40)^2#3
+Miami Marlins(23-42)@St. Louis Cardinals(33-32)^9#0
+Minnesota Twins(44-21)@Seattle Mariners(28-42)^6#9
+Philadelphia Phillies(38-29)@Arizona Diamondbacks(35-33)^0#2
+San Francisco Giants(27-38)@San Diego Padres(33-34)^4#2
+Tampa Bay Rays(41-25)@Oakland Athletics(35-34)^2#6
+Atlanta Braves(39-29)@Pittsburgh Pirates(30-37)^6#5
+Baltimore Orioles(20-47)@Toronto Blue Jays(25-42)^3#12
+Boston Red Sox(35-34)@Texas Rangers(36-31)^7#6
+Chicago White Sox(32-34)@New York Yankees(41-25)^5#4
+Colorado Rockies(35-32)@San Diego Padres(33-35)^9#6
+Kansas City Royals(21-46)@Detroit Tigers(25-40)^7#3
+Los Angeles Dodgers(45-23)@Chicago Cubs(38-29)^7#3
+Minnesota Twins(45-21)@Seattle Mariners(28-43)^10#5
+New York Mets(33-34)@St. Louis Cardinals(33-33)^4#5
+Tampa Bay Rays(41-26)@Los Angeles Angels(33-35)^3#5
+Washington Nationals(31-36)@Arizona Diamondbacks(36-33)^0#5
+Atlanta Braves(40-29)@Philadelphia Phillies(38-30)^9#8
+Baltimore Orioles(20-48)@Boston Red Sox(37-33)^2#13
+Chicago White Sox(34-33)@New York Yankees(40-27)^10#2
+Cincinnati Reds(30-36)@Texas Rangers(36-32)^1#7
+Colorado Rockies(36-32)@San Diego Padres(33-36)^12#16
+Detroit Tigers(24-42)@Cleveland Indians(35-32)^4#13
+Houston Astros(47-22)@Toronto Blue Jays(24-44)^15#2
+Los Angeles Dodgers(46-23)@Chicago Cubs(38-30)^5#3
+Miami Marlins(24-42)@Pittsburgh Pirates(30-38)^0#11
+Minnesota Twins(45-22)@Kansas City Royals(22-46)^2#0
+New York Mets(33-35)@St. Louis Cardinals(34-33)^5#9
+Oakland Athletics(36-34)@Seattle Mariners(29-43)^2#9
+San Francisco Giants(28-38)@Milwaukee Brewers(39-29)^5#3
+Tampa Bay Rays(41-27)@Los Angeles Angels(34-35)^9#4
+Washington Nationals(31-37)@Arizona Diamondbacks(37-33)^7#3
+Atlanta Braves(41-29)@Philadelphia Phillies(38-31)^5#6
+Baltimore Orioles(21-48)@Boston Red Sox(37-34)^2#7
+Chicago White Sox(34-34)@New York Yankees(41-27)^4#8
+Cincinnati Reds(30-37)@Texas Rangers(37-32)^3#4
+Colorado Rockies(37-32)@San Diego Padres(33-37)^14#8
+Detroit Tigers(25-42)@Cleveland Indians(35-33)^2#4
+Houston Astros(47-23)@Toronto Blue Jays(25-44)^7#2
+Los Angeles Dodgers(47-23)@Chicago Cubs(38-31)^1#2
+Miami Marlins(24-43)@Pittsburgh Pirates(31-38)^4#3
+Minnesota Twins(46-22)@Kansas City Royals(22-47)^5#4
+New York Mets(33-36)@St. Louis Cardinals(35-33)^8#7
+Oakland Athletics(37-34)@Seattle Mariners(29-44)^11#2
+San Francisco Giants(29-38)@Milwaukee Brewers(39-30)^8#7
+Tampa Bay Rays(42-27)@Los Angeles Angels(34-36)^3#5
+Washington Nationals(31-38)@Arizona Diamondbacks(38-33)^3#10
+Atlanta Braves(41-30)@Philadelphia Phillies(39-31)^15#1
+Baltimore Orioles(21-49)@Boston Red Sox(38-34)^6#8
+Chicago White Sox(33-36)@New York Yankees(43-26)^3#10
+Cincinnati Reds(31-37)@Texas Rangers(37-33)^11#3
+Colorado Rockies(37-33)@San Diego Padres(34-37)^13#14
+Detroit Tigers(25-43)@Cleveland Indians(36-33)^0#8
+Houston Astros(48-23)@Toronto Blue Jays(25-45)^0#12
+Los Angeles Dodgers(47-24)@Chicago Cubs(39-31)^3#2
+Miami Marlins(25-43)@Pittsburgh Pirates(31-39)^4#5
+Minnesota Twins(47-22)@Kansas City Royals(22-48)^6#8
+New York Mets(34-36)@St. Louis Cardinals(35-34)^3#4
+Oakland Athletics(37-35)@Seattle Mariners(30-44)^3#6
+San Francisco Giants(30-38)@Milwaukee Brewers(39-31)^3#5
+Tampa Bay Rays(42-28)@Los Angeles Angels(35-36)^6#5
+Washington Nationals(33-37)@Arizona Diamondbacks(37-35)^15#5
+Atlanta Braves(43-29)@New York Mets(33-38)^12#3
+Cincinnati Reds(31-38)@Houston Astros(48-24)^3#2
+Los Angeles Dodgers(48-24)@San Francisco Giants(30-39)^2#3
+Minnesota Twins(47-23)@Boston Red Sox(39-34)^0#2
+New York Yankees(43-27)@Tampa Bay Rays(43-28)^3#0
+Oakland Athletics(37-36)@Baltimore Orioles(21-50)^3#2
+San Diego Padres(35-37)@Milwaukee Brewers(40-31)^2#0
+Seattle Mariners(31-44)@Kansas City Royals(23-48)^4#6
+St. Louis Cardinals(36-34)@Miami Marlins(25-44)^5#0
+Texas Rangers(38-33)@Cleveland Indians(37-33)^7#2
+Toronto Blue Jays(25-46)@Los Angeles Angels(36-36)^5#10
+Arizona Diamondbacks(38-35)@Colorado Rockies(37-34)^1#8
+Atlanta Braves(42-31)@New York Mets(35-37)^2#10
+Chicago Cubs(39-32)@Chicago White Sox(34-36)^1#3
+Cincinnati Reds(32-38)@Houston Astros(48-25)^4#3
+Los Angeles Dodgers(48-25)@San Francisco Giants(31-39)^9#0
+Minnesota Twins(47-24)@Boston Red Sox(40-34)^4#3
+New York Yankees(44-27)@Tampa Bay Rays(43-29)^6#3
+Oakland Athletics(39-35)@Baltimore Orioles(20-52)^16#2
+Pittsburgh Pirates(32-39)@Detroit Tigers(25-44)^4#5
+San Diego Padres(36-37)@Milwaukee Brewers(40-32)^4#1
+Seattle Mariners(31-45)@Kansas City Royals(24-48)^0#9
+St. Louis Cardinals(37-34)@Miami Marlins(25-45)^0#6
+Texas Rangers(38-34)@Cleveland Indians(38-33)^3#10
+Toronto Blue Jays(26-46)@Los Angeles Angels(36-37)^1#3
+Arizona Diamondbacks(38-36)@Colorado Rockies(38-34)^4#6
+Atlanta Braves(43-31)@New York Mets(35-38)^7#2
+Chicago Cubs(39-33)@Chicago White Sox(35-36)^7#3
+Cincinnati Reds(33-38)@Houston Astros(48-26)^3#2
+Los Angeles Dodgers(49-25)@San Francisco Giants(31-40)^9#2
+Minnesota Twins(48-24)@Boston Red Sox(40-35)^4#9
+New York Yankees(45-27)@Tampa Bay Rays(43-30)^12#1
+Oakland Athletics(39-36)@Baltimore Orioles(21-52)^8#3
+Pittsburgh Pirates(32-40)@Detroit Tigers(26-44)^8#7
+San Diego Padres(37-37)@Milwaukee Brewers(40-33)^8#7
+Seattle Mariners(31-46)@Kansas City Royals(25-48)^8#2
+St. Louis Cardinals(37-35)@Miami Marlins(26-45)^2#1
+Texas Rangers(38-35)@Cleveland Indians(39-33)^4#10
+Toronto Blue Jays(25-48)@Los Angeles Angels(38-36)^6#11
+Washington Nationals(33-38)@Philadelphia Phillies(39-32)^6#2
+Washington Nationals(34-38)@Philadelphia Phillies(39-33)^2#0
+Arizona Diamondbacks(38-37)@Colorado Rockies(39-34)^4#6
+Chicago Cubs(40-33)@New York Mets(35-39)^7#4
+Kansas City Royals(25-49)@Minnesota Twins(48-25)^4#1
+Los Angeles Dodgers(50-25)@San Francisco Giants(31-41)^9#8
+Milwaukee Brewers(40-34)@Cincinnati Reds(34-38)^1#7
+New York Yankees(47-26)@Houston Astros(47-28)^10#6
+Oakland Athletics(40-36)@Tampa Bay Rays(43-31)^5#4
+Seattle Mariners(32-46)@Baltimore Orioles(21-53)^5#2
+St. Louis Cardinals(38-35)@Miami Marlins(26-46)^6#7
+Texas Rangers(39-35)@Cleveland Indians(39-34)^4#2
+Toronto Blue Jays(26-48)@Los Angeles Angels(38-37)^7#5
+Washington Nationals(35-38)@Philadelphia Phillies(39-34)^7#4
+Arizona Diamondbacks(37-39)@San Francisco Giants(32-41)^5#11
+Boston Red Sox(41-35)@Toronto Blue Jays(27-48)^7#5
+Chicago Cubs(41-33)@New York Mets(35-40)^4#5
+Cleveland Indians(39-35)@Detroit Tigers(26-45)^7#6
+Kansas City Royals(26-49)@Minnesota Twins(48-26)^7#8
+Los Angeles Dodgers(51-25)@Colorado Rockies(40-34)^4#2
+Milwaukee Brewers(39-36)@Cincinnati Reds(36-37)^7#11
+New York Yankees(47-27)@Houston Astros(48-28)^4#1
+Oakland Athletics(41-36)@Tampa Bay Rays(43-32)^3#5
+Philadelphia Phillies(39-35)@Miami Marlins(27-46)^1#2
+Pittsburgh Pirates(33-40)@San Diego Padres(38-37)^2#1
+Seattle Mariners(34-45)@Baltimore Orioles(20-55)^10#9
+St. Louis Cardinals(38-36)@Los Angeles Angels(38-38)^5#1
+Texas Rangers(40-35)@Chicago White Sox(35-37)^4#5
+Washington Nationals(36-38)@Atlanta Braves(44-31)^4#3
+Arizona Diamondbacks(38-39)@San Francisco Giants(32-42)^4#7
+Boston Red Sox(42-35)@Toronto Blue Jays(27-49)^7#8
+Chicago Cubs(40-35)@New York Mets(37-39)^2#10
+Cleveland Indians(40-35)@Detroit Tigers(26-46)^2#0
+Kansas City Royals(26-50)@Minnesota Twins(49-26)^3#5
+Los Angeles Dodgers(52-25)@Colorado Rockies(40-35)^5#4
+Milwaukee Brewers(40-36)@Cincinnati Reds(36-38)^6#5
+New York Yankees(48-27)@Houston Astros(48-29)^7#5
+Oakland Athletics(41-37)@Tampa Bay Rays(44-32)^4#2
+Philadelphia Phillies(39-36)@Miami Marlins(28-46)^3#5
+Pittsburgh Pirates(34-40)@San Diego Padres(38-38)^6#3
+Seattle Mariners(34-46)@Baltimore Orioles(21-55)^4#8
+St. Louis Cardinals(39-36)@Los Angeles Angels(38-39)^4#2
+Texas Rangers(40-36)@Chicago White Sox(36-37)^6#5
+Washington Nationals(36-39)@Atlanta Braves(45-31)^9#13
+Arizona Diamondbacks(38-40)@San Francisco Giants(33-42)^3#2
+Boston Red Sox(42-36)@Toronto Blue Jays(28-49)^1#6
+Chicago Cubs(41-35)@New York Mets(37-40)^5#3
+Cleveland Indians(41-35)@Detroit Tigers(26-47)^8#3
+Kansas City Royals(26-51)@Minnesota Twins(50-26)^6#1
+Los Angeles Dodgers(53-25)@Colorado Rockies(40-36)^6#3
+Milwaukee Brewers(41-36)@Cincinnati Reds(36-39)^7#5
+New York Yankees(49-27)@Houston Astros(48-30)^4#9
+Oakland Athletics(42-37)@Tampa Bay Rays(44-33)^2#8
+Philadelphia Phillies(39-37)@Miami Marlins(29-46)^4#6
+Pittsburgh Pirates(35-40)@San Diego Padres(38-39)^11#10
+Seattle Mariners(35-46)@Baltimore Orioles(21-56)^13#3
+St. Louis Cardinals(40-36)@Los Angeles Angels(38-40)^4#6
+Texas Rangers(41-36)@Chicago White Sox(36-38)^7#4
+Washington Nationals(37-39)@Atlanta Braves(45-32)^3#4
+Arizona Diamondbacks(39-40)@Los Angeles Dodgers(54-25)^8#5
+Boston Red Sox(42-37)@Chicago White Sox(36-39)^6#5
+Chicago Cubs(42-35)@Atlanta Braves(46-32)^8#3
+Cleveland Indians(42-35)@Kansas City Royals(27-51)^3#2
+New York Yankees(50-27)@Toronto Blue Jays(28-50)^10#8
+Philadelphia Phillies(40-37)@New York Mets(36-42)^13#7
+San Francisco Giants(33-43)@Colorado Rockies(40-37)^0#2
+Los Angeles Angels(39-40)@Cincinnati Reds(36-40)^5#1
+Arizona Diamondbacks(40-40)@Los Angeles Dodgers(54-26)^2#3
+Baltimore Orioles(22-56)@San Diego Padres(38-40)^3#8
+Boston Red Sox(43-37)@Chicago White Sox(36-40)^6#3
+Chicago Cubs(43-35)@Atlanta Braves(46-33)^2#3
+Cleveland Indians(43-35)@Kansas City Royals(27-52)^6#8
+Detroit Tigers(26-48)@Texas Rangers(42-36)^3#5
+Houston Astros(49-30)@Pittsburgh Pirates(36-40)^5#1
+Miami Marlins(30-46)@Washington Nationals(37-40)^1#6
+Milwaukee Brewers(42-36)@Seattle Mariners(35-47)^3#8
+Minnesota Twins(50-27)@Tampa Bay Rays(45-33)^9#4
+New York Yankees(50-28)@Toronto Blue Jays(29-50)^4#3
+Philadelphia Phillies(40-38)@New York Mets(37-42)^7#5
+San Francisco Giants(33-44)@Colorado Rockies(41-37)^4#2
+St. Louis Cardinals(40-37)@Oakland Athletics(42-38)^3#7
+Los Angeles Angels(40-40)@Cincinnati Reds(36-41)^5#1
+Arizona Diamondbacks(40-41)@Los Angeles Dodgers(55-26)^8#2
+Baltimore Orioles(21-58)@San Diego Padres(40-39)^5#10
+Boston Red Sox(44-37)@Chicago White Sox(36-41)^7#8
+Chicago Cubs(43-36)@Atlanta Braves(47-33)^3#5
+Cleveland Indians(43-36)@Kansas City Royals(28-52)^5#3
+Detroit Tigers(26-49)@Texas Rangers(43-36)^1#4
+Houston Astros(49-31)@Pittsburgh Pirates(37-40)^2#14
+Miami Marlins(30-47)@Washington Nationals(38-40)^5#7
+Milwaukee Brewers(42-37)@Seattle Mariners(36-47)^2#4
+Minnesota Twins(51-27)@Tampa Bay Rays(45-34)^6#4
+New York Yankees(51-28)@Toronto Blue Jays(29-51)^8#7
+Philadelphia Phillies(41-38)@New York Mets(37-43)^5#4
+San Francisco Giants(34-44)@Colorado Rockies(41-38)^3#6
+St. Louis Cardinals(40-38)@Oakland Athletics(43-38)^0#2
+Los Angeles Angels(41-40)@Oakland Athletics(44-38)^8#3
+Chicago Cubs(43-37)@Atlanta Braves(48-33)^9#7
+Colorado Rockies(41-39)@Los Angeles Dodgers(56-26)^8#12
+Detroit Tigers(26-50)@Texas Rangers(44-36)^1#3
+Houston Astros(50-31)@Pittsburgh Pirates(37-41)^0#10
+Miami Marlins(30-48)@Washington Nationals(39-40)^5#8
+Milwaukee Brewers(42-38)@Seattle Mariners(37-47)^4#2
+Minnesota Twins(52-27)@Tampa Bay Rays(45-35)^2#5
+Philadelphia Phillies(42-38)@New York Mets(37-44)^6#3
+San Francisco Giants(34-45)@Arizona Diamondbacks(41-41)^1#5
+Los Angeles Angels(42-40)@Oakland Athletics(44-39)^2#7
+Baltimore Orioles(22-58)@Cleveland Indians(44-36)^13#0
+Chicago White Sox(37-41)@Minnesota Twins(52-28)^6#4
+Cincinnati Reds(36-42)@Chicago Cubs(44-37)^6#3
+Colorado Rockies(43-38)@Los Angeles Dodgers(55-28)^13#9
+Detroit Tigers(26-51)@Washington Nationals(40-40)^1#3
+Houston Astros(50-32)@Seattle Mariners(37-48)^2#1
+Miami Marlins(30-49)@Philadelphia Phillies(43-38)^6#2
+Milwaukee Brewers(43-38)@Pittsburgh Pirates(38-41)^2#3
+New York Mets(37-45)@Atlanta Braves(48-34)^2#6
+San Diego Padres(40-40)@St. Louis Cardinals(40-39)^3#1
+San Francisco Giants(34-46)@Arizona Diamondbacks(42-41)^6#3
+Tampa Bay Rays(46-35)@Texas Rangers(45-36)^0#5
+Toronto Blue Jays(29-52)@Kansas City Royals(28-53)^6#2
+Los Angeles Angels(42-41)@Oakland Athletics(45-39)^0#4
+Baltimore Orioles(23-58)@Cleveland Indians(44-37)^13#0
+Boston Red Sox(44-38)@New York Yankees(52-28)^13#17
+Chicago White Sox(37-42)@Minnesota Twins(53-28)^3#10
+Cincinnati Reds(37-42)@Chicago Cubs(44-38)^0#6
+Colorado Rockies(43-39)@Los Angeles Dodgers(56-28)^5#3
+Detroit Tigers(26-52)@Washington Nationals(41-40)^7#5
+Houston Astros(51-32)@Seattle Mariners(37-49)^6#5
+Miami Marlins(31-49)@Philadelphia Phillies(43-39)^9#6
+Milwaukee Brewers(43-39)@Pittsburgh Pirates(39-41)^3#1
+New York Mets(37-46)@Atlanta Braves(49-34)^4#5
+San Diego Padres(42-39)@St. Louis Cardinals(39-41)^12#2
+San Francisco Giants(35-46)@Arizona Diamondbacks(42-42)^3#4
+Tampa Bay Rays(46-36)@Texas Rangers(46-36)^5#2
+Toronto Blue Jays(30-52)@Kansas City Royals(28-54)^7#5
+Los Angeles Angels(41-43)@Oakland Athletics(47-38)^3#12
+Baltimore Orioles(24-58)@Cleveland Indians(44-38)^0#2
+Boston Red Sox(43-40)@New York Yankees(54-27)^8#12
+Chicago White Sox(38-42)@Minnesota Twins(53-29)^4#3
+Cincinnati Reds(37-43)@Chicago Cubs(45-38)^8#6
+Colorado Rockies(43-40)@Los Angeles Dodgers(57-28)^5#10
+Detroit Tigers(27-52)@Washington Nationals(41-41)^1#2
+Houston Astros(52-32)@Seattle Mariners(37-50)^6#1
+Miami Marlins(31-50)@Philadelphia Phillies(44-39)^6#13
+Milwaukee Brewers(44-39)@Pittsburgh Pirates(39-42)^2#1
+New York Mets(37-47)@Atlanta Braves(50-34)^8#5
+San Diego Padres(42-40)@St. Louis Cardinals(40-41)^3#5
+San Francisco Giants(36-46)@Arizona Diamondbacks(42-43)^10#4
+Tampa Bay Rays(47-36)@Texas Rangers(46-37)^6#2
+Toronto Blue Jays(31-52)@Kansas City Royals(28-55)^6#7
+Cincinnati Reds(38-43)@Milwaukee Brewers(45-39)^6#8
+Pittsburgh Pirates(40-42)@Chicago Cubs(44-40)^18#5
+San Diego Padres(41-42)@San Francisco Giants(37-46)^2#13
+Tampa Bay Rays(48-36)@Baltimore Orioles(24-59)^6#3
+Toronto Blue Jays(32-52)@Kansas City Royals(28-56)^11#4
+Atlanta Braves(50-35)@Philadelphia Phillies(44-40)^0#2
+Cincinnati Reds(38-44)@Milwaukee Brewers(46-39)^5#4
+Colorado Rockies(44-40)@Houston Astros(53-32)^8#9
+Kansas City Royals(29-56)@Cleveland Indians(45-38)^5#9
+Los Angeles Dodgers(57-29)@Arizona Diamondbacks(43-43)^5#4
+New York Mets(38-47)@New York Yankees(54-28)^4#2
+Oakland Athletics(47-39)@Minnesota Twins(53-30)^8#6
+Pittsburgh Pirates(40-43)@Chicago Cubs(45-40)^5#1
+San Diego Padres(41-43)@San Francisco Giants(38-46)^4#10
+Seattle Mariners(37-51)@St. Louis Cardinals(41-41)^5#4
+Tampa Bay Rays(49-36)@Baltimore Orioles(24-60)^6#3
+Texas Rangers(46-38)@Los Angeles Angels(42-43)^4#9
+Toronto Blue Jays(31-54)@Boston Red Sox(45-39)^6#10
+Washington Nationals(42-41)@Miami Marlins(32-50)^3#2
+Atlanta Braves(50-36)@Philadelphia Phillies(45-40)^9#2
+Chicago White Sox(39-42)@Detroit Tigers(27-53)^7#5
+Chicago White Sox(40-42)@Detroit Tigers(27-54)^9#6
+Cincinnati Reds(39-44)@Milwaukee Brewers(46-40)^3#0
+Colorado Rockies(44-41)@Houston Astros(54-32)^2#4
+Kansas City Royals(29-57)@Cleveland Indians(46-38)^0#4
+Los Angeles Dodgers(58-29)@Arizona Diamondbacks(43-44)^5#4
+New York Mets(39-47)@New York Yankees(54-29)^1#5
+Oakland Athletics(48-39)@Minnesota Twins(53-31)^3#4
+Pittsburgh Pirates(41-43)@Chicago Cubs(45-41)^6#5
+San Diego Padres(42-43)@San Francisco Giants(38-47)^5#7
+Seattle Mariners(38-51)@St. Louis Cardinals(41-42)^2#5
+Tampa Bay Rays(50-36)@Baltimore Orioles(24-61)^6#9
+Texas Rangers(46-39)@Los Angeles Angels(43-43)^2#6
+Toronto Blue Jays(32-54)@Boston Red Sox(45-40)^6#3
+Washington Nationals(43-41)@Miami Marlins(32-51)^3#1
+Atlanta Braves(52-35)@Philadelphia Phillies(44-42)^12#6
+Chicago White Sox(40-43)@Detroit Tigers(28-54)^5#11
+Cincinnati Reds(40-44)@Milwaukee Brewers(46-41)^1#0
+Kansas City Royals(29-58)@Cleveland Indians(47-38)^4#8
+Los Angeles Dodgers(59-29)@San Diego Padres(42-44)^5#1
+Oakland Athletics(48-40)@Minnesota Twins(54-31)^7#2
+Pittsburgh Pirates(41-44)@Chicago Cubs(46-41)^3#11
+Seattle Mariners(38-52)@St. Louis Cardinals(42-42)^4#5
+Tampa Bay Rays(50-37)@New York Yankees(55-29)^4#8
+Texas Rangers(46-40)@Los Angeles Angels(44-43)^9#3
+Toronto Blue Jays(33-54)@Boston Red Sox(45-41)^7#8
+Washington Nationals(44-41)@Miami Marlins(32-52)^5#2
+Arizona Diamondbacks(43-45)@Colorado Rockies(44-42)^8#0
+Atlanta Braves(52-36)@Miami Marlins(32-53)^1#0
+Detroit Tigers(28-55)@Boston Red Sox(46-41)^6#9
+Houston Astros(55-32)@Los Angeles Angels(44-44)^4#5
+Los Angeles Dodgers(60-29)@San Diego Padres(42-45)^2#3
+Minnesota Twins(55-31)@Texas Rangers(46-41)^15#6
+New York Mets(39-48)@Philadelphia Phillies(45-42)^2#7
+Pittsburgh Pirates(42-44)@Milwaukee Brewers(46-42)^6#7
+Seattle Mariners(38-53)@Oakland Athletics(49-40)^2#5
+San Francisco Giants(39-47)@St. Louis Cardinals(43-42)^4#9
+Tampa Bay Rays(50-38)@New York Yankees(56-29)^4#8
+Toronto Blue Jays(33-55)@Baltimore Orioles(25-61)^1#4
+Washington Nationals(45-41)@Kansas City Royals(29-59)^4#7
+Arizona Diamondbacks(44-45)@Colorado Rockies(44-43)^4#2
+Atlanta Braves(53-36)@Miami Marlins(32-54)^4#5
+Chicago White Sox(41-43)@Chicago Cubs(46-42)^3#6
+Cincinnati Reds(41-44)@Cleveland Indians(48-38)^2#7
+Detroit Tigers(27-57)@Boston Red Sox(48-40)^6#10
+Houston Astros(55-33)@Los Angeles Angels(45-44)^4#0
+Los Angeles Dodgers(60-30)@San Diego Padres(43-45)^1#3
+Minnesota Twins(55-32)@Texas Rangers(47-41)^7#4
+New York Mets(39-49)@Philadelphia Phillies(46-42)^6#5
+Pittsburgh Pirates(43-44)@Milwaukee Brewers(46-43)^12#2
+Seattle Mariners(38-54)@Oakland Athletics(50-40)^6#3
+San Francisco Giants(39-48)@St. Louis Cardinals(44-42)^8#4
+Tampa Bay Rays(50-39)@New York Yankees(57-29)^4#3
+Toronto Blue Jays(33-56)@Baltimore Orioles(26-61)^1#8
+Washington Nationals(45-42)@Kansas City Royals(30-59)^6#0
+Arizona Diamondbacks(45-45)@Colorado Rockies(44-44)^5#3
+Atlanta Braves(53-37)@Miami Marlins(33-54)^4#3
+Chicago White Sox(41-44)@Chicago Cubs(47-42)^3#1
+Cincinnati Reds(41-45)@Cleveland Indians(49-38)^1#11
+Detroit Tigers(28-57)@Boston Red Sox(48-41)^3#6
+Houston Astros(56-33)@Los Angeles Angels(45-45)^11#10
+Los Angeles Dodgers(60-31)@San Diego Padres(44-45)^3#5
+Minnesota Twins(56-32)@Texas Rangers(47-42)^1#4
+New York Mets(40-49)@Philadelphia Phillies(46-43)^3#8
+Pittsburgh Pirates(43-45)@Milwaukee Brewers(47-43)^6#5
+Seattle Mariners(39-54)@Oakland Athletics(50-41)^4#7
+San Francisco Giants(40-48)@St. Louis Cardinals(44-43)^1#0
+Tampa Bay Rays(51-39)@New York Yankees(57-30)^2#1
+Toronto Blue Jays(33-57)@Baltimore Orioles(27-61)^6#1
+Washington Nationals(46-42)@Kansas City Royals(30-60)^5#2
+Texas Rangers(48-42)@Houston Astros(57-33)^5#0
+Los Angeles Angels(45-46)@Seattle Mariners(39-55)^13#0
+Baltimore Orioles(26-63)@Tampa Bay Rays(53-38)^4#16
+Boston Red Sox(49-41)@Los Angeles Dodgers(60-32)^8#1
+Chicago Cubs(47-43)@Pittsburgh Pirates(44-45)^4#3
+Cleveland Indians(50-38)@Minnesota Twins(56-33)^3#5
+Colorado Rockies(44-45)@Cincinnati Reds(41-46)^3#2
+Kansas City Royals(30-61)@Detroit Tigers(28-58)^8#5
+Miami Marlins(33-55)@New York Mets(40-50)^8#4
+Milwaukee Brewers(46-45)@San Francisco Giants(42-47)^7#10
+New York Yankees(57-31)@Toronto Blue Jays(34-57)^4#0
+Oakland Athletics(51-41)@Chicago White Sox(42-44)^5#1
+Philadelphia Phillies(47-43)@Washington Nationals(47-42)^0#4
+San Diego Padres(45-45)@Atlanta Braves(54-37)^3#5
+St. Louis Cardinals(44-44)@Arizona Diamondbacks(46-45)^2#4
+Texas Rangers(49-42)@Houston Astros(57-34)^9#8
+Los Angeles Angels(46-46)@Seattle Mariners(39-56)^9#2
+Baltimore Orioles(27-63)@Tampa Bay Rays(53-39)^2#1
+Baltimore Orioles(27-64)@Tampa Bay Rays(54-39)^4#12
+Boston Red Sox(49-42)@Los Angeles Dodgers(61-32)^2#11
+Chicago Cubs(49-42)@Pittsburgh Pirates(43-47)^10#4
+Cleveland Indians(50-39)@Minnesota Twins(57-33)^2#6
+Colorado Rockies(44-46)@Cincinnati Reds(42-46)^9#17
+Kansas City Royals(31-61)@Detroit Tigers(28-59)^4#1
+Miami Marlins(34-55)@New York Mets(40-51)^2#4
+Milwaukee Brewers(47-45)@San Francisco Giants(42-48)^5#4
+New York Yankees(58-31)@Toronto Blue Jays(34-58)^1#2
+Oakland Athletics(53-40)@Chicago White Sox(41-46)^13#2
+Philadelphia Phillies(47-44)@Washington Nationals(48-42)^3#4
+San Diego Padres(45-46)@Atlanta Braves(55-37)^5#7
+St. Louis Cardinals(44-45)@Arizona Diamondbacks(47-45)^4#2
+Texas Rangers(50-42)@Houston Astros(57-35)^6#7
+Los Angeles Angels(47-46)@Seattle Mariners(39-57)^6#3
+Baltimore Orioles(28-64)@Tampa Bay Rays(54-40)^1#4
+Boston Red Sox(50-42)@Los Angeles Dodgers(61-33)^4#7
+Chicago Cubs(49-43)@Pittsburgh Pirates(44-47)^8#3
+Cleveland Indians(50-40)@Minnesota Twins(58-33)^4#3
+Colorado Rockies(46-45)@Cincinnati Reds(41-48)^10#9
+Kansas City Royals(31-62)@Detroit Tigers(29-59)^8#12
+Miami Marlins(34-56)@New York Mets(41-51)^2#6
+Milwaukee Brewers(48-45)@San Francisco Giants(42-49)^3#8
+New York Yankees(58-32)@Toronto Blue Jays(35-58)^4#2
+Oakland Athletics(53-41)@Chicago White Sox(42-46)^3#2
+Philadelphia Phillies(47-45)@Washington Nationals(49-42)^4#3
+San Diego Padres(45-47)@Atlanta Braves(56-37)^1#4
+St. Louis Cardinals(45-45)@Arizona Diamondbacks(47-46)^5#2
+Texas Rangers(49-44)@Houston Astros(59-34)^4#12
+Los Angeles Angels(48-46)@Houston Astros(59-35)^9#6
+Boston Red Sox(51-42)@Toronto Blue Jays(34-60)^10#8
+Chicago Cubs(50-43)@Cincinnati Reds(42-48)^3#6
+Cleveland Indians(51-40)@Detroit Tigers(29-60)^8#6
+Colorado Rockies(45-47)@San Francisco Giants(44-48)^2#19
+Colorado Rockies(46-47)@San Francisco Giants(44-49)^1#2
+Kansas City Royals(32-62)@Chicago White Sox(42-47)^5#2
+Milwaukee Brewers(48-46)@Atlanta Braves(57-37)^2#4
+New York Yankees(59-32)@Tampa Bay Rays(55-40)^4#5
+Philadelphia Phillies(47-46)@Los Angeles Dodgers(63-32)^2#16
+St. Louis Cardinals(46-45)@Pittsburgh Pirates(44-48)^7#0
+Los Angeles Angels(49-46)@Houston Astros(59-36)^7#2
+Baltimore Orioles(28-65)@Washington Nationals(49-43)^1#8
+Boston Red Sox(50-44)@Toronto Blue Jays(36-59)^4#10
+Chicago Cubs(50-44)@Cincinnati Reds(43-48)^4#3
+Cleveland Indians(52-40)@Detroit Tigers(29-61)^8#0
+Colorado Rockies(46-48)@San Francisco Giants(45-49)^4#8
+Kansas City Royals(33-62)@Chicago White Sox(42-48)^11#0
+Miami Marlins(35-56)@San Diego Padres(44-49)^12#7
+Milwaukee Brewers(48-47)@Atlanta Braves(58-37)^13#1
+Minnesota Twins(58-34)@New York Mets(42-51)^2#3
+New York Yankees(59-33)@Tampa Bay Rays(56-40)^8#3
+Oakland Athletics(54-41)@Seattle Mariners(39-58)^9#2
+Philadelphia Phillies(48-46)@Los Angeles Dodgers(63-33)^9#8
+St. Louis Cardinals(47-45)@Pittsburgh Pirates(44-49)^1#3
+Texas Rangers(50-44)@Arizona Diamondbacks(47-47)^2#9
+Los Angeles Angels(49-47)@Houston Astros(60-36)^2#11
+Baltimore Orioles(28-66)@Washington Nationals(50-43)^9#2
+Boston Red Sox(51-44)@Toronto Blue Jays(36-60)^5#4
+Chicago Cubs(51-44)@Cincinnati Reds(43-49)^5#2
+Cleveland Indians(53-40)@Detroit Tigers(29-62)^7#2
+Colorado Rockies(45-50)@San Francisco Giants(47-48)^8#11
+Kansas City Royals(34-62)@Chicago White Sox(42-49)^7#5
+Miami Marlins(35-57)@San Diego Padres(45-49)^2#3
+Milwaukee Brewers(49-47)@Atlanta Braves(58-38)^5#4
+Minnesota Twins(57-36)@New York Mets(44-50)^4#14
+Oakland Athletics(56-40)@Seattle Mariners(38-60)^10#2
+Philadelphia Phillies(49-46)@Los Angeles Dodgers(63-34)^2#7
+St. Louis Cardinals(47-46)@Pittsburgh Pirates(45-49)^6#5
+Texas Rangers(49-46)@Arizona Diamondbacks(49-46)^4#19
+Los Angeles Angels(50-47)@Houston Astros(60-37)^2#6
+Arizona Diamondbacks(49-47)@Milwaukee Brewers(50-47)^1#5
+Atlanta Braves(57-40)@Washington Nationals(51-43)^4#13
+Boston Red Sox(52-44)@Toronto Blue Jays(36-61)^5#0
+Cincinnati Reds(43-50)@St. Louis Cardinals(48-46)^4#7
+Cleveland Indians(54-40)@Detroit Tigers(29-63)^6#3
+Kansas City Royals(35-62)@Chicago White Sox(42-50)^6#5
+Miami Marlins(35-58)@San Diego Padres(46-49)^4#3
+Minnesota Twins(58-36)@Oakland Athletics(56-41)^6#3
+New York Yankees(60-33)@Tampa Bay Rays(56-41)^6#2
+New York Yankees(61-33)@Tampa Bay Rays(56-42)^5#1
+Philadelphia Phillies(49-47)@Los Angeles Dodgers(64-34)^7#6
+San Francisco Giants(47-49)@New York Mets(44-51)^3#2
+Arizona Diamondbacks(50-47)@Milwaukee Brewers(50-48)^10#7
+Atlanta Braves(58-40)@Washington Nationals(51-44)^4#3
+Baltimore Orioles(30-65)@Boston Red Sox(52-45)^11#2
+Chicago Cubs(52-44)@San Diego Padres(46-50)^6#5
+Cincinnati Reds(43-51)@St. Louis Cardinals(49-46)^11#12
+Cleveland Indians(56-39)@Kansas City Royals(35-63)^10#5
+Detroit Tigers(29-64)@Toronto Blue Jays(36-62)^1#12
+Houston Astros(61-37)@Texas Rangers(50-46)^4#3
+Los Angeles Dodgers(64-35)@Miami Marlins(36-58)^2#1
+Minnesota Twins(59-36)@Oakland Athletics(56-42)^3#5
+New York Yankees(62-33)@Colorado Rockies(46-50)^8#2
+Pittsburgh Pirates(45-50)@Philadelphia Phillies(50-47)^1#6
+Seattle Mariners(39-60)@Los Angeles Angels(50-48)^10#0
+San Francisco Giants(48-49)@New York Mets(44-52)^1#0
+Tampa Bay Rays(56-43)@Chicago White Sox(42-51)^2#9
+Arizona Diamondbacks(50-48)@Milwaukee Brewers(51-48)^3#8
+Atlanta Braves(59-40)@Washington Nationals(51-45)^3#5
+Baltimore Orioles(29-67)@Boston Red Sox(54-44)^6#17
+Chicago Cubs(53-44)@San Diego Padres(46-51)^6#5
+Cincinnati Reds(43-52)@St. Louis Cardinals(50-46)^3#2
+Cleveland Indians(56-40)@Kansas City Royals(36-63)^0#1
+Detroit Tigers(29-65)@Toronto Blue Jays(37-62)^5#7
+Houston Astros(62-37)@Texas Rangers(50-47)^6#1
+Los Angeles Dodgers(66-34)@Miami Marlins(35-60)^10#6
+Minnesota Twins(59-37)@Oakland Athletics(57-42)^4#5
+New York Yankees(64-32)@Colorado Rockies(45-52)^11#5
+Pittsburgh Pirates(45-51)@Philadelphia Phillies(51-47)^5#1
+Seattle Mariners(40-60)@Los Angeles Angels(50-49)^2#6
+San Francisco Giants(48-50)@New York Mets(45-52)^4#11
+Tampa Bay Rays(56-44)@Chicago White Sox(43-51)^1#2
+Arizona Diamondbacks(50-49)@Milwaukee Brewers(52-48)^4#7
+Atlanta Braves(59-41)@Washington Nationals(52-45)^7#1
+Baltimore Orioles(30-67)@Boston Red Sox(54-45)^5#0
+Chicago Cubs(54-44)@San Diego Padres(46-52)^1#5
+Cincinnati Reds(44-52)@St. Louis Cardinals(50-47)^1#3
+Cleveland Indians(56-41)@Kansas City Royals(37-63)^5#4
+Detroit Tigers(29-66)@Toronto Blue Jays(38-62)^4#3
+Houston Astros(63-37)@Texas Rangers(50-48)^5#3
+Los Angeles Dodgers(66-35)@Miami Marlins(36-60)^9#0
+Minnesota Twins(59-38)@Oakland Athletics(58-42)^7#6
+New York Yankees(64-33)@Colorado Rockies(46-52)^4#8
+Pittsburgh Pirates(46-51)@Philadelphia Phillies(51-48)^1#2
+Seattle Mariners(40-61)@Los Angeles Angels(51-49)^3#9
+San Francisco Giants(49-50)@New York Mets(45-53)^3#2
+Tampa Bay Rays(56-45)@Chicago White Sox(44-51)^4#2
+Arizona Diamondbacks(50-50)@Baltimore Orioles(31-67)^6#3
+Chicago White Sox(44-52)@Miami Marlins(36-61)^9#1
+Houston Astros(64-37)@Oakland Athletics(58-43)^11#1
+Milwaukee Brewers(53-48)@Cincinnati Reds(44-53)^5#6
+Minnesota Twins(60-38)@New York Yankees(64-34)^8#6
+Pittsburgh Pirates(46-52)@St. Louis Cardinals(51-47)^5#6
+Seattle Mariners(40-62)@Texas Rangers(50-49)^7#3
+San Francisco Giants(50-50)@Chicago Cubs(54-45)^5#4
+Tampa Bay Rays(57-45)@Boston Red Sox(54-46)^4#9
+Toronto Blue Jays(38-63)@Cleveland Indians(57-41)^3#7
+Arizona Diamondbacks(51-50)@Baltimore Orioles(31-68)^2#7
+Atlanta Braves(60-41)@Kansas City Royals(37-64)^4#5
+Chicago White Sox(45-52)@Miami Marlins(36-62)^1#5
+Detroit Tigers(30-66)@Philadelphia Phillies(52-48)^2#3
+Houston Astros(65-37)@Oakland Athletics(58-44)^3#4
+Los Angeles Dodgers(67-35)@Los Angeles Angels(52-49)^4#5
+Milwaukee Brewers(52-50)@Cincinnati Reds(46-52)^6#14
+Minnesota Twins(61-38)@New York Yankees(64-35)^12#14
+New York Mets(45-54)@San Diego Padres(47-52)^5#2
+Pittsburgh Pirates(46-53)@St. Louis Cardinals(52-47)^3#4
+Seattle Mariners(41-62)@Texas Rangers(50-50)^2#7
+San Francisco Giants(51-50)@Chicago Cubs(54-46)^5#4
+Tampa Bay Rays(57-46)@Boston Red Sox(55-46)^4#5
+Toronto Blue Jays(38-64)@Cleveland Indians(58-41)^2#1
+Washington Nationals(52-46)@Colorado Rockies(47-52)^11#1
+Arizona Diamondbacks(51-51)@Baltimore Orioles(32-68)^5#2
+Atlanta Braves(60-42)@Kansas City Royals(38-64)^0#2
+Chicago White Sox(45-53)@Miami Marlins(37-62)^0#2
+Detroit Tigers(30-67)@Philadelphia Phillies(53-48)^0#4
+Houston Astros(65-38)@Oakland Athletics(59-44)^4#2
+Los Angeles Dodgers(67-36)@Los Angeles Angels(53-49)^2#3
+Milwaukee Brewers(53-50)@Cincinnati Reds(46-53)^5#4
+Minnesota Twins(60-40)@New York Yankees(66-34)^7#10
+New York Mets(46-54)@San Diego Padres(47-53)^2#7
+Pittsburgh Pirates(45-55)@St. Louis Cardinals(54-46)^8#14
+Seattle Mariners(41-63)@Texas Rangers(51-50)^5#3
+San Francisco Giants(52-50)@Chicago Cubs(54-47)^1#4
+Tampa Bay Rays(57-47)@Boston Red Sox(56-46)^3#2
+Toronto Blue Jays(39-64)@Cleveland Indians(58-42)^0#4
+Washington Nationals(53-46)@Colorado Rockies(47-53)^3#2
+Washington Nationals(54-46)@Colorado Rockies(47-54)^2#0
+Los Angeles Angels(53-50)@Baltimore Orioles(33-68)^8#10
+Boston Red Sox(57-46)@New York Yankees(65-36)^19#3
+Chicago White Sox(44-55)@Minnesota Twins(62-39)^3#10
+Kansas City Royals(39-64)@Cleveland Indians(59-42)^4#5
+New York Mets(46-55)@San Diego Padres(48-53)^4#0
+Oakland Athletics(58-46)@Texas Rangers(52-50)^3#11
+Pittsburgh Pirates(46-55)@St. Louis Cardinals(54-47)^3#6
+Seattle Mariners(43-62)@Detroit Tigers(29-69)^10#2
+Washington Nationals(55-46)@Colorado Rockies(47-55)^7#8
+Los Angeles Angels(54-50)@Baltimore Orioles(33-69)^3#9
+Boston Red Sox(58-46)@New York Yankees(65-37)^10#5
+Chicago White Sox(45-55)@Minnesota Twins(62-40)^2#6
+Cincinnati Reds(45-55)@Colorado Rockies(49-54)^2#12
+Kansas City Royals(39-65)@Cleveland Indians(60-42)^3#8
+Miami Marlins(38-62)@Arizona Diamondbacks(52-51)^3#2
+Milwaukee Brewers(54-50)@Chicago Cubs(55-47)^3#2
+New York Mets(47-55)@Pittsburgh Pirates(46-56)^6#3
+Oakland Athletics(59-46)@Texas Rangers(52-51)^2#5
+Philadelphia Phillies(54-48)@Atlanta Braves(60-43)^2#9
+San Diego Padres(48-54)@San Francisco Giants(52-51)^1#2
+Seattle Mariners(43-63)@Detroit Tigers(30-69)^3#2
+St. Louis Cardinals(55-47)@Houston Astros(66-38)^5#3
+Toronto Blue Jays(39-65)@Tampa Bay Rays(58-47)^1#3
+Washington Nationals(55-47)@Los Angeles Dodgers(67-37)^2#4
+Los Angeles Angels(54-51)@Baltimore Orioles(34-69)^7#8
+Boston Red Sox(58-47)@New York Yankees(66-37)^9#5
+Chicago White Sox(45-56)@Minnesota Twins(63-40)^5#1
+Cincinnati Reds(46-55)@Colorado Rockies(49-55)^3#1
+Kansas City Royals(39-66)@Cleveland Indians(61-42)^1#9
+Miami Marlins(39-62)@Arizona Diamondbacks(52-52)^2#9
+Milwaukee Brewers(55-50)@Chicago Cubs(55-48)^5#3
+New York Mets(48-55)@Pittsburgh Pirates(46-57)^3#0
+Oakland Athletics(59-47)@Texas Rangers(53-51)^5#4
+Philadelphia Phillies(53-50)@Atlanta Braves(62-42)^7#15
+San Diego Padres(48-55)@San Francisco Giants(53-51)^5#1
+Seattle Mariners(44-63)@Detroit Tigers(30-70)^8#1
+St. Louis Cardinals(56-47)@Houston Astros(66-39)^2#8
+Toronto Blue Jays(40-65)@Tampa Bay Rays(58-48)^10#9
+Washington Nationals(55-48)@Los Angeles Dodgers(68-37)^3#9
+Los Angeles Angels(54-52)@Baltimore Orioles(35-69)^5#4
+Boston Red Sox(59-47)@New York Yankees(66-38)^6#9
+Chicago White Sox(46-56)@Minnesota Twins(63-41)^1#11
+Cincinnati Reds(47-55)@Colorado Rockies(49-56)^3#2
+Kansas City Royals(39-67)@Cleveland Indians(62-42)^9#6
+Miami Marlins(39-63)@Arizona Diamondbacks(53-52)^5#1
+Milwaukee Brewers(55-51)@Chicago Cubs(56-48)^4#11
+New York Mets(49-55)@Pittsburgh Pirates(46-58)^8#7
+Oakland Athletics(60-47)@Texas Rangers(53-52)^6#5
+Philadelphia Phillies(54-50)@Atlanta Braves(62-43)^9#4
+San Diego Padres(49-55)@San Francisco Giants(53-52)^6#7
+Seattle Mariners(45-63)@Detroit Tigers(30-71)^3#2
+St. Louis Cardinals(56-48)@Houston Astros(67-39)^2#6
+Toronto Blue Jays(39-67)@Tampa Bay Rays(60-47)^9#10
+Washington Nationals(56-48)@Los Angeles Dodgers(68-38)^11#4
+Los Angeles Angels(55-52)@Detroit Tigers(30-72)^2#7
+Cincinnati Reds(49-54)@Pittsburgh Pirates(45-60)^11#6
+Colorado Rockies(49-57)@Los Angeles Dodgers(69-38)^9#1
+Kansas City Royals(40-67)@Toronto Blue Jays(40-67)^3#7
+Miami Marlins(41-62)@Arizona Diamondbacks(52-54)^11#6
+San Diego Padres(49-56)@Baltimore Orioles(35-70)^8#1
+Washington Nationals(56-49)@Atlanta Braves(62-44)^6#3
+Los Angeles Angels(55-53)@Detroit Tigers(31-72)^6#1
+Boston Red Sox(59-48)@Tampa Bay Rays(60-48)^5#6
+Chicago White Sox(46-57)@New York Mets(50-55)^2#5
+Cincinnati Reds(48-56)@Pittsburgh Pirates(47-59)^4#11
+Cleveland Indians(62-43)@Houston Astros(68-39)^0#2
+Colorado Rockies(50-57)@Los Angeles Dodgers(69-39)^4#9
+Kansas City Royals(40-68)@Toronto Blue Jays(41-67)^2#9
+Miami Marlins(41-63)@Minnesota Twins(64-41)^1#2
+New York Yankees(67-38)@Arizona Diamondbacks(53-54)^2#4
+Oakland Athletics(61-47)@Milwaukee Brewers(56-51)^3#2
+Philadelphia Phillies(55-50)@San Francisco Giants(54-52)^4#2
+San Diego Padres(50-56)@Baltimore Orioles(35-71)^5#8
+St. Louis Cardinals(56-49)@Chicago Cubs(56-49)^2#1
+Texas Rangers(53-53)@Seattle Mariners(46-63)^5#8
+Washington Nationals(56-50)@Atlanta Braves(63-44)^8#11
+Los Angeles Angels(56-53)@Detroit Tigers(31-73)^1#9
+Boston Red Sox(59-49)@Tampa Bay Rays(61-48)^5#8
+Chicago White Sox(46-58)@New York Mets(51-55)^2#4
+Cincinnati Reds(49-56)@Pittsburgh Pirates(47-60)^4#1
+Cleveland Indians(63-43)@Houston Astros(68-40)^10#4
+Colorado Rockies(50-58)@Los Angeles Dodgers(70-39)^1#5
+Kansas City Royals(40-69)@Toronto Blue Jays(42-67)^1#4
+Miami Marlins(41-64)@Minnesota Twins(65-41)^4#7
+New York Yankees(67-39)@Arizona Diamondbacks(54-54)^7#5
+Oakland Athletics(62-47)@Milwaukee Brewers(56-52)^2#4
+Philadelphia Phillies(56-50)@San Francisco Giants(54-53)^1#5
+St. Louis Cardinals(57-49)@Chicago Cubs(56-50)^0#2
+Texas Rangers(53-54)@Seattle Mariners(47-63)^9#7
+Washington Nationals(57-50)@Atlanta Braves(63-45)^4#5
+Atlanta Braves(64-45)@Cincinnati Reds(50-56)^4#1
+Baltimore Orioles(35-72)@Toronto Blue Jays(44-66)^2#11
+Boston Red Sox(59-50)@Tampa Bay Rays(62-48)^4#9
+Chicago White Sox(46-59)@New York Mets(52-55)^0#4
+Cleveland Indians(63-44)@Houston Astros(69-40)^1#7
+Los Angeles Dodgers(71-39)@San Diego Padres(50-57)^8#2
+Miami Marlins(41-65)@Minnesota Twins(66-41)^5#4
+Oakland Athletics(62-48)@Milwaukee Brewers(57-52)^5#3
+Philadelphia Phillies(57-50)@San Francisco Giants(54-54)^10#2
+St. Louis Cardinals(57-50)@Chicago Cubs(57-50)^8#0
+Arizona Diamondbacks(54-55)@Washington Nationals(57-51)^0#3
+Atlanta Braves(65-45)@Cincinnati Reds(50-57)^2#5
+Baltimore Orioles(36-72)@Toronto Blue Jays(44-67)^2#5
+Chicago Cubs(57-51)@Milwaukee Brewers(57-53)^6#2
+Cleveland Indians(63-45)@Los Angeles Angels(56-54)^7#3
+Colorado Rockies(50-59)@San Francisco Giants(55-54)^5#4
+Houston Astros(71-39)@Seattle Mariners(46-65)^10#2
+Los Angeles Dodgers(72-39)@San Diego Padres(50-58)^2#5
+Minnesota Twins(67-41)@Kansas City Royals(39-71)^11#9
+New York Yankees(68-39)@Boston Red Sox(59-51)^4#2
+Philadelphia Phillies(57-51)@Chicago White Sox(46-60)^3#4
+Pittsburgh Pirates(47-61)@New York Mets(53-55)^8#4
+Texas Rangers(54-54)@Detroit Tigers(32-73)^5#4
+Arizona Diamondbacks(55-55)@Washington Nationals(57-52)^18#7
+Atlanta Braves(65-46)@Cincinnati Reds(51-57)^5#4
+Baltimore Orioles(36-73)@Toronto Blue Jays(45-67)^6#4
+Chicago Cubs(58-51)@Milwaukee Brewers(57-54)^4#1
+Cleveland Indians(64-45)@Los Angeles Angels(56-55)^7#2
+Colorado Rockies(51-59)@San Francisco Giants(55-55)^5#6
+Houston Astros(71-40)@Seattle Mariners(47-65)^9#0
+Los Angeles Dodgers(72-40)@San Diego Padres(51-58)^4#1
+Minnesota Twins(68-41)@Kansas City Royals(39-72)^11#3
+New York Yankees(69-39)@Boston Red Sox(59-52)^9#2
+New York Yankees(70-39)@Boston Red Sox(59-53)^6#4
+Oakland Athletics(63-48)@St. Louis Cardinals(58-50)^8#3
+Philadelphia Phillies(57-52)@Chicago White Sox(47-60)^3#2
+Pittsburgh Pirates(48-61)@New York Mets(53-56)^5#7
+Tampa Bay Rays(63-48)@Miami Marlins(42-65)^8#6
+Texas Rangers(55-54)@Detroit Tigers(32-74)^5#4
+Arizona Diamondbacks(55-56)@Washington Nationals(58-52)^7#5
+Atlanta Braves(66-46)@Cincinnati Reds(51-58)^4#6
+Baltimore Orioles(37-73)@Toronto Blue Jays(45-68)^6#5
+Chicago Cubs(59-51)@Milwaukee Brewers(57-55)^7#2
+Cleveland Indians(65-45)@Los Angeles Angels(56-56)^6#2
+Colorado Rockies(51-60)@San Francisco Giants(56-55)^6#2
+Houston Astros(72-40)@Seattle Mariners(47-66)^3#1
+Los Angeles Dodgers(73-40)@San Diego Padres(51-59)^11#10
+Minnesota Twins(68-42)@Kansas City Royals(40-72)^3#0
+New York Yankees(71-39)@Boston Red Sox(59-54)^7#4
+Oakland Athletics(64-48)@St. Louis Cardinals(58-51)^4#2
+Philadelphia Phillies(57-53)@Chicago White Sox(48-60)^5#10
+Pittsburgh Pirates(47-63)@New York Mets(55-55)^2#13
+Tampa Bay Rays(64-48)@Miami Marlins(42-66)^7#2
+Texas Rangers(56-54)@Detroit Tigers(32-75)^9#4
+Arizona Diamondbacks(56-56)@Philadelphia Phillies(58-53)^3#7
+Baltimore Orioles(38-73)@New York Yankees(72-39)^6#9
+Boston Red Sox(59-55)@Kansas City Royals(40-73)^7#5
+Chicago Cubs(60-51)@Oakland Athletics(65-48)^6#5
+Cincinnati Reds(52-58)@Los Angeles Angels(56-57)^7#4
+Cleveland Indians(66-45)@Texas Rangers(57-54)^0#1
+Detroit Tigers(32-76)@Chicago White Sox(48-61)^4#7
+Los Angeles Dodgers(74-40)@St. Louis Cardinals(58-52)^8#0
+Minnesota Twins(69-42)@Atlanta Braves(66-47)^5#3
+New York Mets(55-56)@Miami Marlins(42-67)^6#2
+New York Mets(56-56)@Miami Marlins(42-68)^5#4
+Pittsburgh Pirates(48-63)@Milwaukee Brewers(57-56)^7#9
+San Francisco Giants(56-56)@Washington Nationals(58-53)^0#4
+Tampa Bay Rays(65-48)@Toronto Blue Jays(45-69)^0#2
+Arizona Diamondbacks(56-57)@Philadelphia Phillies(59-53)^8#4
+Baltimore Orioles(38-74)@New York Yankees(73-39)^4#9
+Boston Red Sox(60-55)@Kansas City Royals(40-74)^2#6
+Chicago Cubs(60-52)@Oakland Athletics(66-48)^4#11
+Cincinnati Reds(53-58)@Los Angeles Angels(56-58)^8#4
+Detroit Tigers(32-77)@Chicago White Sox(49-61)^3#5
+Detroit Tigers(33-77)@Chicago White Sox(49-62)^10#6
+Houston Astros(74-39)@Colorado Rockies(51-61)^11#6
+Los Angeles Dodgers(75-40)@St. Louis Cardinals(58-53)^3#1
+Minnesota Twins(69-43)@Atlanta Braves(67-47)^7#12
+New York Mets(57-56)@Miami Marlins(42-69)^5#0
+Pittsburgh Pirates(48-64)@Milwaukee Brewers(58-56)^3#4
+Seattle Mariners(47-67)@San Diego Padres(51-60)^4#9
+San Francisco Giants(56-57)@Washington Nationals(59-53)^3#5
+Tampa Bay Rays(65-49)@Toronto Blue Jays(46-69)^7#6
+Arizona Diamondbacks(57-57)@Philadelphia Phillies(59-54)^6#1
+Baltimore Orioles(37-76)@New York Yankees(75-38)^2#14
+Boston Red Sox(60-56)@Kansas City Royals(41-74)^5#4
+Chicago Cubs(61-52)@Oakland Athletics(66-49)^10#1
+Cleveland Indians(66-46)@Texas Rangers(58-54)^2#0
+Cleveland Indians(67-46)@Texas Rangers(58-55)^5#1
+Detroit Tigers(33-78)@Chicago White Sox(50-62)^1#8
+Houston Astros(75-39)@Colorado Rockies(51-62)^14#3
+Los Angeles Dodgers(76-40)@St. Louis Cardinals(58-54)^2#1
+Minnesota Twins(69-44)@Atlanta Braves(68-47)^7#11
+New York Mets(58-56)@Miami Marlins(42-70)^7#2
+Pittsburgh Pirates(48-65)@Milwaukee Brewers(59-56)^3#8
+Seattle Mariners(47-68)@San Diego Padres(52-60)^3#2
+San Francisco Giants(56-58)@Washington Nationals(60-53)^1#4
+Tampa Bay Rays(66-49)@Toronto Blue Jays(46-70)^3#4
+Boston Red Sox(61-56)@Los Angeles Angels(56-59)^3#0
+Cincinnati Reds(53-59)@Chicago Cubs(63-51)^5#12
+Detroit Tigers(34-78)@Kansas City Royals(40-76)^10#8
+Miami Marlins(42-71)@Atlanta Braves(68-48)^9#2
+Minnesota Twins(70-44)@Cleveland Indians(68-46)^5#7
+San Diego Padres(52-61)@Colorado Rockies(52-62)^9#3
+San Francisco Giants(56-59)@Philadelphia Phillies(59-55)^5#0
+Toronto Blue Jays(46-71)@New York Yankees(76-38)^6#12
+Baltimore Orioles(38-76)@Houston Astros(75-40)^2#3
+Boston Red Sox(63-55)@Los Angeles Angels(55-61)^16#4
+Chicago White Sox(51-62)@Oakland Athletics(66-50)^0#7
+Cincinnati Reds(54-59)@Chicago Cubs(63-52)^5#2
+Detroit Tigers(34-79)@Kansas City Royals(41-76)^5#2
+Los Angeles Dodgers(77-40)@Arizona Diamondbacks(58-57)^2#3
+Miami Marlins(43-71)@Atlanta Braves(68-49)^4#8
+Milwaukee Brewers(60-56)@Texas Rangers(58-56)^6#5
+Minnesota Twins(70-45)@Cleveland Indians(69-46)^2#6
+New York Mets(59-56)@Washington Nationals(61-53)^7#6
+San Diego Padres(53-61)@Colorado Rockies(52-63)^7#1
+Seattle Mariners(48-68)@Tampa Bay Rays(66-50)^3#5
+San Francisco Giants(57-59)@Philadelphia Phillies(59-56)^6#9
+St. Louis Cardinals(58-55)@Pittsburgh Pirates(48-66)^6#2
+Toronto Blue Jays(47-71)@New York Yankees(76-39)^8#2
+Baltimore Orioles(38-77)@Houston Astros(76-40)^2#23
+Boston Red Sox(62-57)@Los Angeles Angels(57-60)^4#12
+Chicago White Sox(51-63)@Oakland Athletics(67-50)^3#2
+Cincinnati Reds(55-59)@Chicago Cubs(63-53)^10#1
+Detroit Tigers(35-79)@Kansas City Royals(41-77)^0#7
+Los Angeles Dodgers(77-41)@Arizona Diamondbacks(59-57)^4#0
+Miami Marlins(43-72)@Atlanta Braves(69-49)^7#6
+Milwaukee Brewers(61-56)@Texas Rangers(58-57)^3#2
+Minnesota Twins(70-46)@Cleveland Indians(70-46)^4#1
+New York Mets(60-56)@Washington Nationals(61-54)^4#3
+San Diego Padres(54-61)@Colorado Rockies(52-64)^8#5
+Seattle Mariners(48-69)@Tampa Bay Rays(67-50)^4#5
+San Francisco Giants(57-60)@Philadelphia Phillies(60-56)^3#1
+St. Louis Cardinals(59-55)@Pittsburgh Pirates(48-67)^3#1
+Toronto Blue Jays(48-71)@New York Yankees(76-40)^5#4
+Baltimore Orioles(38-78)@Houston Astros(77-40)^8#7
+Boston Red Sox(63-57)@Los Angeles Angels(57-61)^4#5
+Chicago White Sox(52-63)@Oakland Athletics(67-51)^0#2
+Cincinnati Reds(56-59)@Chicago Cubs(63-54)^3#6
+Detroit Tigers(34-81)@Kansas City Royals(43-76)^2#10
+Los Angeles Dodgers(78-41)@Arizona Diamondbacks(59-58)^9#3
+Miami Marlins(44-72)@Atlanta Braves(69-50)^4#5
+Milwaukee Brewers(62-56)@Texas Rangers(58-58)^0#1
+Minnesota Twins(71-46)@Cleveland Indians(70-47)^3#7
+New York Mets(61-56)@Washington Nationals(61-55)^4#7
+San Diego Padres(55-61)@Colorado Rockies(52-65)^3#8
+Seattle Mariners(48-70)@Tampa Bay Rays(68-50)^0#1
+San Francisco Giants(58-60)@Philadelphia Phillies(60-57)^9#6
+St. Louis Cardinals(61-54)@Pittsburgh Pirates(47-69)^11#9
+Toronto Blue Jays(49-71)@New York Yankees(76-41)^0#1
+Los Angeles Angels(57-62)@Pittsburgh Pirates(49-68)^2#10
+Cleveland Indians(71-47)@Boston Red Sox(63-58)^6#5
+Colorado Rockies(53-65)@Arizona Diamondbacks(59-59)^6#8
+New York Yankees(77-41)@Baltimore Orioles(39-78)^8#5
+New York Yankees(79-40)@Baltimore Orioles(38-80)^11#8
+San Diego Padres(54-63)@Tampa Bay Rays(70-49)^4#10
+Toronto Blue Jays(50-71)@Texas Rangers(58-59)^19#4
+Washington Nationals(62-55)@Cincinnati Reds(56-60)^7#6
+Los Angeles Angels(57-63)@Pittsburgh Pirates(50-68)^7#10
+Atlanta Braves(70-50)@New York Mets(61-57)^5#3
+Chicago White Sox(52-64)@Houston Astros(77-41)^2#6
+Chicago White Sox(52-65)@Houston Astros(78-41)^4#1
+Cleveland Indians(72-47)@Boston Red Sox(63-59)^6#7
+Colorado Rockies(53-66)@Arizona Diamondbacks(60-59)^3#9
+Detroit Tigers(34-82)@Seattle Mariners(49-70)^6#11
+Kansas City Royals(43-77)@St. Louis Cardinals(61-55)^0#2
+Miami Marlins(44-73)@Los Angeles Dodgers(79-41)^1#15
+Milwaukee Brewers(62-57)@Minnesota Twins(71-47)^5#7
+New York Yankees(79-41)@Baltimore Orioles(39-80)^8#3
+Philadelphia Phillies(60-58)@Chicago Cubs(64-54)^4#2
+San Diego Padres(55-63)@Tampa Bay Rays(70-50)^5#7
+San Francisco Giants(59-60)@Oakland Athletics(68-51)^3#2
+Toronto Blue Jays(50-72)@Texas Rangers(59-59)^3#0
+Washington Nationals(63-55)@Cincinnati Reds(56-61)^3#1
+Los Angeles Angels(58-63)@Pittsburgh Pirates(50-69)^7#4
+Atlanta Braves(71-50)@New York Mets(61-58)^6#4
+Chicago White Sox(54-64)@Houston Astros(77-43)^13#9
+Cleveland Indians(72-48)@Boston Red Sox(64-59)^1#5
+Colorado Rockies(53-67)@Arizona Diamondbacks(61-59)^7#6
+Detroit Tigers(35-82)@Seattle Mariners(49-71)^3#2
+Kansas City Royals(43-78)@St. Louis Cardinals(62-55)^0#6
+Miami Marlins(44-74)@Los Angeles Dodgers(80-41)^1#9
+Milwaukee Brewers(62-58)@Minnesota Twins(72-47)^6#5
+New York Yankees(80-41)@Baltimore Orioles(39-81)^6#5
+Philadelphia Phillies(61-58)@Chicago Cubs(64-55)^11#1
+San Diego Padres(55-64)@Tampa Bay Rays(71-50)^7#2
+San Francisco Giants(60-60)@Oakland Athletics(68-52)^5#9
+Toronto Blue Jays(51-72)@Texas Rangers(59-60)^3#7
+Washington Nationals(65-54)@Cincinnati Reds(55-63)^17#7
+Los Angeles Angels(59-63)@Chicago White Sox(54-65)^8#7
+Arizona Diamondbacks(61-60)@San Francisco Giants(60-61)^0#7
+Atlanta Braves(71-51)@New York Mets(62-58)^8#10
+Cincinnati Reds(56-63)@St. Louis Cardinals(63-55)^2#1
+Detroit Tigers(36-82)@Seattle Mariners(49-72)^2#7
+Miami Marlins(45-74)@Los Angeles Dodgers(80-42)^13#7
+New York Yankees(80-42)@Cleveland Indians(73-48)^5#19
+Oakland Athletics(69-52)@Houston Astros(78-43)^7#6
+Philadelphia Phillies(62-58)@Chicago Cubs(64-56)^7#5
+Texas Rangers(59-61)@Minnesota Twins(73-47)^6#13
+Los Angeles Angels(60-63)@Chicago White Sox(54-66)^2#7
+Arizona Diamondbacks(60-62)@San Francisco Giants(62-60)^9#10
+Atlanta Braves(72-51)@Los Angeles Dodgers(81-42)^3#8
+Boston Red Sox(65-59)@Baltimore Orioles(39-82)^9#1
+Cincinnati Reds(56-64)@St. Louis Cardinals(64-55)^4#13
+Colorado Rockies(54-67)@Miami Marlins(45-75)^3#0
+Kansas City Royals(43-79)@New York Mets(62-59)^4#1
+New York Yankees(81-42)@Cleveland Indians(73-49)^3#2
+Oakland Athletics(70-52)@Houston Astros(78-44)^3#2
+Philadelphia Phillies(63-58)@San Diego Padres(56-64)^8#4
+Pittsburgh Pirates(50-70)@Chicago Cubs(64-57)^3#2
+Tampa Bay Rays(71-51)@Detroit Tigers(36-83)^0#2
+Texas Rangers(60-61)@Minnesota Twins(73-48)^3#4
+Toronto Blue Jays(51-73)@Seattle Mariners(50-72)^7#3
+Washington Nationals(65-55)@Milwaukee Brewers(63-58)^2#1
+Los Angeles Angels(60-64)@Chicago White Sox(55-66)^6#5
+Arizona Diamondbacks(60-63)@San Francisco Giants(63-60)^6#11
+Atlanta Braves(72-52)@Los Angeles Dodgers(82-42)^4#3
+Boston Red Sox(66-59)@Baltimore Orioles(39-83)^4#0
+Cincinnati Reds(57-64)@St. Louis Cardinals(64-56)^6#1
+Colorado Rockies(56-66)@Miami Marlins(44-77)^11#4
+Kansas City Royals(44-79)@New York Mets(62-60)^1#4
+New York Yankees(82-42)@Cleveland Indians(73-50)^6#5
+Oakland Athletics(71-52)@Houston Astros(78-45)^8#4
+Philadelphia Phillies(64-58)@San Diego Padres(56-65)^3#5
+Pittsburgh Pirates(51-70)@Chicago Cubs(64-58)^0#2
+Tampa Bay Rays(71-52)@Detroit Tigers(37-83)^1#0
+Texas Rangers(59-63)@Minnesota Twins(75-47)^7#12
+Toronto Blue Jays(52-73)@Seattle Mariners(50-73)^3#4
+Washington Nationals(66-55)@Milwaukee Brewers(63-59)^14#15
+Los Angeles Angels(61-64)@Chicago White Sox(55-67)^9#2
+Arizona Diamondbacks(61-63)@San Francisco Giants(63-61)^6#1
+Atlanta Braves(73-52)@Los Angeles Dodgers(82-43)^5#3
+Boston Red Sox(68-58)@Baltimore Orioles(38-85)^13#7
+Cincinnati Reds(58-64)@St. Louis Cardinals(64-57)^4#5
+Colorado Rockies(56-67)@Miami Marlins(45-77)^7#6
+Kansas City Royals(43-81)@New York Mets(64-59)^5#11
+New York Yankees(83-42)@Cleveland Indians(73-51)^4#8
+Oakland Athletics(72-52)@Houston Astros(78-46)^1#4
+Philadelphia Phillies(64-59)@San Diego Padres(57-65)^2#3
+Pittsburgh Pirates(51-71)@Chicago Cubs(65-58)^1#7
+Tampa Bay Rays(72-52)@Detroit Tigers(37-84)^5#4
+Texas Rangers(60-63)@Minnesota Twins(75-48)^3#6
+Toronto Blue Jays(52-74)@Seattle Mariners(51-73)^0#7
+Washington Nationals(67-55)@Milwaukee Brewers(63-60)^16#8
+Arizona Diamondbacks(62-63)@Colorado Rockies(57-67)^5#3
+Baltimore Orioles(39-85)@Kansas City Royals(44-81)^4#5
+Cincinnati Reds(58-65)@San Diego Padres(58-65)^2#3
+Houston Astros(79-46)@Detroit Tigers(37-85)^5#4
+Minnesota Twins(76-48)@Chicago White Sox(55-68)^4#6
+Pittsburgh Pirates(51-72)@Washington Nationals(67-56)^0#13
+St. Louis Cardinals(65-57)@Milwaukee Brewers(64-60)^3#0
+Tampa Bay Rays(73-52)@Seattle Mariners(52-73)^3#9
+Texas Rangers(60-64)@Los Angeles Angels(62-64)^8#7
+Arizona Diamondbacks(63-63)@Colorado Rockies(57-68)^8#7
+Atlanta Braves(74-52)@Miami Marlins(45-78)^5#1
+Baltimore Orioles(39-86)@Kansas City Royals(45-81)^4#1
+Boston Red Sox(68-59)@Philadelphia Phillies(64-60)^2#3
+Chicago Cubs(66-58)@San Francisco Giants(63-62)^5#3
+Cincinnati Reds(58-66)@San Diego Padres(59-65)^3#2
+Houston Astros(80-46)@Detroit Tigers(37-86)^6#3
+Los Angeles Dodgers(83-43)@Toronto Blue Jays(51-76)^16#3
+Minnesota Twins(77-48)@Chicago White Sox(55-69)^14#4
+New York Mets(64-60)@Cleveland Indians(74-51)^9#2
+Oakland Athletics(72-53)@New York Yankees(83-43)^6#2
+Pittsburgh Pirates(51-73)@Washington Nationals(68-56)^4#1
+St. Louis Cardinals(66-57)@Milwaukee Brewers(64-61)^9#4
+Tampa Bay Rays(73-53)@Seattle Mariners(53-73)^4#7
+Texas Rangers(61-64)@Los Angeles Angels(62-65)^1#5
+Texas Rangers(61-65)@Los Angeles Angels(63-65)^3#2
+Arizona Diamondbacks(64-63)@Colorado Rockies(57-69)^2#7
+Atlanta Braves(75-52)@Miami Marlins(45-79)^5#0
+Baltimore Orioles(40-86)@Kansas City Royals(45-82)^8#1
+Boston Red Sox(68-60)@Philadelphia Phillies(65-60)^2#5
+Chicago Cubs(67-58)@San Francisco Giants(63-63)^12#11
+Cincinnati Reds(59-66)@San Diego Padres(59-66)^4#2
+Houston Astros(81-46)@Detroit Tigers(37-87)^1#2
+Los Angeles Dodgers(83-44)@Toronto Blue Jays(52-76)^2#1
+Minnesota Twins(77-49)@Chicago White Sox(56-69)^0#4
+New York Mets(65-60)@Cleveland Indians(74-52)^4#3
+Oakland Athletics(73-53)@New York Yankees(83-44)^6#4
+Pittsburgh Pirates(52-73)@Washington Nationals(68-57)^1#11
+St. Louis Cardinals(67-57)@Milwaukee Brewers(64-62)^3#5
+Tampa Bay Rays(73-54)@Seattle Mariners(54-73)^7#6
+Texas Rangers(62-65)@Los Angeles Angels(63-66)^8#7
+Atlanta Braves(76-52)@Miami Marlins(45-80)^3#2
+Baltimore Orioles(41-86)@Tampa Bay Rays(74-54)^2#5
+Chicago White Sox(57-69)@Texas Rangers(63-65)^6#1
+Chicago Cubs(68-58)@San Francisco Giants(63-64)^1#0
+Houston Astros(81-47)@Detroit Tigers(38-87)^6#3
+Los Angeles Dodgers(84-44)@Toronto Blue Jays(52-77)^3#2
+New York Mets(66-60)@Cleveland Indians(74-53)^2#0
+Oakland Athletics(74-53)@New York Yankees(83-45)^5#3
+Pittsburgh Pirates(52-74)@Washington Nationals(69-57)^1#7
+St. Louis Cardinals(67-58)@Colorado Rockies(58-69)^6#5
+Baltimore Orioles(41-87)@Tampa Bay Rays(75-54)^1#7
+Chicago White Sox(58-69)@Texas Rangers(63-66)^8#3
+Chicago Cubs(69-58)@Washington Nationals(70-57)^3#9
+Cleveland Indians(74-54)@Kansas City Royals(45-83)^4#1
+Houston Astros(82-47)@Los Angeles Angels(63-67)^5#4
+Los Angeles Dodgers(84-45)@New York Yankees(84-45)^2#10
+Miami Marlins(45-81)@Philadelphia Phillies(66-60)^19#11
+Milwaukee Brewers(65-62)@Arizona Diamondbacks(64-64)^6#1
+Minnesota Twins(77-50)@Detroit Tigers(38-88)^6#9
+New York Mets(67-60)@Atlanta Braves(77-52)^1#2
+Pittsburgh Pirates(52-75)@Cincinnati Reds(60-66)^3#2
+San Diego Padres(59-67)@Boston Red Sox(68-61)^0#11
+Seattle Mariners(54-74)@Toronto Blue Jays(52-78)^7#4
+St. Louis Cardinals(68-58)@Colorado Rockies(58-70)^8#3
+Baltimore Orioles(41-88)@Tampa Bay Rays(76-54)^7#1
+Chicago White Sox(59-69)@Texas Rangers(63-67)^0#4
+Chicago Cubs(69-59)@Washington Nationals(71-57)^2#7
+Cleveland Indians(75-54)@Kansas City Royals(45-84)^4#2
+Houston Astros(83-47)@Los Angeles Angels(63-68)^5#2
+Los Angeles Dodgers(85-45)@New York Yankees(84-46)^2#1
+Miami Marlins(46-81)@Philadelphia Phillies(66-61)^3#9
+Milwaukee Brewers(66-62)@Arizona Diamondbacks(64-65)^4#0
+Minnesota Twins(77-51)@Detroit Tigers(39-88)^8#5
+New York Mets(67-61)@Atlanta Braves(78-52)^5#9
+Oakland Athletics(74-54)@San Francisco Giants(64-64)^5#10
+Pittsburgh Pirates(53-75)@Cincinnati Reds(60-67)^14#0
+San Diego Padres(59-68)@Boston Red Sox(69-61)^4#5
+Seattle Mariners(55-74)@Toronto Blue Jays(52-79)^5#7
+St. Louis Cardinals(69-58)@Colorado Rockies(58-71)^6#0
+Baltimore Orioles(42-88)@Tampa Bay Rays(76-55)^8#3
+Chicago White Sox(59-70)@Texas Rangers(64-67)^2#0
+Chicago Cubs(69-60)@Washington Nationals(72-57)^5#7
+Cleveland Indians(76-54)@Kansas City Royals(45-85)^8#9
+Houston Astros(85-46)@Los Angeles Angels(62-70)^11#2
+Los Angeles Dodgers(86-45)@New York Yankees(84-47)^1#5
+Miami Marlins(46-82)@Philadelphia Phillies(67-61)^3#2
+Milwaukee Brewers(67-62)@Arizona Diamondbacks(64-66)^2#5
+Minnesota Twins(78-51)@Detroit Tigers(39-89)^7#4
+New York Mets(67-62)@Atlanta Braves(79-52)^1#2
+Oakland Athletics(75-54)@San Francisco Giants(64-65)^4#5
+Pittsburgh Pirates(54-75)@Cincinnati Reds(60-68)^9#8
+San Diego Padres(59-69)@Boston Red Sox(70-61)^3#1
+Seattle Mariners(55-75)@Toronto Blue Jays(53-79)^3#1
+St. Louis Cardinals(71-57)@Colorado Rockies(57-73)^11#4
+Colorado Rockies(58-73)@Atlanta Braves(80-52)^3#1
+Kansas City Royals(45-86)@Oakland Athletics(76-54)^4#19
+Miami Marlins(47-82)@Cincinnati Reds(60-69)^3#6
+Milwaukee Brewers(66-64)@St. Louis Cardinals(72-57)^2#12
+Philadelphia Phillies(67-62)@Pittsburgh Pirates(55-75)^6#5
+San Diego Padres(60-69)@Los Angeles Dodgers(86-46)^4#3
+Seattle Mariners(56-75)@New York Yankees(85-47)^4#5
+San Francisco Giants(65-65)@Arizona Diamondbacks(65-66)^4#6
+Los Angeles Angels(63-70)@Texas Rangers(64-68)^5#2
+Chicago White Sox(60-70)@Minnesota Twins(79-51)^1#3
+Colorado Rockies(58-74)@Boston Red Sox(71-61)^6#10
+Detroit Tigers(39-90)@Cleveland Indians(76-55)^1#10
+Houston Astros(85-47)@Tampa Bay Rays(76-56)^15#1
+Kansas City Royals(46-86)@Oakland Athletics(76-55)^1#2
+Miami Marlins(47-83)@Cincinnati Reds(61-69)^5#8
+Milwaukee Brewers(67-64)@St. Louis Cardinals(72-58)^3#6
+New York Mets(67-63)@Chicago Cubs(69-61)^2#5
+Philadelphia Phillies(68-62)@Pittsburgh Pirates(55-76)^4#5
+San Diego Padres(61-69)@Los Angeles Dodgers(86-47)^0#9
+Seattle Mariners(56-76)@New York Yankees(86-47)^0#7
+San Francisco Giants(65-66)@Arizona Diamondbacks(66-66)^2#3
+Toronto Blue Jays(53-80)@Atlanta Braves(80-53)^3#1
+Washington Nationals(73-57)@Baltimore Orioles(43-88)^0#2
+Los Angeles Angels(64-70)@Texas Rangers(64-69)^0#3
+Chicago White Sox(60-71)@Minnesota Twins(80-51)^2#8
+Colorado Rockies(59-74)@Boston Red Sox(71-62)^4#7
+Detroit Tigers(39-91)@Cleveland Indians(77-55)^2#4
+Houston Astros(86-47)@Tampa Bay Rays(76-57)^8#6
+Kansas City Royals(46-87)@Oakland Athletics(77-55)^6#4
+Miami Marlins(47-84)@Cincinnati Reds(62-69)^0#5
+Milwaukee Brewers(67-65)@St. Louis Cardinals(73-58)^4#1
+New York Mets(66-65)@Chicago Cubs(71-60)^7#10
+Philadelphia Phillies(69-62)@Pittsburgh Pirates(55-77)^12#3
+San Diego Padres(61-70)@Los Angeles Dodgers(87-47)^4#6
+Seattle Mariners(56-77)@New York Yankees(87-47)^3#7
+Toronto Blue Jays(54-80)@Atlanta Braves(80-54)^4#9
+Washington Nationals(73-58)@Baltimore Orioles(44-88)^8#4
+Arizona Diamondbacks(68-65)@Los Angeles Dodgers(87-48)^11#5
+Chicago White Sox(59-73)@Minnesota Twins(82-50)^5#10
+Colorado Rockies(58-76)@Pittsburgh Pirates(57-76)^8#11
+Detroit Tigers(39-92)@Cleveland Indians(78-55)^0#2
+Houston Astros(87-47)@Tampa Bay Rays(76-58)^8#9
+Kansas City Royals(47-87)@Oakland Athletics(77-56)^8#9
+Miami Marlins(47-85)@Cincinnati Reds(63-69)^4#3
+New York Mets(67-65)@Chicago Cubs(71-61)^1#4
+San Francisco Giants(65-67)@San Diego Padres(61-71)^3#5
+Texas Rangers(65-69)@Seattle Mariners(56-78)^3#5
+Los Angeles Angels(64-71)@Boston Red Sox(72-62)^6#7
+Arizona Diamondbacks(68-66)@Los Angeles Dodgers(88-48)^5#4
+Atlanta Braves(82-53)@Chicago White Sox(59-74)^10#7
+Chicago Cubs(72-61)@Milwaukee Brewers(68-65)^7#1
+Colorado Rockies(59-76)@Pittsburgh Pirates(57-77)^4#9
+Detroit Tigers(38-94)@Minnesota Twins(83-50)^5#13
+Kansas City Royals(46-89)@Baltimore Orioles(45-88)^2#14
+New York Yankees(88-47)@Oakland Athletics(78-56)^2#8
+Philadelphia Phillies(68-64)@New York Mets(68-65)^5#11
+San Francisco Giants(65-68)@San Diego Padres(62-71)^8#3
+Tampa Bay Rays(77-58)@Cleveland Indians(79-55)^4#0
+Texas Rangers(65-70)@Seattle Mariners(57-78)^6#3
+Toronto Blue Jays(54-81)@Houston Astros(87-48)^4#7
+Washington Nationals(74-58)@Miami Marlins(48-85)^7#6
+Los Angeles Angels(65-71)@Boston Red Sox(72-63)^10#4
+Arizona Diamondbacks(69-66)@Los Angeles Dodgers(88-49)^6#5
+Atlanta Braves(83-53)@Chicago White Sox(59-75)^11#5
+Chicago Cubs(73-61)@Milwaukee Brewers(68-66)^0#2
+Colorado Rockies(58-78)@Pittsburgh Pirates(59-76)^4#11
+Detroit Tigers(40-93)@Minnesota Twins(82-52)^10#7
+Kansas City Royals(47-89)@Baltimore Orioles(45-89)^7#5
+New York Yankees(88-48)@Oakland Athletics(79-56)^4#3
+Philadelphia Phillies(69-64)@New York Mets(68-66)^3#6
+San Francisco Giants(66-68)@San Diego Padres(62-72)^1#4
+St. Louis Cardinals(74-58)@Cincinnati Reds(62-71)^10#6
+St. Louis Cardinals(74-59)@Cincinnati Reds(63-71)^3#2
+Tampa Bay Rays(78-58)@Cleveland Indians(79-56)^9#6
+Texas Rangers(66-70)@Seattle Mariners(57-79)^3#2
+Toronto Blue Jays(54-82)@Houston Astros(88-48)^6#4
+Washington Nationals(75-58)@Miami Marlins(48-86)^7#0
+Los Angeles Angels(65-72)@Boston Red Sox(73-63)^3#4
+Arizona Diamondbacks(70-66)@Los Angeles Dodgers(88-50)^3#4
+Atlanta Braves(83-54)@Chicago White Sox(60-75)^5#3
+Chicago Cubs(73-62)@Milwaukee Brewers(69-66)^0#4
+Colorado Rockies(59-78)@Pittsburgh Pirates(59-77)^2#6
+Detroit Tigers(40-94)@Minnesota Twins(83-52)^3#8
+Kansas City Royals(48-89)@Baltimore Orioles(45-90)^6#4
+New York Yankees(89-48)@Oakland Athletics(79-57)^5#4
+Philadelphia Phillies(69-65)@New York Mets(69-66)^5#2
+San Francisco Giants(66-69)@San Diego Padres(63-72)^4#8
+St. Louis Cardinals(75-59)@Cincinnati Reds(63-72)^4#3
+St. Louis Cardinals(76-59)@Cincinnati Reds(63-73)^3#5
+Tampa Bay Rays(79-58)@Cleveland Indians(79-57)^8#2
+Texas Rangers(66-71)@Seattle Mariners(58-79)^3#11
+Toronto Blue Jays(55-82)@Houston Astros(88-49)^0#2
+Washington Nationals(76-58)@Miami Marlins(48-87)^9#3
+Arizona Diamondbacks(71-66)@San Diego Padres(63-73)^14#7
+Atlanta Braves(84-54)@Toronto Blue Jays(55-83)^6#3
+Chicago Cubs(73-63)@Seattle Mariners(58-80)^5#1
+Cincinnati Reds(64-73)@Philadelphia Phillies(70-65)^1#7
+Cleveland Indians(80-57)@Chicago White Sox(59-77)^11#3
+Detroit Tigers(40-95)@Minnesota Twins(84-52)^3#4
+Los Angeles Dodgers(90-49)@Colorado Rockies(58-80)^16#9
+Milwaukee Brewers(70-66)@Houston Astros(89-49)^2#3
+New York Yankees(90-48)@Texas Rangers(67-71)^0#7
+St. Louis Cardinals(76-60)@San Francisco Giants(66-70)^3#1
+Tampa Bay Rays(80-58)@Baltimore Orioles(45-91)^5#4
+Washington Nationals(77-58)@New York Mets(69-67)^3#7
+Arizona Diamondbacks(71-67)@San Diego Padres(64-73)^2#1
+Atlanta Braves(85-54)@Toronto Blue Jays(55-84)^7#2
+Boston Red Sox(74-63)@Minnesota Twins(85-52)^5#6
+Chicago Cubs(74-63)@Seattle Mariners(58-81)^6#1
+Cincinnati Reds(64-74)@Philadelphia Phillies(71-65)^2#6
+Cleveland Indians(80-58)@Chicago White Sox(60-77)^5#6
+Kansas City Royals(49-89)@Detroit Tigers(40-96)^6#5
+Los Angeles Dodgers(90-50)@Colorado Rockies(59-80)^5#3
+Milwaukee Brewers(70-67)@Houston Astros(90-49)^4#2
+New York Yankees(90-49)@Texas Rangers(68-71)^10#1
+Oakland Athletics(79-58)@Los Angeles Angels(65-73)^7#5
+Pittsburgh Pirates(60-77)@Miami Marlins(48-88)^4#5
+St. Louis Cardinals(77-60)@San Francisco Giants(66-71)^1#0
+Tampa Bay Rays(81-58)@Baltimore Orioles(45-92)^2#4
+Tampa Bay Rays(81-59)@Baltimore Orioles(46-92)^2#0
+Washington Nationals(77-59)@New York Mets(70-67)^11#10
+Arizona Diamondbacks(72-67)@San Diego Padres(64-74)^4#1
+Boston Red Sox(74-64)@Minnesota Twins(86-52)^6#2
+Cincinnati Reds(64-75)@Philadelphia Phillies(72-65)^8#5
+Cleveland Indians(80-59)@Chicago White Sox(61-77)^8#6
+Kansas City Royals(50-89)@Detroit Tigers(40-97)^5#4
+Los Angeles Dodgers(91-50)@Colorado Rockies(59-81)^7#3
+New York Yankees(91-49)@Texas Rangers(68-72)^4#1
+Oakland Athletics(80-58)@Los Angeles Angels(65-74)^4#0
+Pittsburgh Pirates(60-78)@Miami Marlins(49-88)^6#5
+St. Louis Cardinals(78-60)@San Francisco Giants(66-72)^8#9
+Washington Nationals(78-59)@New York Mets(70-68)^4#8
+Atlanta Braves(86-54)@Washington Nationals(78-60)^4#2
+Baltimore Orioles(46-93)@Texas Rangers(68-73)^1#3
+Boston Red Sox(75-64)@Minnesota Twins(86-53)^1#2
+Cincinnati Reds(65-75)@Philadelphia Phillies(72-66)^4#3
+Cleveland Indians(81-59)@Chicago White Sox(61-78)^1#7
+Houston Astros(91-49)@Seattle Mariners(57-83)^11#9
+Kansas City Royals(51-89)@Detroit Tigers(40-98)^4#6
+Milwaukee Brewers(70-68)@Chicago Cubs(76-62)^5#10
+Oakland Athletics(82-57)@Los Angeles Angels(64-76)^10#6
+Pittsburgh Pirates(60-79)@Miami Marlins(50-88)^7#10
+St. Louis Cardinals(78-61)@San Francisco Giants(67-72)^10#0
+Tampa Bay Rays(82-59)@Toronto Blue Jays(55-85)^6#4
+Atlanta Braves(87-54)@Washington Nationals(78-61)^4#3
+Baltimore Orioles(46-94)@Texas Rangers(69-73)^6#7
+Boston Red Sox(75-65)@New York Yankees(92-49)^6#1
+Chicago White Sox(62-78)@Los Angeles Angels(65-76)^4#5
+Cincinnati Reds(66-75)@Arizona Diamondbacks(73-67)^5#7
+Houston Astros(91-50)@Seattle Mariners(58-83)^7#4
+Los Angeles Dodgers(92-50)@San Francisco Giants(67-73)^4#5
+Miami Marlins(50-89)@Kansas City Royals(51-90)^0#3
+Milwaukee Brewers(71-68)@Chicago Cubs(76-63)^7#1
+Minnesota Twins(87-53)@Cleveland Indians(81-60)^2#6
+New York Mets(71-68)@Philadelphia Phillies(72-67)^5#4
+Oakland Athletics(82-58)@Detroit Tigers(41-98)^4#5
+Pittsburgh Pirates(61-79)@St. Louis Cardinals(79-61)^9#4
+San Diego Padres(64-75)@Colorado Rockies(59-82)^2#3
+Tampa Bay Rays(83-59)@Toronto Blue Jays(55-86)^5#0
+Atlanta Braves(88-54)@Washington Nationals(78-62)^5#4
+Baltimore Orioles(46-95)@Texas Rangers(70-73)^4#9
+Boston Red Sox(76-65)@New York Yankees(92-50)^1#5
+Chicago White Sox(62-79)@Los Angeles Angels(66-76)^7#8
+Cincinnati Reds(66-76)@Arizona Diamondbacks(74-67)^0#2
+Houston Astros(92-50)@Seattle Mariners(58-84)^2#1
+Los Angeles Dodgers(92-51)@San Francisco Giants(68-73)^0#1
+Miami Marlins(50-90)@Kansas City Royals(52-90)^2#7
+Milwaukee Brewers(72-68)@Chicago Cubs(76-64)^3#2
+Minnesota Twins(87-54)@Cleveland Indians(82-60)^5#3
+New York Mets(72-68)@Philadelphia Phillies(72-68)^0#5
+Oakland Athletics(83-58)@Detroit Tigers(41-99)^10#2
+Pittsburgh Pirates(62-79)@St. Louis Cardinals(79-62)^1#10
+San Diego Padres(64-76)@Colorado Rockies(60-82)^3#0
+Tampa Bay Rays(84-59)@Toronto Blue Jays(55-87)^5#3
+Atlanta Braves(89-54)@Washington Nationals(78-63)^4#9
+Baltimore Orioles(45-97)@Texas Rangers(72-72)^4#10
+Boston Red Sox(75-67)@New York Yankees(94-49)^5#10
+Chicago White Sox(62-80)@Los Angeles Angels(67-76)^5#1
+Cincinnati Reds(66-77)@Arizona Diamondbacks(75-67)^4#3
+Houston Astros(93-50)@Seattle Mariners(58-85)^21#1
+Los Angeles Dodgers(92-52)@San Francisco Giants(69-73)^5#0
+Miami Marlins(50-91)@Kansas City Royals(53-90)^9#0
+Milwaukee Brewers(73-68)@Chicago Cubs(76-65)^8#5
+Minnesota Twins(88-54)@Cleveland Indians(82-61)^2#5
+New York Mets(71-70)@Philadelphia Phillies(74-67)^7#10
+Oakland Athletics(83-59)@Detroit Tigers(42-99)^3#1
+Pittsburgh Pirates(62-80)@St. Louis Cardinals(80-62)^0#2
+San Diego Padres(65-76)@Colorado Rockies(60-83)^2#1
+Tampa Bay Rays(85-59)@Toronto Blue Jays(55-88)^8#3
+Los Angeles Angels(67-77)@Cleveland Indians(83-61)^2#6
+Boston Red Sox(76-67)@New York Yankees(94-50)^0#5
+Houston Astros(94-50)@Oakland Athletics(84-59)^15#0
+Miami Marlins(51-91)@Milwaukee Brewers(74-68)^3#8
+New York Mets(72-70)@Arizona Diamondbacks(75-68)^3#1
+Philadelphia Phillies(74-68)@Atlanta Braves(89-55)^2#7
+San Diego Padres(65-77)@Chicago Cubs(77-65)^2#10
+San Francisco Giants(69-74)@Pittsburgh Pirates(62-81)^4#6
+Los Angeles Angels(67-78)@Cleveland Indians(84-61)^0#8
+Baltimore Orioles(46-97)@Los Angeles Dodgers(93-52)^3#7
+Chicago White Sox(63-80)@Kansas City Royals(53-91)^7#3
+Colorado Rockies(60-84)@St. Louis Cardinals(81-62)^2#1
+Detroit Tigers(42-100)@New York Yankees(95-50)^12#11
+Houston Astros(94-51)@Oakland Athletics(85-59)^7#21
+Miami Marlins(51-92)@Milwaukee Brewers(75-68)^3#4
+Minnesota Twins(88-55)@Washington Nationals(79-63)^5#0
+New York Mets(73-70)@Arizona Diamondbacks(75-69)^3#2
+Philadelphia Phillies(74-69)@Atlanta Braves(90-55)^6#5
+San Diego Padres(66-77)@Chicago Cubs(77-66)^9#8
+Seattle Mariners(58-86)@Cincinnati Reds(67-77)^4#3
+San Francisco Giants(69-75)@Pittsburgh Pirates(63-81)^5#4
+Texas Rangers(72-73)@Tampa Bay Rays(86-59)^3#5
+Toronto Blue Jays(55-89)@Boston Red Sox(76-68)^4#3
+Los Angeles Angels(67-79)@Cleveland Indians(85-61)^3#4
+Baltimore Orioles(46-98)@Los Angeles Dodgers(94-52)^7#3
+Chicago White Sox(64-80)@Kansas City Royals(53-92)^6#8
+Colorado Rockies(61-84)@St. Louis Cardinals(81-63)^2#1
+Houston Astros(95-51)@Oakland Athletics(85-60)^3#5
+Miami Marlins(51-93)@Milwaukee Brewers(76-68)^5#7
+Minnesota Twins(89-55)@Washington Nationals(79-64)^2#6
+New York Mets(74-70)@Arizona Diamondbacks(75-70)^9#0
+Philadelphia Phillies(75-69)@Atlanta Braves(90-56)^1#3
+San Diego Padres(67-77)@Chicago Cubs(77-67)^4#0
+Seattle Mariners(59-86)@Cincinnati Reds(67-78)^5#3
+San Francisco Giants(70-75)@Pittsburgh Pirates(63-82)^3#6
+Texas Rangers(73-73)@Tampa Bay Rays(86-60)^10#9
+Toronto Blue Jays(56-89)@Boston Red Sox(76-69)^8#0
+Baltimore Orioles(47-98)@Los Angeles Dodgers(94-53)^2#4
+Chicago White Sox(64-81)@Kansas City Royals(54-92)^3#6
+Colorado Rockies(61-85)@St. Louis Cardinals(82-63)^3#10
+Detroit Tigers(42-101)@New York Yankees(96-50)^4#10
+Detroit Tigers(43-101)@New York Yankees(96-51)^4#6
+Houston Astros(95-52)@Oakland Athletics(86-60)^2#3
+Miami Marlins(51-94)@Milwaukee Brewers(77-68)^2#3
+Minnesota Twins(88-57)@Washington Nationals(81-63)^6#12
+New York Mets(75-70)@Arizona Diamondbacks(75-71)^11#1
+Philadelphia Phillies(75-70)@Atlanta Braves(91-56)^9#5
+San Diego Padres(68-77)@Chicago Cubs(77-68)^1#4
+Seattle Mariners(59-87)@Cincinnati Reds(68-78)^5#11
+San Francisco Giants(70-76)@Pittsburgh Pirates(64-82)^2#4
+Texas Rangers(73-74)@Tampa Bay Rays(87-60)^6#4
+Toronto Blue Jays(57-89)@Boston Red Sox(76-70)^4#7
+Los Angeles Angels(66-81)@Tampa Bay Rays(88-60)^4#11
+Arizona Diamondbacks(75-72)@Cincinnati Reds(68-79)^3#4
+Chicago Cubs(79-67)@Pittsburgh Pirates(64-83)^17#8
+Colorado Rockies(63-84)@San Diego Padres(67-79)^10#8
+Detroit Tigers(43-102)@Baltimore Orioles(47-99)^2#6
+Kansas City Royals(55-92)@Houston Astros(95-53)^1#4
+New York Mets(76-70)@Los Angeles Dodgers(95-53)^2#9
+Seattle Mariners(60-87)@Chicago White Sox(64-82)^7#9
+San Francisco Giants(70-77)@Miami Marlins(51-95)^1#0
+St. Louis Cardinals(82-64)@Milwaukee Brewers(78-68)^10#0
+Texas Rangers(73-75)@Oakland Athletics(88-59)^9#14
+Toronto Blue Jays(57-90)@New York Yankees(97-51)^6#5
+Washington Nationals(81-64)@Atlanta Braves(91-57)^0#5
+Los Angeles Angels(67-81)@Tampa Bay Rays(88-61)^1#3
+Arizona Diamondbacks(75-73)@Cincinnati Reds(69-79)^1#0
+Chicago Cubs(79-68)@Pittsburgh Pirates(65-83)^14#1
+Cleveland Indians(86-61)@Minnesota Twins(89-57)^0#2
+Cleveland Indians(86-62)@Minnesota Twins(90-57)^5#9
+Colorado Rockies(63-85)@San Diego Padres(68-79)^11#10
+Detroit Tigers(43-103)@Baltimore Orioles(48-99)^8#4
+Kansas City Royals(55-93)@Houston Astros(96-53)^1#6
+New York Mets(76-71)@Los Angeles Dodgers(96-53)^3#0
+Philadelphia Phillies(76-70)@Boston Red Sox(77-70)^1#2
+Seattle Mariners(60-88)@Chicago White Sox(65-82)^2#1
+San Francisco Giants(71-77)@Miami Marlins(51-96)^2#4
+St. Louis Cardinals(83-64)@Milwaukee Brewers(78-69)^2#5
+Texas Rangers(74-75)@Oakland Athletics(88-60)^6#8
+Toronto Blue Jays(57-91)@New York Yankees(98-51)^3#13
+Washington Nationals(81-65)@Atlanta Braves(92-57)^1#10
+Los Angeles Angels(67-82)@Tampa Bay Rays(89-61)^6#4
+Arizona Diamondbacks(76-73)@Cincinnati Reds(69-80)^1#3
+Chicago Cubs(81-67)@Pittsburgh Pirates(64-85)^16#6
+Cleveland Indians(86-63)@Minnesota Twins(91-57)^7#5
+Colorado Rockies(65-84)@San Diego Padres(67-81)^10#5
+Detroit Tigers(44-103)@Baltimore Orioles(48-100)^2#8
+Kansas City Royals(54-95)@Houston Astros(98-52)^3#12
+New York Mets(77-71)@Los Angeles Dodgers(96-54)^2#3
+Philadelphia Phillies(76-71)@Boston Red Sox(78-70)^3#6
+Seattle Mariners(61-88)@Chicago White Sox(65-83)^11#10
+San Francisco Giants(71-78)@Miami Marlins(52-96)^2#1
+St. Louis Cardinals(83-65)@Milwaukee Brewers(79-69)^6#7
+Texas Rangers(74-76)@Oakland Athletics(89-60)^1#6
+Toronto Blue Jays(58-91)@New York Yankees(98-52)^6#4
+Washington Nationals(81-66)@Atlanta Braves(93-57)^7#0
+Arizona Diamondbacks(76-74)@Miami Marlins(52-97)^7#5
+Chicago Cubs(81-68)@Cincinnati Reds(70-80)^8#2
+Colorado Rockies(65-85)@New York Mets(77-72)^9#4
+Detroit Tigers(44-104)@Baltimore Orioles(49-100)^5#2
+Milwaukee Brewers(80-69)@San Diego Padres(68-81)^5#1
+Minnesota Twins(91-58)@Chicago White Sox(65-84)^5#3
+Oakland Athletics(90-60)@Kansas City Royals(55-95)^5#6
+St. Louis Cardinals(83-66)@Washington Nationals(82-66)^4#2
+Arizona Diamondbacks(76-75)@Miami Marlins(53-97)^6#12
+Atlanta Braves(93-58)@Philadelphia Phillies(76-72)^4#5
+Baltimore Orioles(49-101)@Toronto Blue Jays(59-91)^5#8
+Boston Red Sox(79-70)@San Francisco Giants(72-78)^6#7
+Chicago Cubs(82-68)@Cincinnati Reds(70-81)^2#4
+Cleveland Indians(87-63)@Detroit Tigers(45-104)^7#2
+Colorado Rockies(66-85)@New York Mets(77-73)^1#6
+Houston Astros(98-53)@Texas Rangers(74-77)^4#1
+Los Angeles Dodgers(97-54)@Tampa Bay Rays(89-62)^7#5
+Milwaukee Brewers(81-69)@San Diego Padres(68-82)^3#1
+Minnesota Twins(92-58)@Chicago White Sox(65-85)^9#8
+New York Yankees(98-53)@Los Angeles Angels(68-82)^8#0
+Oakland Athletics(90-61)@Kansas City Royals(56-95)^2#1
+Pittsburgh Pirates(65-85)@Seattle Mariners(62-88)^0#6
+St. Louis Cardinals(84-66)@Washington Nationals(82-67)^2#6
+Arizona Diamondbacks(77-75)@Miami Marlins(53-98)^5#4
+Atlanta Braves(93-59)@Philadelphia Phillies(77-72)^1#4
+Baltimore Orioles(49-102)@Toronto Blue Jays(60-91)^10#11
+Boston Red Sox(78-72)@San Francisco Giants(74-77)^3#11
+Chicago Cubs(82-69)@Cincinnati Reds(71-81)^2#3
+Cleveland Indians(88-63)@Detroit Tigers(45-105)^2#1
+Colorado Rockies(66-86)@New York Mets(78-73)^4#7
+Houston Astros(99-53)@Texas Rangers(74-78)^3#2
+Los Angeles Dodgers(98-54)@Tampa Bay Rays(89-63)^7#8
+Milwaukee Brewers(82-69)@San Diego Padres(68-83)^1#2
+Minnesota Twins(93-58)@Chicago White Sox(65-86)^1#3
+New York Yankees(99-53)@Los Angeles Angels(68-83)^2#3
+Oakland Athletics(91-61)@Kansas City Royals(56-96)^1#0
+Pittsburgh Pirates(65-86)@Seattle Mariners(63-88)^1#4
+St. Louis Cardinals(84-67)@Washington Nationals(83-67)^5#1
+Atlanta Braves(93-60)@Philadelphia Phillies(78-72)^5#4
+Baltimore Orioles(49-103)@Toronto Blue Jays(61-91)^4#8
+Boston Red Sox(79-72)@San Francisco Giants(74-78)^5#4
+Chicago Cubs(82-70)@St. Louis Cardinals(85-67)^4#5
+Cleveland Indians(89-63)@Detroit Tigers(45-106)^7#0
+Milwaukee Brewers(82-70)@San Diego Padres(69-83)^5#1
+Minnesota Twins(93-59)@Kansas City Royals(56-97)^8#5
+New York Yankees(99-54)@Los Angeles Angels(69-83)^9#1
+Pittsburgh Pirates(65-87)@Seattle Mariners(64-88)^5#6
+Atlanta Braves(94-60)@San Francisco Giants(74-79)^6#0
+Baltimore Orioles(49-104)@Seattle Mariners(65-88)^5#3
+Chicago Cubs(82-71)@St. Louis Cardinals(86-67)^1#2
+Cincinnati Reds(72-81)@New York Mets(79-73)^1#8
+Cleveland Indians(90-63)@Philadelphia Phillies(78-73)^5#2
+Detroit Tigers(45-107)@Chicago White Sox(66-86)^1#10
+Houston Astros(100-53)@Los Angeles Angels(69-84)^6#4
+Los Angeles Dodgers(99-54)@Colorado Rockies(65-88)^12#5
+Miami Marlins(53-99)@Washington Nationals(83-68)^4#6
+Milwaukee Brewers(83-70)@Pittsburgh Pirates(65-88)^10#1
+Minnesota Twins(94-59)@Kansas City Royals(56-98)^4#3
+New York Yankees(100-54)@Toronto Blue Jays(62-91)^3#4
+Oakland Athletics(92-61)@Texas Rangers(74-79)^8#0
+San Diego Padres(69-84)@Arizona Diamondbacks(78-75)^0#9
+Tampa Bay Rays(90-63)@Boston Red Sox(80-72)^5#4
+Atlanta Braves(95-60)@San Francisco Giants(74-80)^8#1
+Baltimore Orioles(50-104)@Seattle Mariners(65-89)^6#7
+Chicago Cubs(82-72)@St. Louis Cardinals(87-67)^8#9
+Cincinnati Reds(72-82)@New York Mets(80-73)^3#2
+Cleveland Indians(91-63)@Philadelphia Phillies(78-74)^4#9
+Detroit Tigers(45-108)@Chicago White Sox(67-86)^3#5
+Houston Astros(101-53)@Los Angeles Angels(69-85)^4#8
+Los Angeles Dodgers(99-55)@Colorado Rockies(66-88)^2#4
+Miami Marlins(52-101)@Washington Nationals(85-67)^4#10
+Milwaukee Brewers(84-70)@Pittsburgh Pirates(65-89)^10#1
+Minnesota Twins(94-60)@Kansas City Royals(57-98)^5#12
+New York Yankees(100-55)@Toronto Blue Jays(63-91)^7#2
+Oakland Athletics(94-60)@Texas Rangers(73-81)^12#3
+San Diego Padres(69-85)@Arizona Diamondbacks(79-75)^2#4
+Tampa Bay Rays(91-63)@Boston Red Sox(80-73)^5#4
+Atlanta Braves(96-60)@San Francisco Giants(74-81)^1#4
+Baltimore Orioles(50-105)@Seattle Mariners(66-89)^2#1
+Chicago Cubs(82-73)@St. Louis Cardinals(88-67)^2#3
+Cincinnati Reds(73-82)@New York Mets(80-74)^3#6
+Cleveland Indians(91-64)@Philadelphia Phillies(79-74)^10#1
+Detroit Tigers(45-109)@Chicago White Sox(68-86)^6#3
+Houston Astros(102-53)@Los Angeles Angels(69-86)^13#5
+Los Angeles Dodgers(99-56)@Colorado Rockies(67-88)^7#4
+Miami Marlins(53-101)@Washington Nationals(85-68)^5#3
+Milwaukee Brewers(85-70)@Pittsburgh Pirates(65-90)^4#3
+Minnesota Twins(96-59)@Kansas City Royals(56-100)^12#8
+New York Yankees(101-55)@Toronto Blue Jays(63-92)^8#3
+Oakland Athletics(94-61)@Texas Rangers(74-81)^3#8
+San Diego Padres(69-86)@Arizona Diamondbacks(80-75)^6#4
+Tampa Bay Rays(92-63)@Boston Red Sox(80-74)^4#7
+Arizona Diamondbacks(80-76)@St. Louis Cardinals(89-67)^7#9
+New York Mets(81-74)@Miami Marlins(54-101)^4#8
+Tampa Bay Rays(92-64)@Boston Red Sox(81-74)^7#4
+Toronto Blue Jays(63-93)@Baltimore Orioles(51-105)^11#10
+Washington Nationals(85-69)@Philadelphia Phillies(79-75)^7#2
+Los Angeles Angels(70-86)@Oakland Athletics(94-62)^3#2
+Arizona Diamondbacks(80-77)@St. Louis Cardinals(90-67)^3#2
+Chicago White Sox(68-87)@Cleveland Indians(92-64)^0#11
+Cincinnati Reds(73-83)@Milwaukee Brewers(86-70)^2#4
+Detroit Tigers(46-109)@Minnesota Twins(96-60)^2#4
+Kansas City Royals(57-100)@Atlanta Braves(96-61)^9#6
+New York Mets(81-75)@Miami Marlins(55-101)^5#4
+Pittsburgh Pirates(65-91)@Chicago Cubs(82-74)^9#2
+San Diego Padres(70-86)@Los Angeles Dodgers(100-56)^3#6
+Seattle Mariners(66-90)@Houston Astros(102-54)^0#3
+San Francisco Giants(75-81)@Colorado Rockies(67-89)^5#8
+Tampa Bay Rays(93-64)@New York Yankees(102-55)^2#1
+Texas Rangers(75-81)@Boston Red Sox(81-75)^10#12
+Toronto Blue Jays(63-94)@Baltimore Orioles(52-105)^4#11
+Washington Nationals(86-69)@Philadelphia Phillies(79-76)^4#1
+Washington Nationals(87-69)@Philadelphia Phillies(79-77)^6#5
+Los Angeles Angels(71-86)@Oakland Athletics(94-63)^2#3
+Arizona Diamondbacks(81-77)@St. Louis Cardinals(90-68)^9#7
+Chicago White Sox(68-88)@Cleveland Indians(93-64)^8#3
+Cincinnati Reds(73-84)@Milwaukee Brewers(87-70)^2#9
+Detroit Tigers(46-110)@Minnesota Twins(97-60)^1#5
+Kansas City Royals(57-101)@Atlanta Braves(97-61)^2#10
+New York Mets(83-74)@Miami Marlins(54-103)^10#3
+Pittsburgh Pirates(66-91)@Chicago Cubs(82-75)^4#2
+San Diego Padres(70-87)@Los Angeles Dodgers(101-56)^4#6
+Seattle Mariners(66-91)@Houston Astros(103-54)^0#3
+San Francisco Giants(75-82)@Colorado Rockies(68-89)^2#1
+Tampa Bay Rays(94-64)@New York Yankees(102-56)^4#0
+Texas Rangers(74-83)@Boston Red Sox(83-74)^3#10
+Toronto Blue Jays(64-94)@Baltimore Orioles(52-106)^3#2
+Washington Nationals(88-69)@Philadelphia Phillies(79-78)^5#2
+Los Angeles Angels(71-87)@Houston Astros(104-54)^4#3
+Chicago White Sox(69-88)@Cleveland Indians(93-65)^8#0
+Cincinnati Reds(73-85)@Milwaukee Brewers(88-70)^3#5
+Detroit Tigers(45-112)@Minnesota Twins(99-59)^4#10
+New York Mets(83-75)@Miami Marlins(55-103)^2#4
+Pittsburgh Pirates(67-91)@Chicago Cubs(82-76)^9#5
+San Diego Padres(70-88)@Los Angeles Dodgers(102-56)^0#1
+Seattle Mariners(66-92)@Oakland Athletics(95-63)^1#3
+San Francisco Giants(76-82)@Colorado Rockies(68-90)^8#3
+Texas Rangers(75-83)@Boston Red Sox(83-75)^7#5
+Washington Nationals(89-69)@Philadelphia Phillies(79-79)^6#3
+Los Angeles Angels(72-87)@Houston Astros(104-55)^0#4
+Arizona Diamondbacks(82-77)@San Diego Padres(70-89)^6#3
+Boston Red Sox(83-76)@Baltimore Orioles(52-107)^1#4
+Colorado Rockies(69-90)@Milwaukee Brewers(88-71)^11#7
+Kansas City Royals(58-101)@Minnesota Twins(99-60)^2#6
+New York Mets(83-76)@Atlanta Braves(97-62)^4#2
+Philadelphia Phillies(79-80)@Miami Marlins(56-103)^5#4
+Pittsburgh Pirates(68-91)@Cincinnati Reds(73-86)^6#5
+Seattle Mariners(66-93)@Oakland Athletics(96-63)^4#3
+San Francisco Giants(77-82)@Los Angeles Dodgers(103-56)^2#9
+St. Louis Cardinals(90-69)@Chicago Cubs(82-77)^2#8
+Texas Rangers(75-84)@New York Yankees(103-56)^7#14
+Toronto Blue Jays(65-94)@Tampa Bay Rays(95-64)^2#6
+Washington Nationals(90-69)@Cleveland Indians(93-66)^8#2
+Los Angeles Angels(72-88)@Houston Astros(105-55)^3#6
+Arizona Diamondbacks(83-77)@San Diego Padres(70-90)^6#5
+Boston Red Sox(83-77)@Baltimore Orioles(53-107)^4#9
+Chicago White Sox(70-88)@Detroit Tigers(46-112)^7#1
+Chicago White Sox(71-88)@Detroit Tigers(46-113)^3#4
+Colorado Rockies(69-91)@Milwaukee Brewers(89-71)^3#2
+Kansas City Royals(58-102)@Minnesota Twins(100-60)^3#4
+New York Mets(84-76)@Atlanta Braves(97-63)^3#0
+Philadelphia Phillies(80-80)@Miami Marlins(56-104)^9#3
+Pittsburgh Pirates(69-91)@Cincinnati Reds(73-87)^2#4
+Seattle Mariners(67-93)@Oakland Athletics(96-64)^0#1
+San Francisco Giants(77-83)@Los Angeles Dodgers(104-56)^0#2
+St. Louis Cardinals(90-70)@Chicago Cubs(83-77)^6#8
+Texas Rangers(76-84)@New York Yankees(103-57)^9#4
+Toronto Blue Jays(65-95)@Tampa Bay Rays(96-64)^4#1
+Washington Nationals(92-68)@Cleveland Indians(92-68)^10#7
+Los Angeles Angels(72-89)@Houston Astros(106-55)^5#8
+Arizona Diamondbacks(84-77)@San Diego Padres(70-91)^1#0
+Boston Red Sox(83-78)@Baltimore Orioles(54-107)^5#4
+Chicago White Sox(71-89)@Detroit Tigers(47-113)^5#3
+Colorado Rockies(70-91)@Milwaukee Brewers(89-72)^4#3
+Kansas City Royals(58-103)@Minnesota Twins(101-60)^5#4
+New York Mets(85-76)@Atlanta Braves(97-64)^7#6
+Philadelphia Phillies(81-80)@Miami Marlins(56-105)^3#4
+Pittsburgh Pirates(69-92)@Cincinnati Reds(74-87)^1#3
+Seattle Mariners(67-94)@Oakland Athletics(97-64)^3#1
+San Francisco Giants(77-84)@Los Angeles Dodgers(105-56)^0#9
+St. Louis Cardinals(90-71)@Chicago Cubs(84-77)^9#0
+Texas Rangers(77-84)@New York Yankees(103-58)^6#1
+Toronto Blue Jays(66-95)@Tampa Bay Rays(96-65)^8#3
+Washington Nationals(92-69)@Cleveland Indians(93-68)^8#2
