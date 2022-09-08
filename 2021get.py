@@ -4,6 +4,24 @@ import json
 from bs4 import BeautifulSoup
 from json import JSONEncoder
 
+class Result:
+	def __init__(self, info: str) -> None:
+		self.info = info
+		self.build()
+
+	def build(self) -> None:
+		outcome = re.split('\(|\)|@|#|\^', self.info)
+
+		self.home = outcome[0]
+		self.homeRecord = outcome[1]
+		self.away = outcome[3]
+		self.awayRecord = outcome[4]
+		self.homeScore = outcome[6]
+		self.awayScore = outcome[7]
+
+	def jsonify(self) -> str:
+		return json.dumps(self, indent=4,cls=Encoder)
+
 class Box:
 	def __init__(self, gameUrl: str) -> None:
 		self.url = gameUrl
@@ -68,11 +86,7 @@ def get_url_list() -> list:
 
 	return games
 
-class Encoder(JSONEncoder):
-	def default(self, o):
-		return o.__dict__
-
-if __name__ == "__main__":
+def write() -> None:
 	urls = get_url_list()
 
 	f = open("2019.txt", "a")
@@ -83,3 +97,27 @@ if __name__ == "__main__":
 		f.write("%s(%s)@%s(%s)^%s#%s\n" % (bs.home, bs.homeRecord, bs.away, bs.awayRecord, bs.homeScore, bs.awayScore))
 
 	f.close()
+
+def read(year: str) -> list:
+	f = open(year + ".txt", "r")
+	data = f.read()
+	data = data.split("\n")
+	data = data[:len(data) - 1]
+
+	scores = []
+
+	for line in data:
+		score = Result(line)
+		scores.append(score)
+
+	return scores
+
+class Encoder(JSONEncoder):
+	def default(self, o):
+		return o.__dict__
+
+if __name__ == "__main__":
+	outcomes = read("2019")
+
+	print(outcomes[100].jsonify())
+
