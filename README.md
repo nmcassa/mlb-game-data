@@ -22,3 +22,25 @@ Baltimore Orioles(17-25)@Tampa Bay Rays(25-19)^1#10
 ```
 
 The Orioles are the Home Team. Sorry, that's confusing. Was just using the @^# symbols to make parsing later on easier.
+
+## Read
+
+```python
+outcomes = read("2019")
+
+print(outcomes[100].jsonify())
+```
+
+returns:
+
+```json
+{
+    "info": "Pittsburgh Pirates(1-3)@Cincinnati Reds(1-4)^2#0",
+    "home": "Pittsburgh Pirates",
+    "homeRecord": "1-3",
+    "away": "Cincinnati Reds",
+    "awayRecord": "1-4",
+    "homeScore": "2",
+    "awayScore": "0"
+}
+```
