@@ -36,11 +36,15 @@ returns:
 ```json
 {
     "info": "Pittsburgh Pirates(1-3)@Cincinnati Reds(1-4)^2#0",
-    "home": "Pittsburgh Pirates",
-    "homeRecord": "1-3",
-    "away": "Cincinnati Reds",
-    "awayRecord": "1-4",
-    "homeScore": "2",
-    "awayScore": "0"
+    "home": {
+        "Team": "Pittsburgh Pirates",
+        "Record": "1-3",
+        "Score": "2"
+    },
+    "away": {
+        "Team": "Cincinnati Reds",
+        "Record": "1-4",
+        "Score": "0"
+    }
 }
 ```

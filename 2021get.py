@@ -12,12 +12,12 @@ class Result:
 	def build(self) -> None:
 		outcome = re.split('\(|\)|@|#|\^', self.info)
 
-		self.home = outcome[0]
-		self.homeRecord = outcome[1]
-		self.away = outcome[3]
-		self.awayRecord = outcome[4]
-		self.homeScore = outcome[6]
-		self.awayScore = outcome[7]
+		self.home = {'Team': outcome[0]}
+		self.home['Record'] = outcome[1]
+		self.away = {'Team': outcome[3]}
+		self.away['Record'] = outcome[4]
+		self.home['Score'] = outcome[6]
+		self.away['Score'] = outcome[7]
 
 	def jsonify(self) -> str:
 		return json.dumps(self, indent=4,cls=Encoder)
