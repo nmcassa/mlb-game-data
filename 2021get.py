@@ -3,6 +3,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from json import JSONEncoder
+import numpy
 
 class Result:
 	def __init__(self, info: str) -> None:
@@ -76,7 +77,7 @@ def get_parsed_page(url: str) -> None:
 def get_url_list() -> list:
 	page = get_parsed_page("https://www.baseball-reference.com/leagues/majors/2019-schedule.shtml")
 
-	data = page.find("div", {'id': "all_9125626744"})
+	data = page.find("div", {'id': "all_8500011529"})
 	data = data.findAll("em")
 
 	games = []
@@ -116,8 +117,56 @@ class Encoder(JSONEncoder):
 	def default(self, o):
 		return o.__dict__
 
+def total_runs_std():
+	outcomes = read("2019")
+
+	runs = []
+
+	for outcome in outcomes:
+		runs.append(int(outcome.home['Score']) + int(outcome.away['Score']))
+	
+	runs_average = numpy.average(runs)
+	runs_std = numpy.std(runs)
+
+	print(f'Total Runs\n Average: {runs_average}\n Std: {runs_std}')
+
+	return runs_std
+
+def home_runs_std():
+	outcomes = read("2019")
+
+	runs = []
+
+	for outcome in outcomes:
+		runs.append(int(outcome.home['Score']))
+	
+	runs_average = numpy.average(runs)
+	runs_std = numpy.std(runs)
+
+	print(f'Home Team Runs\n Average: {runs_average}\n Std: {runs_std}')
+
+	return runs_std
+
+def away_runs_std():
+	outcomes = read("2019")
+
+	runs = []
+
+	for outcome in outcomes:
+		runs.append(int(outcome.away['Score']))
+	
+	runs_average = numpy.average(runs)
+	runs_std = numpy.std(runs)
+
+	print(f'Away Team Runs\n Average: {runs_average}\n Std: {runs_std}')
+
+	return runs_std
+
 if __name__ == "__main__":
 	outcomes = read("2019")
 
 	print(outcomes[100].jsonify())
 
+	total_runs_std()
+	home_runs_std()
+	away_runs_std()
