@@ -1,9 +1,9 @@
 # Keegan Todo
 
 ## SOON (THIS WEEK)
-- std of total runs
-- std of home team runs 
-- std of away team runs
+- std of total runs (Done 9/19)
+- std of home team runs (Done 9/19)
+- std of away team runs (Done 9/19)
 
 -----------
 
