@@ -48,3 +48,17 @@ returns:
     }
 }
 ```
+
+### std
+
+```python
+Total Runs
+ Average: 9.661177439275422
+ Std: 4.75899828210121
+Home Team Runs
+ Average: 4.824619184849732
+ Std: 3.218493786398544
+Away Team Runs
+ Average: 4.8365582544256895
+ Std: 3.4225004177520515
+```
