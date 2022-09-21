@@ -117,8 +117,8 @@ class Encoder(JSONEncoder):
 	def default(self, o):
 		return o.__dict__
 
-def total_runs_std():
-	outcomes = read("2019")
+def total_runs_std(year: str) -> tuple:
+	outcomes = read(year)
 
 	runs = []
 
@@ -128,12 +128,10 @@ def total_runs_std():
 	runs_average = numpy.average(runs)
 	runs_std = numpy.std(runs)
 
-	print(f'Total Runs\n Average: {runs_average}\n Std: {runs_std}')
+	return (runs_average, runs_std)
 
-	return runs_std
-
-def home_runs_std():
-	outcomes = read("2019")
+def home_runs_std(year: str) -> tuple:
+	outcomes = read(year)
 
 	runs = []
 
@@ -143,12 +141,10 @@ def home_runs_std():
 	runs_average = numpy.average(runs)
 	runs_std = numpy.std(runs)
 
-	print(f'Home Team Runs\n Average: {runs_average}\n Std: {runs_std}')
+	return (runs_average, runs_std)
 
-	return runs_std
-
-def away_runs_std():
-	outcomes = read("2019")
+def away_runs_std(year: str) -> tuple:
+	outcomes = read(year)
 
 	runs = []
 
@@ -158,15 +154,54 @@ def away_runs_std():
 	runs_average = numpy.average(runs)
 	runs_std = numpy.std(runs)
 
-	print(f'Away Team Runs\n Average: {runs_average}\n Std: {runs_std}')
+	return (runs_average, runs_std)
 
-	return runs_std
+def home_wins_away_wins(year: str) -> tuple:
+	outcomes = read(year)
+
+	home_wins = 0
+	away_wins = 0
+
+	for outcome in outcomes:
+		if outcome.home['Score'] > outcome.away['Score']:
+			home_wins += 1
+		else:
+			away_wins += 1
+	
+	return (home_wins, away_wins)
+
+def runs(year: str) -> tuple:
+	outcomes = read(year)
+
+	home_runs = 0
+	away_runs = 0
+
+	for outcome in outcomes:
+		home_runs += int(outcome.home['Score'])
+		away_runs += int(outcome.away['Score'])
+	
+	return (home_runs, away_runs)
+
+def print_data(year: str):
+	trs = total_runs_std(year)
+	hrs = home_runs_std(year)
+	ars = away_runs_std(year)
+	ha = home_wins_away_wins(year)
+	rs = runs(year)
+
+	print(year)
+	print(f' Total Runs\n  Average: {trs[0]}\n  Std: {trs[1]}')
+	print(f' Home Team Runs\n  Average: {hrs[0]}\n  Std: {hrs[1]}')
+	print(f' Away Team Runs\n  Average: {ars[0]}\n  Std: {ars[1]}')
+	print(f' Home team wins: {ha[0]}\n Away team wins: {ha[1]}')
+	print(f' Home team runs: {rs[0]}\n Away team runs: {rs[1]}')
 
 if __name__ == "__main__":
 	outcomes = read("2019")
 
 	print(outcomes[100].jsonify())
 
-	total_runs_std()
-	home_runs_std()
-	away_runs_std()
+	print_data("2021")
+	print()
+	print_data("2019")
+
