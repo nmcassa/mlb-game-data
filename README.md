@@ -52,13 +52,33 @@ returns:
 ### std
 
 ```python
-Total Runs
- Average: 9.661177439275422
- Std: 4.75899828210121
-Home Team Runs
- Average: 4.824619184849732
- Std: 3.218493786398544
-Away Team Runs
- Average: 4.8365582544256895
- Std: 3.4225004177520515
+2021
+ Total Runs
+  Average: 9.06134211609716
+  Std: 4.517194633260302
+ Home Team Runs
+  Average: 4.606422396047757
+  Std: 3.181729167984497
+ Away Team Runs
+  Average: 4.454919720049403
+  Std: 3.184870167927786
+ Home team wins: 1307
+ Away team wins: 1122
+ Home team runs: 11189
+ Away team runs: 10821
+
+2019
+ Total Runs
+  Average: 9.661177439275422
+  Std: 4.75899828210121
+ Home Team Runs
+  Average: 4.824619184849732
+  Std: 3.218493786398544
+ Away Team Runs
+  Average: 4.8365582544256895
+  Std: 3.4225004177520515
+ Home team wins: 1319
+ Away team wins: 1110
+ Home team runs: 11719
+ Away team runs: 11748
 ```
